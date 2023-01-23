@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/pea-coat-with-leather-patches-studio-nicholson-p02521501.html?v1=187003815"
   },
   {
+    "name": "WOOL-SILK BLEND ZIP-UP SWEATER - LIMITED EDITION",
+    "price": 199000,
+    "discount": 81,
+    "link": "https://www.zara.com/in/en/wool-silk-blend-zip-up-sweater---limited-edition-p00693329.html?v1=200060815"
+  },
+  {
     "name": "REVERSIBLE NEON TROUSERS - LIMITED EDITION",
     "price": 179000,
     "discount": 77,
@@ -22,6 +28,12 @@
     "price": 399000,
     "discount": 76,
     "link": "https://www.zara.com/in/en/water-repellent-trench-coat-p00706385.html?v1=195880545"
+  },
+  {
+    "name": "ZIP-UP CARDIGAN",
+    "price": 199000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/zip-up-cardigan-p00693317.html?v1=191331773"
   },
   {
     "name": "LINEN BLEND BLAZER",
@@ -66,6 +78,24 @@
     "link": "https://www.zara.com/in/en/water-repellent-trench-coat-studio-nicholson-p06518500.html?v1=184764082"
   },
   {
+    "name": "CASHMERE BLEND SWEATER",
+    "price": 199000,
+    "discount": 71,
+    "link": "https://www.zara.com/in/en/cashmere-blend-sweater-p00632303.html?v1=187259861"
+  },
+  {
+    "name": "100% WOOL KNIT POLO SWEATER",
+    "price": 199000,
+    "discount": 71,
+    "link": "https://www.zara.com/in/en/100-wool-knit-polo-sweater-p00693314.html?v1=191113469"
+  },
+  {
+    "name": "100% WOOL SWEATER",
+    "price": 199000,
+    "discount": 71,
+    "link": "https://www.zara.com/in/en/100-wool-sweater-p00693313.html?v1=191113338"
+  },
+  {
     "name": "DOUBLE-BREASTED COAT",
     "price": 399000,
     "discount": 71,
@@ -102,6 +132,18 @@
     "link": "https://www.zara.com/in/en/poplin-shirt-with-pocket-p07545507.html?v1=195926384"
   },
   {
+    "name": "POPLIN SHIRT WITH POCKET",
+    "price": 149000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/poplin-shirt-with-pocket-p07545507.html?v1=195926385"
+  },
+  {
+    "name": "WOOL BLEND TROUSERS WITH PLEATS",
+    "price": 179000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/wool-blend-trousers-with-pleats-p08288310.html?v1=191318455"
+  },
+  {
     "name": "DOUBLE-BREASTED BLAZER",
     "price": 299000,
     "discount": 70,
@@ -136,12 +178,6 @@
     "price": 299000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/double-breasted-suit-blazer-p02674303.html?v1=187247972"
-  },
-  {
-    "name": "WOOL BLEND TROUSERS WITH PLEATS",
-    "price": 179000,
-    "discount": 70,
-    "link": "https://www.zara.com/in/en/wool-blend-trousers-with-pleats-p08288310.html?v1=191318455"
   },
   {
     "name": "LINEN BLEND SUIT BLAZER",
@@ -240,22 +276,16 @@
     "link": "https://www.zara.com/in/en/check-bermuda-shorts-p01300312.html?v1=183715180"
   },
   {
-    "name": "TEXTURED BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/textured-bermuda-shorts-p00706307.html?v1=178951692"
-  },
-  {
     "name": "PINSTRIPED SUIT BLAZER",
     "price": 299000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/pinstriped-suit-blazer-p05527144.html?v1=178796668"
   },
   {
-    "name": "POPLIN PYJAMA SHIRT",
+    "name": "TEXTURED BERMUDA SHORTS",
     "price": 99000,
     "discount": 66,
-    "link": "https://www.zara.com/in/en/poplin-pyjama-shirt-p00775317.html?v1=191129801"
+    "link": "https://www.zara.com/in/en/textured-bermuda-shorts-p00706307.html?v1=178951692"
   },
   {
     "name": "POPLIN PYJAMA SHIRT",
@@ -270,6 +300,12 @@
     "link": "https://www.zara.com/in/en/textured-striped-bermuda-shorts-p00706304.html?v1=178951683"
   },
   {
+    "name": "POPLIN PYJAMA SHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/poplin-pyjama-shirt-p00775317.html?v1=191129801"
+  },
+  {
     "name": "SUIT BLAZER",
     "price": 299000,
     "discount": 66,
@@ -282,16 +318,16 @@
     "link": "https://www.zara.com/in/en/quilted-hooded-parka-p03427484.html?v1=236541628"
   },
   {
-    "name": "OVERSIZE SWEATER",
-    "price": 199000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/oversize-sweater-p01023345.html?v1=205479538"
-  },
-  {
     "name": "GEOMETRIC PRINT BERMUDA SHORTS",
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/geometric-print-bermuda-shorts-p06416302.html?v1=205911760"
+  },
+  {
+    "name": "OVERSIZE SWEATER",
+    "price": 199000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/oversize-sweater-p01023345.html?v1=205479538"
   },
   {
     "name": "CHECKED SUIT BLAZER",
@@ -388,12 +424,6 @@
     "price": 299000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/suit-blazer-p05851281.html?v1=190501487"
-  },
-  {
-    "name": "CHUNKY LEATHER DERBY SHOES",
-    "price": 279000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/chunky-leather-derby-shoes-p12422020.html?v1=188546846"
   },
   {
     "name": "TECHNICAL BERMUDA JOGGERS",
@@ -504,12 +534,6 @@
     "link": "https://www.zara.com/in/en/straight-fit-chino-trousers-p05862340.html?v1=197750366"
   },
   {
-    "name": "JACKET WITH POCKETS",
-    "price": 249000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/jacket-with-pockets-p05963736.html?v1=200060859"
-  },
-  {
     "name": "PLEATED TROUSERS",
     "price": 179000,
     "discount": 64,
@@ -534,12 +558,6 @@
     "link": "https://www.zara.com/in/en/oversized-trousers-p06436290.html?v1=217996043"
   },
   {
-    "name": "WIDE FIT TROUSERS",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/wide-fit-trousers-p02553322.html?v1=188530165"
-  },
-  {
     "name": "WIDE FIT TROUSERS WITH TOPSTITCHING",
     "price": 179000,
     "discount": 64,
@@ -550,6 +568,12 @@
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/pleated-suit-trousers-p06433353.html?v1=215842043"
+  },
+  {
+    "name": "WIDE FIT TROUSERS",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/wide-fit-trousers-p02553322.html?v1=188530165"
   },
   {
     "name": "SUPER SKINNY TROUSERS WITH CHAIN",
@@ -624,16 +648,16 @@
     "link": "https://www.zara.com/in/en/faded-sweatshirt---limited-edition-p04087358.html?v1=207850000"
   },
   {
-    "name": "TEXTURED SUIT TROUSERS",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/textured-suit-trousers-p00340306.html?v1=184743222"
-  },
-  {
     "name": "WIDE-FIT JEANS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/wide-fit-jeans-p08727420.html?v1=189666243"
+  },
+  {
+    "name": "TEXTURED SUIT TROUSERS",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/textured-suit-trousers-p00340306.html?v1=184743222"
   },
   {
     "name": "BIRD’S-EYE SUIT TROUSERS",
@@ -678,16 +702,16 @@
     "link": "https://www.zara.com/in/en/overshirt-with-pockets-p00706246.html?v1=201671264"
   },
   {
-    "name": "STRAIGHT FIT SUIT TROUSERS",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p05809494.html?v1=188812540"
-  },
-  {
     "name": "RELAXED-FIT JEANS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/relaxed-fit-jeans-p00840389.html?v1=205000472"
+  },
+  {
+    "name": "STRAIGHT FIT SUIT TROUSERS",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p05809494.html?v1=188812540"
   },
   {
     "name": "WIDE-FIT JEANS",
@@ -696,22 +720,16 @@
     "link": "https://www.zara.com/in/en/wide-fit-jeans-p08727420.html?v1=189666241"
   },
   {
-    "name": "WIDE FIT TROUSERS",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/wide-fit-trousers-p08288850.html?v1=183703968"
-  },
-  {
     "name": "PLEATED SUIT TROUSERS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/pleated-suit-trousers-p05914736.html?v1=202297405"
   },
   {
-    "name": "WIDE FIT VELVET TROUSERS",
+    "name": "WIDE FIT TROUSERS",
     "price": 179000,
     "discount": 64,
-    "link": "https://www.zara.com/in/en/wide-fit-velvet-trousers-p09621654.html?v1=193162636"
+    "link": "https://www.zara.com/in/en/wide-fit-trousers-p08288850.html?v1=183703968"
   },
   {
     "name": "CHINO TROUSERS",
@@ -726,10 +744,10 @@
     "link": "https://www.zara.com/in/en/jacquard-faux-shearling-waistcoat-p04387326.html?v1=200390750"
   },
   {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 249000,
+    "name": "WIDE FIT VELVET TROUSERS",
+    "price": 179000,
     "discount": 64,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p08288311.html?v1=191318524"
+    "link": "https://www.zara.com/in/en/wide-fit-velvet-trousers-p09621654.html?v1=193162636"
   },
   {
     "name": "STRAIGHT-FIT TROUSERS WITH PAINT SPLATTER",
@@ -738,16 +756,22 @@
     "link": "https://www.zara.com/in/en/straight-fit-trousers-with-paint-splatter-p06186300.html?v1=197855916"
   },
   {
-    "name": "BIKER JEANS",
-    "price": 179000,
+    "name": "OVERSHIRT WITH POCKETS",
+    "price": 249000,
     "discount": 64,
-    "link": "https://www.zara.com/in/en/biker-jeans-p06045302.html?v1=203470927"
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p08288311.html?v1=191318524"
   },
   {
     "name": "PLEATED TROUSERS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/pleated-trousers-p05965736.html?v1=201671270"
+  },
+  {
+    "name": "BIKER JEANS",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/biker-jeans-p06045302.html?v1=203470927"
   },
   {
     "name": "VELVET TROUSERS",
@@ -762,16 +786,16 @@
     "link": "https://www.zara.com/in/en/pleated-suit-trousers-p02674304.html?v1=187247977"
   },
   {
-    "name": "STRIPED JACKET",
-    "price": 249000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/striped-jacket-p03918315.html?v1=185138289"
-  },
-  {
     "name": "TECHNICAL JACKET",
     "price": 249000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/technical-jacket-p00068300.html?v1=177672476"
+  },
+  {
+    "name": "STRIPED JACKET",
+    "price": 249000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/striped-jacket-p03918315.html?v1=185138289"
   },
   {
     "name": "COTTON - LINEN TROUSERS",
@@ -780,16 +804,22 @@
     "link": "https://www.zara.com/in/en/cotton---linen-trousers-p04432310.html?v1=183685282"
   },
   {
-    "name": "WIDE FIT VELVET TROUSERS",
+    "name": "CHINO TROUSERS",
     "price": 179000,
     "discount": 64,
-    "link": "https://www.zara.com/in/en/wide-fit-velvet-trousers-p09621654.html?v1=193162637"
+    "link": "https://www.zara.com/in/en/chino-trousers-p06861362.html?v1=203015441"
   },
   {
     "name": "FLANNEL TROUSERS WITH PLEATS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/flannel-trousers-with-pleats-p04432312.html?v1=207602163"
+  },
+  {
+    "name": "WIDE FIT VELVET TROUSERS",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/wide-fit-velvet-trousers-p09621654.html?v1=193162637"
   },
   {
     "name": "MATCHING TEXTURED JACKET",
@@ -804,16 +834,16 @@
     "link": "https://www.zara.com/in/en/jogger-waist-trousers-p06861363.html?v1=203017468"
   },
   {
-    "name": "PLEATED SATIN TROUSERS",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/pleated-satin-trousers-p09621653.html?v1=193162627"
-  },
-  {
     "name": "BIRD’S-EYE SUIT TROUSERS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/bird-s-eye-suit-trousers-p00706331.html?v1=190941455"
+  },
+  {
+    "name": "PLEATED SATIN TROUSERS",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/pleated-satin-trousers-p09621653.html?v1=193162627"
   },
   {
     "name": "CARROT FIT TROUSERS WITH PLEATS",
@@ -858,16 +888,16 @@
     "link": "https://www.zara.com/in/en/water-repellent-technical-jacket-p03918101.html?v1=200060702"
   },
   {
-    "name": "JOGGER WAIST TWILL TROUSERS",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/jogger-waist-twill-trousers-p06861308.html?v1=195890597"
-  },
-  {
     "name": "WATER-REPELLENT TECHNICAL JACKET",
     "price": 249000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/water-repellent-technical-jacket-p03918101.html?v1=200060703"
+  },
+  {
+    "name": "JOGGER WAIST TWILL TROUSERS",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/jogger-waist-twill-trousers-p06861308.html?v1=195890597"
   },
   {
     "name": "JACKET WITH POCKETS BY JAVIER S. MEDINA",
@@ -876,22 +906,16 @@
     "link": "https://www.zara.com/in/en/jacket-with-pockets-by-javier-s--medina-p07505193.html?v1=187055484"
   },
   {
-    "name": "STRAIGHT FIT SUIT TROUSERS",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p00340316.html?v1=192126164"
-  },
-  {
     "name": "TEXTURED JACKET",
     "price": 249000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/textured-jacket-p00706498.html?v1=185480924"
   },
   {
-    "name": "CARPENTER TROUSERS WITH POCKET",
+    "name": "STRAIGHT FIT SUIT TROUSERS",
     "price": 179000,
     "discount": 64,
-    "link": "https://www.zara.com/in/en/carpenter-trousers-with-pocket-p06917321.html?v1=191599109"
+    "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p00340316.html?v1=192126164"
   },
   {
     "name": "SUIT JOGGER WAIST TROUSERS",
@@ -900,28 +924,28 @@
     "link": "https://www.zara.com/in/en/suit-jogger-waist-trousers-p02674305.html?v1=191113319"
   },
   {
+    "name": "CARPENTER TROUSERS WITH POCKET",
+    "price": 179000,
+    "discount": 64,
+    "link": "https://www.zara.com/in/en/carpenter-trousers-with-pocket-p06917321.html?v1=191599109"
+  },
+  {
     "name": "RELAXED FIT CHINOS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/relaxed-fit-chinos-p00840332.html?v1=201111287"
   },
   {
-    "name": "CHINO TROUSERS",
-    "price": 179000,
+    "name": "TEXTURED STRIPE JACKET",
+    "price": 249000,
     "discount": 64,
-    "link": "https://www.zara.com/in/en/chino-trousers-p06861362.html?v1=203015441"
+    "link": "https://www.zara.com/in/en/textured-stripe-jacket-p00706310.html?v1=185138317"
   },
   {
     "name": "FLANNEL TROUSERS WITH PLEATS",
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/flannel-trousers-with-pleats-p04432312.html?v1=207602164"
-  },
-  {
-    "name": "TEXTURED STRIPE JACKET",
-    "price": 249000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/textured-stripe-jacket-p00706310.html?v1=185138317"
   },
   {
     "name": "WIDE FIT TROUSERS",
@@ -990,12 +1014,6 @@
     "link": "https://www.zara.com/in/en/parka-with-faux-shearling-jacket-p03918492.html?v1=195633650"
   },
   {
-    "name": "LEATHER TASSEL LOAFERS",
-    "price": 299000,
-    "discount": 62,
-    "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12663920.html?v1=178641571"
-  },
-  {
     "name": "CROPPED LYOCELL SHIRT",
     "price": 149000,
     "discount": 62,
@@ -1008,16 +1026,16 @@
     "link": "https://www.zara.com/in/en/patchwork-crochet-shirt-p01300042.html?v1=183049369"
   },
   {
-    "name": "OVERSIZED SHIRT WITH POCKETS",
-    "price": 149000,
-    "discount": 62,
-    "link": "https://www.zara.com/in/en/oversized-shirt-with-pockets-p05616191.html?v1=188530188"
-  },
-  {
     "name": "RIBBED TANK TOP",
     "price": 59000,
     "discount": 62,
     "link": "https://www.zara.com/in/en/ribbed-tank-top-p00679320.html?v1=189652777"
+  },
+  {
+    "name": "LEATHER TASSEL LOAFERS",
+    "price": 299000,
+    "discount": 62,
+    "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12663920.html?v1=178641571"
   },
   {
     "name": "SUIT TECHNICAL BLAZER",
@@ -1104,12 +1122,6 @@
     "link": "https://www.zara.com/in/en/lyocell---cotton-shirt-p02553400.html?v1=195905444"
   },
   {
-    "name": "FELT MULE CLOG SLIPPERS",
-    "price": 229000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/felt-mule-clog-slippers-p12731020.html?v1=199401372"
-  },
-  {
     "name": "COLOURED DENIM BERMUDA SHORTS",
     "price": 99000,
     "discount": 61,
@@ -1150,12 +1162,6 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/bermuda-set-p02599320.html?v1=194923446"
-  },
-  {
-    "name": "PREMIUM BERMUDA JOGGERS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/premium-bermuda-joggers-p04087439.html?v1=177672597"
   },
   {
     "name": "BASIC DENIM BERMUDA SHORTS",
@@ -1212,16 +1218,16 @@
     "link": "https://www.zara.com/in/en/textured-polo-shirt-p09240423.html?v1=177666972"
   },
   {
-    "name": "COTTON JOGGER BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/cotton-jogger-bermuda-shorts-p05520300.html?v1=177648727"
-  },
-  {
     "name": "JOGGING BERMUDA SHORTS WITH ELASTIC WAISTBAND",
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/jogging-bermuda-shorts-with-elastic-waistband-p09252435.html?v1=182306882"
+  },
+  {
+    "name": "COTTON JOGGER BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/cotton-jogger-bermuda-shorts-p05520300.html?v1=177648727"
   },
   {
     "name": "TEXTURED POLO SHIRT",
@@ -1240,6 +1246,12 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/cotton-jogger-bermuda-shorts-p05520300.html?v1=177648726"
+  },
+  {
+    "name": "FELT MULE CLOG SLIPPERS",
+    "price": 229000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/felt-mule-clog-slippers-p12731020.html?v1=199401372"
   },
   {
     "name": "TEXTURED OTTOMAN BERMUDA SHORTS",
@@ -1272,16 +1284,16 @@
     "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06318404.html?v1=193513141"
   },
   {
-    "name": "CREASED-EFFECT BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06318404.html?v1=183949948"
-  },
-  {
     "name": "STRAPPY LEATHER SANDALS",
     "price": 229000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/strappy-leather-sandals-p12726020.html?v1=186418266"
+  },
+  {
+    "name": "CREASED-EFFECT BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06318404.html?v1=183949948"
   },
   {
     "name": "COMFORT BERMUDA SHORTS",
@@ -1302,6 +1314,24 @@
     "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06318404.html?v1=183949949"
   },
   {
+    "name": "COMFORT BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/comfort-bermuda-shorts-p00706550.html?v1=211718648"
+  },
+  {
+    "name": "COMFORT BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/comfort-bermuda-shorts-p00706550.html?v1=211718645"
+  },
+  {
+    "name": "COMFORT BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/comfort-bermuda-shorts-p00706550.html?v1=211718647"
+  },
+  {
     "name": "ANIMAL PRINT XL WALLET",
     "price": 99000,
     "discount": 61,
@@ -1312,12 +1342,6 @@
     "price": 279000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-monk-shoes-p12407920.html?v1=177677306"
-  },
-  {
-    "name": "MONOCHROME LEATHER TRAINERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/monochrome-leather-trainers-p12247020.html?v1=196138506"
   },
   {
     "name": "100% LINEN TROUSERS",
@@ -1362,6 +1386,12 @@
     "link": "https://www.zara.com/in/en/pleated-trousers-p06861317.html?v1=222479556"
   },
   {
+    "name": "MONOCHROME LEATHER TRAINERS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/monochrome-leather-trainers-p12247020.html?v1=196138506"
+  },
+  {
     "name": "100% LINEN TROUSERS",
     "price": 159000,
     "discount": 60,
@@ -1402,6 +1432,12 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/jacquard-cardigan-with-abstract-design-p03597304.html?v1=187690677"
+  },
+  {
+    "name": "100% WOOL KNIT POLO SWEATER",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/100-wool-knit-polo-sweater-p05461303.html?v1=192637944"
   },
   {
     "name": "STRIPED KNIT POLO SHIRT",
@@ -1446,16 +1482,16 @@
     "link": "https://www.zara.com/in/en/puffer-gilet-p03918491.html?v1=195633649"
   },
   {
-    "name": "LONG LEGGINGS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/long-leggings-p00347460.html?v1=205281138"
-  },
-  {
     "name": "STRIPED STRAIGHT FIT TROUSERS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/striped-straight-fit-trousers-p02553312.html?v1=180854759"
+  },
+  {
+    "name": "LONG LEGGINGS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/long-leggings-p00347460.html?v1=205281138"
   },
   {
     "name": "PLEATED TROUSERS",
@@ -1470,16 +1506,16 @@
     "link": "https://www.zara.com/in/en/geometric-jacquard-cardigan-p06674320.html?v1=186820628"
   },
   {
-    "name": "CONTRAST SWEATER",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/contrast-sweater-p01775402.html?v1=242457280"
-  },
-  {
     "name": "CONTRAST FAUX SHEARLING GILET",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/contrast-faux-shearling-gilet-p01248313.html?v1=199556099"
+  },
+  {
+    "name": "CONTRAST SWEATER",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/contrast-sweater-p01775402.html?v1=242457280"
   },
   {
     "name": "FAUX LEATHER TROUSERS",
@@ -1488,28 +1524,22 @@
     "link": "https://www.zara.com/in/en/faux-leather-trousers-p09621810.html?v1=184764069"
   },
   {
-    "name": "BANDANA PRINT TROUSERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/bandana-print-trousers-p01538320.html?v1=190522983"
-  },
-  {
     "name": "LONG LEGGINGS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/long-leggings-p00347460.html?v1=205281139"
   },
   {
-    "name": "HOODED PUFFER PARKA",
-    "price": 399000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/hooded-puffer-parka-p08281402.html?v1=180844953"
-  },
-  {
     "name": "CARPENTER TROUSERS WITH POCKET",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/carpenter-trousers-with-pocket-p05520310.html?v1=179136331"
+  },
+  {
+    "name": "HOODED PUFFER PARKA",
+    "price": 399000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/hooded-puffer-parka-p08281402.html?v1=180844953"
   },
   {
     "name": "WOOL OVERSHIRT WITH POCKETS",
@@ -1560,10 +1590,10 @@
     "link": "https://www.zara.com/in/en/jacquard-letter-cardigan-p03284326.html?v1=177666979"
   },
   {
-    "name": "HOODED PUFFER PARKA",
-    "price": 399000,
+    "name": "ZIP-UP CARDIGAN",
+    "price": 199000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/hooded-puffer-parka-p03427481.html?v1=177662444"
+    "link": "https://www.zara.com/in/en/zip-up-cardigan-p09598316.html?v1=182922729"
   },
   {
     "name": "BOUCLÉ TEXTURED COAT",
@@ -1572,16 +1602,16 @@
     "link": "https://www.zara.com/in/en/boucl--textured-coat-p03286360.html?v1=230571198"
   },
   {
-    "name": "WATER-REPELLENT QUILTED PARKA",
-    "price": 399000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/water-repellent-quilted-parka-p08574390.html?v1=226292830"
-  },
-  {
     "name": "CONTRAST TROUSERS WITH TOPSTITCHING",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/contrast-trousers-with-topstitching-p06861303.html?v1=188287619"
+  },
+  {
+    "name": "WATER-REPELLENT QUILTED PARKA",
+    "price": 399000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/water-repellent-quilted-parka-p08574390.html?v1=226292830"
   },
   {
     "name": "TEXTURED JOGGER WAIST TROUSERS",
@@ -1590,16 +1620,16 @@
     "link": "https://www.zara.com/in/en/textured-jogger-waist-trousers-p07147340.html?v1=196170673"
   },
   {
+    "name": "CARPENTER TROUSERS WITH POCKET",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/carpenter-trousers-with-pocket-p05520310.html?v1=179136332"
+  },
+  {
     "name": "WIDE FIT TROUSERS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/wide-fit-trousers-p05991913.html?v1=200752522"
-  },
-  {
-    "name": "STRIPED TEXTURED TROUSERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/striped-textured-trousers-p00706305.html?v1=178951682"
   },
   {
     "name": "MONOCHROME LEATHER TRAINERS",
@@ -1614,10 +1644,16 @@
     "link": "https://www.zara.com/in/en/wide-leg-trousers-p06917316.html?v1=187679880"
   },
   {
-    "name": "CARPENTER TROUSERS WITH POCKET",
+    "name": "STRIPED TEXTURED TROUSERS",
     "price": 159000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/carpenter-trousers-with-pocket-p05520310.html?v1=179136332"
+    "link": "https://www.zara.com/in/en/striped-textured-trousers-p00706305.html?v1=178951682"
+  },
+  {
+    "name": "KNIT JOGGER TROUSERS WITH STRIPE",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/knit-jogger-trousers-with-stripe-p06674323.html?v1=186820627"
   },
   {
     "name": "JOGGER WAIST TROUSERS",
@@ -1686,6 +1722,12 @@
     "link": "https://www.zara.com/in/en/textured-striped-cardigan-p06771314.html?v1=182865019"
   },
   {
+    "name": "WIDE FIT TROUSERS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/wide-fit-trousers-p02553336.html?v1=199795766"
+  },
+  {
     "name": "TECHNICAL TRENCH COAT",
     "price": 399000,
     "discount": 60,
@@ -1695,7 +1737,7 @@
     "name": "WIDE FIT TROUSERS",
     "price": 159000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/wide-fit-trousers-p02553336.html?v1=199795766"
+    "link": "https://www.zara.com/in/en/wide-fit-trousers-p08288810.html?v1=184759202"
   },
   {
     "name": "STRAIGHT FIT TROUSERS",
@@ -1704,16 +1746,10 @@
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p02553323.html?v1=199432088"
   },
   {
-    "name": "WIDE FIT TROUSERS",
+    "name": "FAUX LEATHER TROUSERS",
     "price": 159000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/wide-fit-trousers-p08288810.html?v1=184759202"
-  },
-  {
-    "name": "KNIT JOGGER TROUSERS WITH STRIPE",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/knit-jogger-trousers-with-stripe-p06674323.html?v1=186820627"
+    "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006596"
   },
   {
     "name": "TEXTURED JOGGER WAIST TROUSERS",
@@ -1737,7 +1773,7 @@
     "name": "FAUX LEATHER TROUSERS",
     "price": 159000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006596"
+    "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006598"
   },
   {
     "name": "CARROT FIT JEANS WITH DRAWSTRING",
@@ -1746,28 +1782,22 @@
     "link": "https://www.zara.com/in/en/carrot-fit-jeans-with-drawstring-p05072304.html?v1=192072353"
   },
   {
+    "name": "FAUX LEATHER TROUSERS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006597"
+  },
+  {
     "name": "STRAIGHT FIT TROUSERS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p05855662.html?v1=192076686"
   },
   {
-    "name": "FAUX LEATHER TROUSERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006598"
-  },
-  {
     "name": "CARROT-FIT TROUSERS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/carrot-fit-trousers-p05846662.html?v1=192076684"
-  },
-  {
-    "name": "FAUX LEATHER TROUSERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006597"
   },
   {
     "name": "SEERSUCKER SUIT TROUSERS",
@@ -1854,16 +1884,16 @@
     "link": "https://www.zara.com/in/en/textured-jacket-with-pockets-p01300404.html?v1=177666909"
   },
   {
-    "name": "STRIPED TEXTURED OVERSHIRT",
-    "price": 249000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/striped-textured-overshirt-p05533129.html?v1=183005200"
-  },
-  {
     "name": "TOPSTITCHED DENIM JACKET",
     "price": 249000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/topstitched-denim-jacket-p02553351.html?v1=187197597"
+  },
+  {
+    "name": "STRIPED TEXTURED OVERSHIRT",
+    "price": 249000,
+    "discount": 58,
+    "link": "https://www.zara.com/in/en/striped-textured-overshirt-p05533129.html?v1=183005200"
   },
   {
     "name": "STRIPED TEXTURED OVERSHIRT",
@@ -1896,10 +1926,10 @@
     "link": "https://www.zara.com/in/en/casual-shoes-p12502020.html?v1=185673891"
   },
   {
-    "name": "CONTRAST MULTI-POCKET BACKPACK",
-    "price": 249000,
+    "name": "RIPSTOP NYLON RHUIGI BELT BAG",
+    "price": 149000,
     "discount": 58,
-    "link": "https://www.zara.com/in/en/contrast-multi-pocket-backpack-p13211920.html?v1=177653525"
+    "link": "https://www.zara.com/in/en/ripstop-nylon-rhuigi-belt-bag-p13605020.html?v1=177680951"
   },
   {
     "name": "NYLON CROSSBODY TOTE BAG",
@@ -1908,16 +1938,16 @@
     "link": "https://www.zara.com/in/en/nylon-crossbody-tote-bag-p13321020.html?v1=207593824"
   },
   {
-    "name": "RIPSTOP NYLON RHUIGI BELT BAG",
-    "price": 149000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/ripstop-nylon-rhuigi-belt-bag-p13605020.html?v1=177680951"
-  },
-  {
     "name": "SHOULDER BAG",
     "price": 149000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/shoulder-bag-p13624020.html?v1=198129084"
+  },
+  {
+    "name": "CONTRAST MULTI-POCKET BACKPACK",
+    "price": 249000,
+    "discount": 58,
+    "link": "https://www.zara.com/in/en/contrast-multi-pocket-backpack-p13211920.html?v1=177653525"
   },
   {
     "name": "GRAFFITI CROSSBODY BAG",
@@ -2040,18 +2070,6 @@
     "link": "https://www.zara.com/in/en/suit-blazer-with-seersucker-detail-p02517780.html?v1=178540102"
   },
   {
-    "name": "SOFT LOAFERS",
-    "price": 199000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/soft-loafers-p12604920.html?v1=177653455"
-  },
-  {
-    "name": "KNIT FABRIC TRAINERS",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/knit-fabric-trainers-p12202020.html?v1=177672291"
-  },
-  {
     "name": "BASEBALL SHIRT WITH PATCHES",
     "price": 129000,
     "discount": 56,
@@ -2070,16 +2088,22 @@
     "link": "https://www.zara.com/in/en/textured-polo-shirt-p04087401.html?v1=242457267"
   },
   {
-    "name": "EMBOSSED LACELESS TRAINERS",
+    "name": "COMFORT OVERSHIRT",
     "price": 129000,
     "discount": 56,
-    "link": "https://www.zara.com/in/en/embossed-laceless-trainers-p12214920.html?v1=189349620"
+    "link": "https://www.zara.com/in/en/comfort-overshirt-p00706729.html?v1=191830786"
   },
   {
     "name": "TEXTURED SHIRT WITH PATCH",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/textured-shirt-with-patch-p03037305.html?v1=186006603"
+  },
+  {
+    "name": "KNIT FABRIC TRAINERS",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/knit-fabric-trainers-p12202020.html?v1=177672291"
   },
   {
     "name": "SNEAKERS WITH NO LACES",
@@ -2118,16 +2142,16 @@
     "link": "https://www.zara.com/in/en/textured-shirt-p05588295.html?v1=191327422"
   },
   {
-    "name": "EMBOSSED LACELESS TRAINERS",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/embossed-laceless-trainers-p12220020.html?v1=187061293"
-  },
-  {
     "name": "COTTON SHIRT WITH POCKET",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p02688222.html?v1=188551070"
+  },
+  {
+    "name": "EMBOSSED LACELESS TRAINERS",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/embossed-laceless-trainers-p12220020.html?v1=187061293"
   },
   {
     "name": "VISCOSE/LINEN BLEND SHIRT",
@@ -2148,10 +2172,10 @@
     "link": "https://www.zara.com/in/en/felt-tote-bag-p13319020.html?v1=206700840"
   },
   {
-    "name": "COTTON TOTE BAG",
+    "name": "MULTI-POCKET NYLON BACKPACK",
     "price": 199000,
     "discount": 56,
-    "link": "https://www.zara.com/in/en/cotton-tote-bag-p13368820.html?v1=177677672"
+    "link": "https://www.zara.com/in/en/multi-pocket-nylon-backpack-p13217920.html?v1=177657758"
   },
   {
     "name": "TRAINING TANK TOP",
@@ -2164,6 +2188,12 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/training-tank-top-p00347465.html?v1=206289489"
+  },
+  {
+    "name": "COTTON TOTE BAG",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/cotton-tote-bag-p13368820.html?v1=177677672"
   },
   {
     "name": "POPLIN SHIRT",
@@ -2200,12 +2230,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/sneakers-with-no-laces-p12241020.html?v1=184325376"
-  },
-  {
-    "name": "CONTRAST SNEAKERS",
-    "price": 159000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/contrast-sneakers-p12231920.html?v1=177677325"
   },
   {
     "name": "2 IN 1 OVERSIZE PARKA",
@@ -2328,12 +2352,6 @@
     "link": "https://www.zara.com/in/en/contrast-print-t-shirt-p00679340.html?v1=203470932"
   },
   {
-    "name": "SWEATSHIRT WITH STRIPE AND ZIP",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/sweatshirt-with-stripe-and-zip-p05372302.html?v1=177648830"
-  },
-  {
     "name": "SOFT-TOUCH HOODIE",
     "price": 179000,
     "discount": 55,
@@ -2350,6 +2368,12 @@
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/jacquard-polo-shirt-p06462305.html?v1=187044790"
+  },
+  {
+    "name": "SWEATSHIRT WITH STRIPE AND ZIP",
+    "price": 179000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/sweatshirt-with-stripe-and-zip-p05372302.html?v1=177648830"
   },
   {
     "name": "BAGGY FIT JEANS",
@@ -2376,28 +2400,28 @@
     "link": "https://www.zara.com/in/en/textured-knit-t-shirt-p02632300.html?v1=186456410"
   },
   {
-    "name": "HOODED PUFFER PARKA",
-    "price": 399000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/hooded-puffer-parka-p03427327.html?v1=187247995"
-  },
-  {
     "name": "TEXTURED POLO SHIRT",
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/textured-polo-shirt-p04087337.html?v1=196162084"
   },
   {
+    "name": "HOODED PUFFER PARKA",
+    "price": 399000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/hooded-puffer-parka-p03427327.html?v1=187247995"
+  },
+  {
+    "name": "CONTRAST SNEAKERS",
+    "price": 159000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/contrast-sneakers-p12231920.html?v1=177677325"
+  },
+  {
     "name": "OVERSIZE SWEATSHIRT",
     "price": 179000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/oversize-sweatshirt-p04087400.html?v1=235400369"
-  },
-  {
-    "name": "RELAXED FIT TRENCH COAT",
-    "price": 399000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/relaxed-fit-trench-coat-p00706333.html?v1=201660856"
   },
   {
     "name": "EMBROIDERED KNIT T-SHIRT",
@@ -2412,16 +2436,16 @@
     "link": "https://www.zara.com/in/en/pleated-polo-shirt-p04087553.html?v1=177648684"
   },
   {
+    "name": "RELAXED FIT TRENCH COAT",
+    "price": 399000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/relaxed-fit-trench-coat-p00706333.html?v1=201660856"
+  },
+  {
     "name": "BASIC COAT",
     "price": 399000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/basic-coat-p03046470.html?v1=195651296"
-  },
-  {
-    "name": "RAMIE - COTTON KNIT POLO SHIRT",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/ramie---cotton-knit-polo-shirt-p00077401.html?v1=177649068"
   },
   {
     "name": "STRAIGHT FIT JEANS",
@@ -2434,6 +2458,12 @@
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/knit-polo-shirt-p04090404.html?v1=185987376"
+  },
+  {
+    "name": "RAMIE - COTTON KNIT POLO SHIRT",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/ramie---cotton-knit-polo-shirt-p00077401.html?v1=177649068"
   },
   {
     "name": "REGULAR FIT JEANS",
@@ -2452,12 +2482,6 @@
     "price": 179000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/baggy-fit-jeans-p06688394.html?v1=206278962"
-  },
-  {
-    "name": "BANDANA PRINT JACKET",
-    "price": 249000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/bandana-print-jacket-p01538316.html?v1=185667011"
   },
   {
     "name": "TEXTURED POLO SHIRT WITH CONTRAST DETAILS",
@@ -2514,16 +2538,16 @@
     "link": "https://www.zara.com/in/en/leather-purse-p13820920.html?v1=177672398"
   },
   {
-    "name": "CONTRAST PRINT KNIT T-SHIRT",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/contrast-print-knit-t-shirt-p04231310.html?v1=177666922"
-  },
-  {
     "name": "LEATHER PURSE",
     "price": 79000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/leather-purse-p13820920.html?v1=177672397"
+  },
+  {
+    "name": "CONTRAST PRINT KNIT T-SHIRT",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/contrast-print-knit-t-shirt-p04231310.html?v1=177666922"
   },
   {
     "name": "2 IN 1 OVERSIZE PARKA",
@@ -2532,16 +2556,16 @@
     "link": "https://www.zara.com/in/en/2-in-1-oversize-parka-p03918499.html?v1=181621530"
   },
   {
-    "name": "TEXTURED WEAVE SWEATSHIRT",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/textured-weave-sweatshirt-p00761339.html?v1=216051863"
-  },
-  {
     "name": "COTTON PARKA",
     "price": 399000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/cotton-parka-p00706327.html?v1=187709936"
+  },
+  {
+    "name": "TEXTURED WEAVE SWEATSHIRT",
+    "price": 179000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/textured-weave-sweatshirt-p00761339.html?v1=216051863"
   },
   {
     "name": "QUILTED OVERSHIRT",
@@ -2550,16 +2574,16 @@
     "link": "https://www.zara.com/in/en/quilted-overshirt-p08288314.html?v1=191323560"
   },
   {
-    "name": "CONTRAST ZIP SWEATSHIRT",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970734"
-  },
-  {
     "name": "KNIT POLO SHIRT",
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/knit-polo-shirt-p04090404.html?v1=185795111"
+  },
+  {
+    "name": "CONTRAST ZIP SWEATSHIRT",
+    "price": 179000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970734"
   },
   {
     "name": "TEXTURED JACKET",
@@ -2586,16 +2610,16 @@
     "link": "https://www.zara.com/in/en/animal-print-card-holder-p13923920.html?v1=177677663"
   },
   {
-    "name": "CONTRAST ZIP SWEATSHIRT",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970733"
-  },
-  {
     "name": "SWEATSHIRT WITH STRIPE AND ZIP",
     "price": 179000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/sweatshirt-with-stripe-and-zip-p00761314.html?v1=191287017"
+  },
+  {
+    "name": "CONTRAST ZIP SWEATSHIRT",
+    "price": 179000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970733"
   },
   {
     "name": "EASY CARE TEXTURED SHIRT",
@@ -2646,30 +2670,6 @@
     "link": "https://www.zara.com/in/en/twill-overshirt-set-studio-nicholson-p05960808.html?v1=197550396"
   },
   {
-    "name": "SPORTY LEATHER LOAFERS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/sporty-leather-loafers-p12620920.html?v1=177657451"
-  },
-  {
-    "name": "STUDDED SNEAKERS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/studded-sneakers-p12205020.html?v1=177666889"
-  },
-  {
-    "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12324020.html?v1=180382413"
-  },
-  {
-    "name": "SPLIT SUEDE LEATHER ANKLE BOOTS",
-    "price": 349000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/split-suede-leather-ankle-boots-p12060120.html?v1=244089308"
-  },
-  {
     "name": "PAISLEY PRINT SHIRT",
     "price": 149000,
     "discount": 50,
@@ -2704,12 +2704,6 @@
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/printed-t-shirt-with-embroidery-p06224342.html?v1=186805842"
-  },
-  {
-    "name": "GEOMETRIC JACQUARD SWEATER",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/geometric-jacquard-sweater-p00048301.html?v1=186822256"
   },
   {
     "name": "STRIPED COTTON - LINEN SHIRT",
@@ -2808,6 +2802,12 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p02688121.html?v1=208652926"
   },
   {
+    "name": "EMBROIDERED LEMUR T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/embroidered-lemur-t-shirt-p04161302.html?v1=177680714"
+  },
+  {
     "name": "T-SHIRT WITH THERMO-SEALED FINISH",
     "price": 99000,
     "discount": 50,
@@ -2848,12 +2848,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p04087357.html?v1=202474430"
-  },
-  {
-    "name": "FLORAL PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-print-shirt-p03090403.html?v1=178913677"
   },
   {
     "name": "TEXTURED CROCHET SHIRT",
@@ -2898,12 +2892,6 @@
     "link": "https://www.zara.com/in/en/floral-print-shirt-p05691385.html?v1=197048361"
   },
   {
-    "name": "STREAK PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/streak-print-shirt-p06747438.html?v1=218527176"
-  },
-  {
     "name": "SEERSUCKER SHIRT",
     "price": 149000,
     "discount": 50,
@@ -2922,22 +2910,10 @@
     "link": "https://www.zara.com/in/en/t-shirt-with-thermo-sealed-finish-p04087416.html?v1=177672565"
   },
   {
-    "name": "EMBROIDERED LEMUR T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/embroidered-lemur-t-shirt-p04161302.html?v1=177680714"
-  },
-  {
     "name": "PREMIUM T-SHIRT WITH POCKET",
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/premium-t-shirt-with-pocket-p04087308.html?v1=180854860"
-  },
-  {
-    "name": "PINK PANTHER™ MGM PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/pink-panther--mgm-print-t-shirt-p04644300.html?v1=183497632"
   },
   {
     "name": "JACQUARD TANK TOP",
@@ -3018,6 +2994,12 @@
     "link": "https://www.zara.com/in/en/smart-shoes-p12405020.html?v1=187247978"
   },
   {
+    "name": "TEXTURED T-SHIRT",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-t-shirt-p01887360.html?v1=199177140"
+  },
+  {
     "name": "POLO SHIRT WITH MERCERISED COTTON FINISH",
     "price": 99000,
     "discount": 50,
@@ -3034,18 +3016,6 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/geometric-jacquard-sweater-p03166310.html?v1=179131605"
-  },
-  {
-    "name": "TEXTURED T-SHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-t-shirt-p01887360.html?v1=199177140"
-  },
-  {
-    "name": "GEOMETRIC PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/geometric-print-shirt-p05568184.html?v1=182919003"
   },
   {
     "name": "TENNIS PRINT T-SHIRT",
@@ -3066,12 +3036,6 @@
     "link": "https://www.zara.com/in/en/rustic-shirt-p01608304.html?v1=187035256"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p00975310.html?v1=190251345"
-  },
-  {
     "name": "JACQUARD STRETCH SHIRT",
     "price": 149000,
     "discount": 50,
@@ -3090,6 +3054,18 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p00975400.html?v1=218023957"
   },
   {
+    "name": "GEOMETRIC PRINT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/geometric-print-shirt-p05568184.html?v1=182919003"
+  },
+  {
+    "name": "T-SHIRT WITH BUTTONED NECK",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/t-shirt-with-buttoned-neck-p02888315.html?v1=189287069"
+  },
+  {
     "name": "METALLIC SLOGAN T-SHIRT",
     "price": 99000,
     "discount": 50,
@@ -3102,34 +3078,22 @@
     "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224357.html?v1=197834699"
   },
   {
-    "name": "T-SHIRT WITH BUTTONED NECK",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/t-shirt-with-buttoned-neck-p02888315.html?v1=189287069"
-  },
-  {
     "name": "TEXTURED TANK TOP",
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/textured-tank-top-p00977309.html?v1=185998418"
   },
   {
-    "name": "PRINTED SHIRT X RHUIGI",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/printed-shirt-x-rhuigi-p06085340.html?v1=177680892"
-  },
-  {
-    "name": "SLOGAN PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p00679309.html?v1=185993798"
-  },
-  {
     "name": "HIGH NECK KNIT T-SHIRT",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/high-neck-knit-t-shirt-p03471300.html?v1=177677469"
+  },
+  {
+    "name": "PRINTED SHIRT X RHUIGI",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/printed-shirt-x-rhuigi-p06085340.html?v1=177680892"
   },
   {
     "name": "STRIPED KNIT POLO SHIRT",
@@ -3144,22 +3108,10 @@
     "link": "https://www.zara.com/in/en/mock-neck-sweater-p06674301.html?v1=187249967"
   },
   {
-    "name": "ROLLING STONE ® PRINT T-SHIRT",
+    "name": "SLOGAN PRINT T-SHIRT",
     "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/rolling-stone---print-t-shirt-p00962320.html?v1=189944401"
-  },
-  {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p06224326.html?v1=188785429"
-  },
-  {
-    "name": "TEXTURED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-shirt-p07545203.html?v1=181664404"
+    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p00679309.html?v1=185993798"
   },
   {
     "name": "STRIPED TEXTURED SHIRT",
@@ -3186,6 +3138,18 @@
     "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490697"
   },
   {
+    "name": "ROLLING STONE ® PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/rolling-stone---print-t-shirt-p00962320.html?v1=189944401"
+  },
+  {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p06224326.html?v1=188785429"
+  },
+  {
     "name": "SLOGAN PRINT T-SHIRT",
     "price": 99000,
     "discount": 50,
@@ -3208,12 +3172,6 @@
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/geometric-embroidery-shirt-p01300048.html?v1=184764055"
-  },
-  {
-    "name": "SHIRT WITH POCKET",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/shirt-with-pocket-p05588345.html?v1=188553115"
   },
   {
     "name": "VISCOSE KNIT POLO SHIRT",
@@ -3240,10 +3198,10 @@
     "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p00495330.html?v1=199204079"
   },
   {
-    "name": "JACQUARD T-SHIRT X JAVIER S. MEDINA",
-    "price": 99000,
+    "name": "SHIRT WITH POCKET",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/jacquard-t-shirt-x-javier-s--medina-p02888408.html?v1=187059374"
+    "link": "https://www.zara.com/in/en/shirt-with-pocket-p05588345.html?v1=188553115"
   },
   {
     "name": "T-SHIRT WITH TENNIS PLAYER PRINT",
@@ -3276,6 +3234,12 @@
     "link": "https://www.zara.com/in/en/geometric-print-shirt-p05986184.html?v1=200752445"
   },
   {
+    "name": "LYOCELL BLEND SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/lyocell-blend-shirt-p03717384.html?v1=212111699"
+  },
+  {
     "name": "PREMIUM SLOGAN T-SHIRT",
     "price": 99000,
     "discount": 50,
@@ -3286,12 +3250,6 @@
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/basic-training-t-shirt-p02406400.html?v1=185627403"
-  },
-  {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p05644300.html?v1=177649024"
   },
   {
     "name": "LINEN - COTTON BLEND SHIRT",
@@ -3306,16 +3264,16 @@
     "link": "https://www.zara.com/in/en/mock-neck-sweater-p06771318.html?v1=183715164"
   },
   {
+    "name": "JACQUARD T-SHIRT X JAVIER S. MEDINA",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/jacquard-t-shirt-x-javier-s--medina-p02888408.html?v1=187059374"
+  },
+  {
     "name": "GRAFFITI PRINT T-SHIRT",
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/graffiti-print-t-shirt-p00962310.html?v1=185138269"
-  },
-  {
-    "name": "T-SHIRT WITH PRINTED GRAPHICS",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/t-shirt-with-printed-graphics-p06224333.html?v1=177648808"
   },
   {
     "name": "TRAINING TOP",
@@ -3330,40 +3288,34 @@
     "link": "https://www.zara.com/in/en/tennis-training-tank-p03045401.html?v1=177666945"
   },
   {
+    "name": "HEAVY-WEIGHT SLOGAN T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/heavy-weight-slogan-t-shirt-p00526335.html?v1=193143498"
+  },
+  {
     "name": "VELVET LOAFERS",
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/velvet-loafers-p12652020.html?v1=206546898"
   },
   {
-    "name": "WATER-REPELLENT PARKA",
-    "price": 399000,
+    "name": "T-SHIRT WITH PRINTED GRAPHICS",
+    "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/water-repellent-parka-p08281462.html?v1=187710001"
+    "link": "https://www.zara.com/in/en/t-shirt-with-printed-graphics-p06224333.html?v1=177648808"
   },
   {
-    "name": "TRAINING TOP",
-    "price": 129000,
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/training-top-p00347462.html?v1=205281141"
-  },
-  {
-    "name": "LYOCELL BLEND SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/lyocell-blend-shirt-p03717384.html?v1=212111699"
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p05644300.html?v1=177649024"
   },
   {
     "name": "SYMBOL PRINT SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/symbol-print-shirt-p01608305.html?v1=187044794"
-  },
-  {
-    "name": "FRUIT PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/fruit-print-shirt-p05697654.html?v1=196153463"
   },
   {
     "name": "SOFT FLANNEL SHIRT",
@@ -3378,34 +3330,10 @@
     "link": "https://www.zara.com/in/en/textured-twill-shirt-p06575476.html?v1=208639160"
   },
   {
-    "name": "HEAVY-WEIGHT SLOGAN T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/heavy-weight-slogan-t-shirt-p00526335.html?v1=193143498"
-  },
-  {
     "name": "TECHNICAL JACKET",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/technical-jacket-p04302307.html?v1=177657370"
-  },
-  {
-    "name": "CONTRAST PRINTED T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p01259300.html?v1=177648950"
-  },
-  {
-    "name": "STRIPED TEXTURED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-textured-shirt-p04514087.html?v1=178077170"
-  },
-  {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p01434290.html?v1=189289031"
   },
   {
     "name": "RIB NECK T-SHIRT",
@@ -3426,10 +3354,34 @@
     "link": "https://www.zara.com/in/en/textured-cardigan-p05755304.html?v1=177653338"
   },
   {
+    "name": "GEOMETRIC JACQUARD SWEATER",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/geometric-jacquard-sweater-p03166311.html?v1=179131604"
+  },
+  {
     "name": "TURTLENECK SWEATER",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/turtleneck-sweater-p00632305.html?v1=185463443"
+  },
+  {
+    "name": "WATER-REPELLENT PARKA",
+    "price": 399000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/water-repellent-parka-p08281462.html?v1=187710001"
+  },
+  {
+    "name": "TRAINING TOP",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/training-top-p00347462.html?v1=205281141"
+  },
+  {
+    "name": "CONTRAST PRINTED T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p01259300.html?v1=177648950"
   },
   {
     "name": "TROPICAL PRINT SHIRT",
@@ -3444,34 +3396,28 @@
     "link": "https://www.zara.com/in/en/textured-shirt-p06573268.html?v1=208612690"
   },
   {
-    "name": "HEAVY-WEIGHT SLOGAN T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/heavy-weight-slogan-t-shirt-p00526333.html?v1=193139569"
-  },
-  {
-    "name": "FLOWER PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/flower-print-t-shirt-p07878305.html?v1=183697562"
-  },
-  {
-    "name": "VISCOSE KNIT POLO SHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/viscose-knit-polo-shirt-p04432405.html?v1=177662391"
-  },
-  {
-    "name": "FLORAL PRINT SHIRT",
+    "name": "STRIPED TEXTURED SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-print-shirt-p02187300.html?v1=178633922"
+    "link": "https://www.zara.com/in/en/striped-textured-shirt-p04514087.html?v1=178077170"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/striped-shirt-p01434290.html?v1=189289031"
   },
   {
     "name": "SEBASTIAN CURI GRAPHIC T-SHIRT",
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/sebastian-curi-graphic-t-shirt-p04087321.html?v1=186814632"
+  },
+  {
+    "name": "VISCOSE KNIT POLO SHIRT",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/viscose-knit-polo-shirt-p04432405.html?v1=177662391"
   },
   {
     "name": "VISCOSE/LINEN BLEND SHIRT",
@@ -3486,22 +3432,46 @@
     "link": "https://www.zara.com/in/en/creased-effect-shirt-p05705045.html?v1=188053110"
   },
   {
-    "name": "CONTRAST PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-print-t-shirt-p07878304.html?v1=183697565"
-  },
-  {
     "name": "MULTICOLOURED HIGH-TOP HIKING TRAINERS",
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/multicoloured-high-top-hiking-trainers-p12113020.html?v1=201111226"
   },
   {
+    "name": "FLORAL PRINT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/floral-print-shirt-p02187300.html?v1=178633922"
+  },
+  {
+    "name": "HEAVY-WEIGHT SLOGAN T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/heavy-weight-slogan-t-shirt-p00526333.html?v1=193139569"
+  },
+  {
+    "name": "CONTRAST PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/contrast-print-t-shirt-p07878304.html?v1=183697565"
+  },
+  {
     "name": "STRIPED ELASTIC SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/striped-elastic-shirt-p07545407.html?v1=184857864"
+  },
+  {
+    "name": "FLOWER PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/flower-print-t-shirt-p07878305.html?v1=183697562"
+  },
+  {
+    "name": "GEOMETRIC JACQUARD SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/geometric-jacquard-shirt-p03717157.html?v1=179892315"
   },
   {
     "name": "STRIPED SHIRT",
@@ -3514,30 +3484,6 @@
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/striped-textured-shirt-p03057168.html?v1=185444859"
-  },
-  {
-    "name": "HIGH NECK OVERSIZE T-SHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/high-neck-oversize-t-shirt-p04087334.html?v1=195366218"
-  },
-  {
-    "name": "GEOMETRIC JACQUARD SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/geometric-jacquard-shirt-p03717157.html?v1=179892315"
-  },
-  {
-    "name": "GEOMETRIC JACQUARD SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/geometric-jacquard-shirt-p03717157.html?v1=179892316"
-  },
-  {
-    "name": "PRINTED STRETCH SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/printed-stretch-shirt-p07545334.html?v1=177653586"
   },
   {
     "name": "TIE-DYE PRINTED T-SHIRT",
@@ -3564,16 +3510,10 @@
     "link": "https://www.zara.com/in/en/smart-shoes-p12401020.html?v1=177672652"
   },
   {
-    "name": "TEXTURED STRIPED SHIRT",
+    "name": "GEOMETRIC JACQUARD SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-striped-shirt-p07545204.html?v1=181664406"
-  },
-  {
-    "name": "TRAINING T-SHIRT WITH SLOGAN",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/training-t-shirt-with-slogan-p06530400.html?v1=177876222"
+    "link": "https://www.zara.com/in/en/geometric-jacquard-shirt-p03717157.html?v1=179892316"
   },
   {
     "name": "KNIT T-SHIRT WITH VISCOSE",
@@ -3600,10 +3540,22 @@
     "link": "https://www.zara.com/in/en/chunky-leather-boots-p12007020.html?v1=182904877"
   },
   {
-    "name": "RIBBED TEXTURED SWEATER",
-    "price": 199000,
+    "name": "TEXTURED STRIPED SHIRT",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/ribbed-textured-sweater-p06771323.html?v1=187251906"
+    "link": "https://www.zara.com/in/en/textured-striped-shirt-p07545204.html?v1=181664406"
+  },
+  {
+    "name": "HIGH NECK OVERSIZE T-SHIRT",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/high-neck-oversize-t-shirt-p04087334.html?v1=195366218"
+  },
+  {
+    "name": "TRAINING T-SHIRT WITH SLOGAN",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/training-t-shirt-with-slogan-p06530400.html?v1=177876222"
   },
   {
     "name": "STRIPED SHIRT",
@@ -3624,16 +3576,16 @@
     "link": "https://www.zara.com/in/en/high-neck-oversize-t-shirt-p04087334.html?v1=195366219"
   },
   {
-    "name": "OVERSIZED OXFORD SHIRT",
+    "name": "PRINTED STRETCH SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545337.html?v1=211200654"
+    "link": "https://www.zara.com/in/en/printed-stretch-shirt-p07545334.html?v1=177653586"
   },
   {
-    "name": "T-SHIRT WITH CONTRAST PRINT",
-    "price": 99000,
+    "name": "LACE-UP BOOTS WITH CHUNKY SOLE",
+    "price": 349000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-print-p00722313.html?v1=177677738"
+    "link": "https://www.zara.com/in/en/lace-up-boots-with-chunky-sole-p12040021.html?v1=190223401"
   },
   {
     "name": "SHIRT WITH SCARF COLLAR",
@@ -3654,6 +3606,12 @@
     "link": "https://www.zara.com/in/en/turtleneck-sweater-p05461401.html?v1=242457257"
   },
   {
+    "name": "RIBBED TEXTURED SWEATER",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/ribbed-textured-sweater-p06771323.html?v1=187251906"
+  },
+  {
     "name": "PREMIUM SLOGAN T-SHIRT",
     "price": 99000,
     "discount": 50,
@@ -3666,40 +3624,16 @@
     "link": "https://www.zara.com/in/en/lyocell---linen-shirt-p05685282.html?v1=189569459"
   },
   {
+    "name": "OVERSIZED OXFORD SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545337.html?v1=211200654"
+  },
+  {
     "name": "PREMIUM SLOGAN T-SHIRT",
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/premium-slogan-t-shirt-p04087301.html?v1=177672826"
-  },
-  {
-    "name": "RIB NECK T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p00722401.html?v1=177672576"
-  },
-  {
-    "name": "FLORAL PRINT DENIM JACKET",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-print-denim-jacket-p00108450.html?v1=227583150"
-  },
-  {
-    "name": "TEXTURED OXFORD SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-oxford-shirt-p01434635.html?v1=206522077"
-  },
-  {
-    "name": "OVERSIZED OXFORD SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545318.html?v1=211161554"
-  },
-  {
-    "name": "CUTWORK EMBROIDERY SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/cutwork-embroidery-shirt-p01300152.html?v1=183049372"
   },
   {
     "name": "STRIPED SHIRT",
@@ -3714,16 +3648,22 @@
     "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545360.html?v1=191801322"
   },
   {
+    "name": "T-SHIRT WITH CONTRAST PRINT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-print-p00722313.html?v1=177677738"
+  },
+  {
     "name": "SLOGAN T-SHIRT",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/slogan-t-shirt-p06224400.html?v1=235400289"
   },
   {
-    "name": "STRETCH SHIRT",
+    "name": "TEXTURED OXFORD SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/stretch-shirt-p07545434.html?v1=197524269"
+    "link": "https://www.zara.com/in/en/textured-oxford-shirt-p01434635.html?v1=206522077"
   },
   {
     "name": "MOCK NECK SWEATER",
@@ -3738,16 +3678,28 @@
     "link": "https://www.zara.com/in/en/turtleneck-sweater-p06771319.html?v1=183715191"
   },
   {
-    "name": "TEXTURED TANK TOP",
+    "name": "RIB NECK T-SHIRT",
     "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-tank-top-p00977309.html?v1=185998419"
+    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p00722401.html?v1=177672576"
   },
   {
-    "name": "TEXTURED SHIRT",
+    "name": "OVERSIZED OXFORD SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-shirt-p03611300.html?v1=206552134"
+    "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545318.html?v1=211161554"
+  },
+  {
+    "name": "CUTWORK EMBROIDERY SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cutwork-embroidery-shirt-p01300152.html?v1=183049372"
+  },
+  {
+    "name": "STRETCH SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/stretch-shirt-p07545434.html?v1=197524269"
   },
   {
     "name": "COTTON SHIRT",
@@ -3756,22 +3708,76 @@
     "link": "https://www.zara.com/in/en/cotton-shirt-p03182405.html?v1=183949964"
   },
   {
-    "name": "POLO SHIRT WITH STAND-UP COLLAR",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/polo-shirt-with-stand-up-collar-p01887302.html?v1=187709944"
-  },
-  {
     "name": "PRINTED SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/printed-shirt-p05564421.html?v1=184470588"
   },
   {
-    "name": "LACE-UP BOOTS WITH CHUNKY SOLE",
-    "price": 349000,
+    "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
+    "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/lace-up-boots-with-chunky-sole-p12040021.html?v1=190223401"
+    "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12324020.html?v1=180382413"
+  },
+  {
+    "name": "SPORTY LEATHER LOAFERS",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/sporty-leather-loafers-p12620920.html?v1=177657451"
+  },
+  {
+    "name": "TEXTURED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-shirt-p05588093.html?v1=186946335"
+  },
+  {
+    "name": "TEXTURED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-shirt-p03611300.html?v1=206552134"
+  },
+  {
+    "name": "TEXTURED KNIT POLO SHIRT",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-knit-polo-shirt-p09598302.html?v1=183708271"
+  },
+  {
+    "name": "STUDDED SNEAKERS",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/studded-sneakers-p12205020.html?v1=177666889"
+  },
+  {
+    "name": "TEXTURED TANK TOP",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-tank-top-p00977309.html?v1=185998419"
+  },
+  {
+    "name": "LYOCELL BLEND SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/lyocell-blend-shirt-p05588135.html?v1=204848887"
+  },
+  {
+    "name": "PADDED JACKET",
+    "price": 399000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/padded-jacket-p00706332.html?v1=188287635"
+  },
+  {
+    "name": "POLO SHIRT WITH STAND-UP COLLAR",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/polo-shirt-with-stand-up-collar-p01887302.html?v1=187709944"
+  },
+  {
+    "name": "ROLLING STONE ® PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/rolling-stone---print-t-shirt-p00962319.html?v1=189949117"
   },
   {
     "name": "STRIPED SHIRT",
@@ -3792,36 +3798,6 @@
     "link": "https://www.zara.com/in/en/lightweight-cotton-jacket-p07446408.html?v1=184325403"
   },
   {
-    "name": "TEXTURED KNIT POLO SHIRT",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-knit-polo-shirt-p09598302.html?v1=183708271"
-  },
-  {
-    "name": "LYOCELL BLEND SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/lyocell-blend-shirt-p05588135.html?v1=204848887"
-  },
-  {
-    "name": "TEXTURED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-shirt-p05588093.html?v1=186946335"
-  },
-  {
-    "name": "PADDED JACKET",
-    "price": 399000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/padded-jacket-p00706332.html?v1=188287635"
-  },
-  {
-    "name": "STRIPED TEXTURED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-textured-shirt-p03057170.html?v1=185138279"
-  },
-  {
     "name": "CREASED-EFFECT TOP",
     "price": 99000,
     "discount": 50,
@@ -3832,12 +3808,6 @@
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/abstract-print-shirt-p05983220.html?v1=202982485"
-  },
-  {
-    "name": "RIB NECK T-SHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p04442352.html?v1=197992370"
   },
   {
     "name": "POLO SHIRT WITH STAND-UP COLLAR",
@@ -3852,34 +3822,28 @@
     "link": "https://www.zara.com/in/en/tropical-print-shirt-p05683380.html?v1=195913076"
   },
   {
-    "name": "MOCK NECK SWEATER",
-    "price": 199000,
+    "name": "RIB NECK T-SHIRT",
+    "price": 129000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/mock-neck-sweater-p06674301.html?v1=187249968"
+    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p04442352.html?v1=197992370"
   },
   {
-    "name": "BOUCLÉ SWEATER",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/boucl--sweater-p05536314.html?v1=189269032"
-  },
-  {
-    "name": "FLORAL JACQUARD SHIRT",
+    "name": "STRIPED TEXTURED SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-jacquard-shirt-p01608306.html?v1=189280784"
-  },
-  {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p04514108.html?v1=178073542"
+    "link": "https://www.zara.com/in/en/striped-textured-shirt-p03057170.html?v1=185138279"
   },
   {
     "name": "STRIPED SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/striped-shirt-p00387300.html?v1=185991216"
+  },
+  {
+    "name": "FLORAL JACQUARD SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/floral-jacquard-shirt-p01608306.html?v1=189280784"
   },
   {
     "name": "FAUX LEATHER JACKET",
@@ -3894,16 +3858,10 @@
     "link": "https://www.zara.com/in/en/faux-fur-jacket-p00993302.html?v1=179337632"
   },
   {
-    "name": "CONTRAST PRINTED T-SHIRT",
-    "price": 99000,
+    "name": "STRIPED SHIRT",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p03037304.html?v1=185138294"
-  },
-  {
-    "name": "PRINTED DENIM OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/printed-denim-overshirt-p06917334.html?v1=182871830"
+    "link": "https://www.zara.com/in/en/striped-shirt-p04514108.html?v1=178073542"
   },
   {
     "name": "RELAXED FIT SHIRT",
@@ -3918,22 +3876,10 @@
     "link": "https://www.zara.com/in/en/textured-shirt-p01300830.html?v1=186915409"
   },
   {
-    "name": "COTTON SHIRT",
-    "price": 149000,
+    "name": "PRINTED DENIM OVERSHIRT",
+    "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/cotton-shirt-p05588476.html?v1=208652933"
-  },
-  {
-    "name": "TEXTURED TERRY SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-terry-shirt-p07545202.html?v1=181664403"
-  },
-  {
-    "name": "GEOMETRIC JACQUARD SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/geometric-jacquard-shirt-p07446390.html?v1=202733179"
+    "link": "https://www.zara.com/in/en/printed-denim-overshirt-p06917334.html?v1=182871830"
   },
   {
     "name": "SHIRT WITH CONTRAST COLLAR",
@@ -3942,10 +3888,28 @@
     "link": "https://www.zara.com/in/en/shirt-with-contrast-collar-p07545370.html?v1=177662041"
   },
   {
+    "name": "TEXTURED TERRY SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-terry-shirt-p07545202.html?v1=181664403"
+  },
+  {
     "name": "TROPICAL PRINT SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/tropical-print-shirt-p01608376.html?v1=189292105"
+  },
+  {
+    "name": "GEOMETRIC JACQUARD SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/geometric-jacquard-shirt-p07446390.html?v1=202733179"
+  },
+  {
+    "name": "COTTON SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cotton-shirt-p05588476.html?v1=208652933"
   },
   {
     "name": "QUILTED GILET JACKET",
@@ -3960,10 +3924,10 @@
     "link": "https://www.zara.com/in/en/knit-t-shirt-with-viscose-p03471302.html?v1=179335995"
   },
   {
-    "name": "FAUX-PATENT-FINISH LOAFERS",
-    "price": 299000,
+    "name": "CONTRAST CORDUROY JACKET",
+    "price": 399000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/faux-patent-finish-loafers-p12650020.html?v1=197325342"
+    "link": "https://www.zara.com/in/en/contrast-corduroy-jacket-p00706339.html?v1=201662675"
   },
   {
     "name": "TURTLENECK SWEATER",
@@ -3972,40 +3936,16 @@
     "link": "https://www.zara.com/in/en/turtleneck-sweater-p00632305.html?v1=185463441"
   },
   {
-    "name": "SHIRT SET",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/shirt-set-p02599321.html?v1=194923443"
-  },
-  {
-    "name": "CONTRAST CORDUROY JACKET",
-    "price": 399000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-corduroy-jacket-p00706339.html?v1=201662675"
-  },
-  {
     "name": "MERCERISED COTTON FINISH KNIT SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/mercerised-cotton-finish-knit-shirt-p05980284.html?v1=205828327"
   },
   {
-    "name": "ABSTRACT PRINT FAUX SHEARLING JACKET",
-    "price": 399000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/abstract-print-faux-shearling-jacket-p03548305.html?v1=203017413"
-  },
-  {
-    "name": "FLORAL PRINT SHIRT",
+    "name": "SHIRT SET",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-print-shirt-p05563421.html?v1=184470568"
-  },
-  {
-    "name": "TEXTURED T-SHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-t-shirt-p02888300.html?v1=180382399"
+    "link": "https://www.zara.com/in/en/shirt-set-p02599321.html?v1=194923443"
   },
   {
     "name": "STAND-UP COLLAR SHIRT",
@@ -4014,10 +3954,10 @@
     "link": "https://www.zara.com/in/en/stand-up-collar-shirt-p07545691.html?v1=201671262"
   },
   {
-    "name": "SLOGAN PRINT T-SHIRT",
-    "price": 99000,
+    "name": "STRIPED SHIRT",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p04374300.html?v1=185138225"
+    "link": "https://www.zara.com/in/en/striped-shirt-p01063106.html?v1=177662238"
   },
   {
     "name": "STRIPED SHIRT",
@@ -4032,6 +3972,30 @@
     "link": "https://www.zara.com/in/en/geometric-print-shirt-p06581430.html?v1=218271532"
   },
   {
+    "name": "ABSTRACT PRINT FAUX SHEARLING JACKET",
+    "price": 399000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/abstract-print-faux-shearling-jacket-p03548305.html?v1=203017413"
+  },
+  {
+    "name": "FLORAL PRINT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/floral-print-shirt-p05563421.html?v1=184470568"
+  },
+  {
+    "name": "SLOGAN PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p04374300.html?v1=185138225"
+  },
+  {
+    "name": "TEXTURED T-SHIRT",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-t-shirt-p02888300.html?v1=180382399"
+  },
+  {
     "name": "OVERSHIRT WITH POCKETS",
     "price": 249000,
     "discount": 50,
@@ -4044,10 +4008,10 @@
     "link": "https://www.zara.com/in/en/smart-shoes-p12402920.html?v1=177649140"
   },
   {
-    "name": "SPLIT SUEDE LEATHER CLOGS",
-    "price": 229000,
+    "name": "SPLIT SUEDE LEATHER ANKLE BOOTS",
+    "price": 349000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490698"
+    "link": "https://www.zara.com/in/en/split-suede-leather-ankle-boots-p12060120.html?v1=244089308"
   },
   {
     "name": "FLORAL PRINT SHIRT",
@@ -4056,16 +4020,10 @@
     "link": "https://www.zara.com/in/en/floral-print-shirt-p02187300.html?v1=178633921"
   },
   {
-    "name": "RIB NECK T-SHIRT",
-    "price": 99000,
+    "name": "SPLIT SUEDE LEATHER CLOGS",
+    "price": 229000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p00722401.html?v1=180854810"
-  },
-  {
-    "name": "BASKETBALL PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basketball-print-t-shirt-p03037302.html?v1=185138315"
+    "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490698"
   },
   {
     "name": "CREASED-EFFECT SHIRT",
@@ -4080,10 +4038,10 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p05588290.html?v1=193456056"
   },
   {
-    "name": "METALLIC SLOGAN T-SHIRT",
+    "name": "BASKETBALL PRINT T-SHIRT",
     "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/metallic-slogan-t-shirt-p04087315.html?v1=185472987"
+    "link": "https://www.zara.com/in/en/basketball-print-t-shirt-p03037302.html?v1=185138315"
   },
   {
     "name": "CONTRAST JACQUARD JACKET",
@@ -4092,10 +4050,10 @@
     "link": "https://www.zara.com/in/en/contrast-jacquard-jacket-p03286402.html?v1=192619712"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
+    "name": "RIB NECK T-SHIRT",
+    "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p01413037.html?v1=177672407"
+    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p00722401.html?v1=180854810"
   },
   {
     "name": "CONTRAST CORDUROY OVERSHIRT",
@@ -4110,10 +4068,22 @@
     "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545300.html?v1=192130358"
   },
   {
+    "name": "METALLIC SLOGAN T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/metallic-slogan-t-shirt-p04087315.html?v1=185472987"
+  },
+  {
     "name": "OVERSIZED OXFORD SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545311.html?v1=192668116"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/striped-shirt-p01413037.html?v1=177672407"
   },
   {
     "name": "TEXTURED SHIRT",
@@ -4128,10 +4098,10 @@
     "link": "https://www.zara.com/in/en/bonsai-print-overshirt-p07446322.html?v1=181923709"
   },
   {
-    "name": "T-SHIRT WITH BUTTONED NECK",
-    "price": 129000,
+    "name": "CONTRAST QUILTED JACKET",
+    "price": 399000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/t-shirt-with-buttoned-neck-p02888315.html?v1=189287070"
+    "link": "https://www.zara.com/in/en/contrast-quilted-jacket-p08288801.html?v1=191138429"
   },
   {
     "name": "T-SHIRT WITH THERMO-SEALED FINISH",
@@ -4140,10 +4110,10 @@
     "link": "https://www.zara.com/in/en/t-shirt-with-thermo-sealed-finish-p04087416.html?v1=194950057"
   },
   {
-    "name": "CONTRAST QUILTED JACKET",
-    "price": 399000,
+    "name": "T-SHIRT WITH BUTTONED NECK",
+    "price": 129000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-quilted-jacket-p08288801.html?v1=191138429"
+    "link": "https://www.zara.com/in/en/t-shirt-with-buttoned-neck-p02888315.html?v1=189287070"
   },
   {
     "name": "OVERSIZE FLANNEL SHIRT",
@@ -4164,16 +4134,16 @@
     "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224324.html?v1=187679870"
   },
   {
-    "name": "TEXTURED SHIRT WITH POCKET",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545300.html?v1=192130359"
-  },
-  {
     "name": "Split suede leather boots",
     "price": 349000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/split-suede-leather-boots-p12003020.html?v1=192130362"
+  },
+  {
+    "name": "TEXTURED SHIRT WITH POCKET",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545300.html?v1=192130359"
   },
   {
     "name": "CHECK DOUBLE-FACED JACKET",
@@ -4212,16 +4182,16 @@
     "link": "https://www.zara.com/in/en/lace-up-sneakers-p12251020.html?v1=202325745"
   },
   {
-    "name": "TECHNICAL FABRIC HIGH-TOP SNEAKERS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/technical-fabric-high-top-sneakers-p12102020.html?v1=177677936"
-  },
-  {
     "name": "CHUNKY SNEAKERS",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/chunky-sneakers-p12227920.html?v1=209680573"
+  },
+  {
+    "name": "TECHNICAL FABRIC HIGH-TOP SNEAKERS",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/technical-fabric-high-top-sneakers-p12102020.html?v1=177677936"
   },
   {
     "name": "TRETORN X ZARA RAIN BOOTS",
@@ -4266,6 +4236,12 @@
     "link": "https://www.zara.com/in/en/training-top-p00347462.html?v1=205281143"
   },
   {
+    "name": "STRAIGHT FIT OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/straight-fit-overshirt-p06917377.html?v1=199204089"
+  },
+  {
     "name": "POLO SHIRT WITH MERCERISED COTTON FINISH",
     "price": 99000,
     "discount": 50,
@@ -4284,16 +4260,10 @@
     "link": "https://www.zara.com/in/en/cotton-jacket-with-pockets-p04164345.html?v1=193545567"
   },
   {
-    "name": "STRAIGHT FIT OVERSHIRT",
+    "name": "OVERSHIRT WITH POCKETS",
     "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/straight-fit-overshirt-p06917377.html?v1=199204089"
-  },
-  {
-    "name": "SOFT FLANNEL SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/soft-flannel-shirt-p05976241.html?v1=207349782"
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917373.html?v1=197308940"
   },
   {
     "name": "LEATHER CROSSBODY BAG",
@@ -4302,10 +4272,10 @@
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13641920.html?v1=177672410"
   },
   {
-    "name": "FLORAL PRINT SHIRT",
+    "name": "SOFT FLANNEL SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-print-shirt-p05698660.html?v1=189675748"
+    "link": "https://www.zara.com/in/en/soft-flannel-shirt-p05976241.html?v1=207349782"
   },
   {
     "name": "TEXTURED SHIRT WITH POCKETS",
@@ -4314,28 +4284,16 @@
     "link": "https://www.zara.com/in/en/textured-shirt-with-pockets-p00975314.html?v1=208033109"
   },
   {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 249000,
+    "name": "TRAINING T-SHIRT WITH SLOGAN",
+    "price": 129000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917373.html?v1=197308940"
+    "link": "https://www.zara.com/in/en/training-t-shirt-with-slogan-p06530400.html?v1=177876221"
   },
   {
-    "name": "TURTLENECK SWEATER",
-    "price": 199000,
+    "name": "FLORAL PRINT SHIRT",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/turtleneck-sweater-p05461401.html?v1=242457256"
-  },
-  {
-    "name": "INK PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/ink-print-t-shirt-p00977307.html?v1=185996198"
-  },
-  {
-    "name": "WATER-REPELLENT PARKA",
-    "price": 399000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/water-repellent-parka-p08281462.html?v1=187710000"
+    "link": "https://www.zara.com/in/en/floral-print-shirt-p08574337.html?v1=184325378"
   },
   {
     "name": "CONTRAST PRINTED T-SHIRT",
@@ -4347,25 +4305,13 @@
     "name": "FLORAL PRINT SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-print-shirt-p08574337.html?v1=184325378"
+    "link": "https://www.zara.com/in/en/floral-print-shirt-p05698660.html?v1=189675748"
   },
   {
-    "name": "TRAINING T-SHIRT WITH SLOGAN",
-    "price": 129000,
+    "name": "WATER-REPELLENT PARKA",
+    "price": 399000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/training-t-shirt-with-slogan-p06530400.html?v1=177876221"
-  },
-  {
-    "name": "SEAMLESS SHORT SLEEVE T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/seamless-short-sleeve-t-shirt-p00347450.html?v1=184763995"
-  },
-  {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=209088173"
+    "link": "https://www.zara.com/in/en/water-repellent-parka-p08281462.html?v1=187710000"
   },
   {
     "name": "GOLF PRINT T-SHIRT",
@@ -4374,10 +4320,22 @@
     "link": "https://www.zara.com/in/en/golf-print-t-shirt-p06224402.html?v1=185668617"
   },
   {
-    "name": "SHORT SLEEVE OXFORD SHIRT",
-    "price": 149000,
+    "name": "SEAMLESS SHORT SLEEVE T-SHIRT",
+    "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/short-sleeve-oxford-shirt-p06640656.html?v1=213574649"
+    "link": "https://www.zara.com/in/en/seamless-short-sleeve-t-shirt-p00347450.html?v1=184763995"
+  },
+  {
+    "name": "INK PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/ink-print-t-shirt-p00977307.html?v1=185996198"
+  },
+  {
+    "name": "TURTLENECK SWEATER",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/turtleneck-sweater-p05461401.html?v1=242457256"
   },
   {
     "name": "RUNNING GILET",
@@ -4386,16 +4344,16 @@
     "link": "https://www.zara.com/in/en/running-gilet-p02966400.html?v1=185846585"
   },
   {
-    "name": "TEXTURED SWEATER",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-sweater-p05755319.html?v1=188071409"
-  },
-  {
     "name": "POPLIN SHIRT WITH POCKET",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/poplin-shirt-with-pocket-p05514048.html?v1=211417576"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=209088173"
   },
   {
     "name": "DENIM OVERSHIRT",
@@ -4404,10 +4362,28 @@
     "link": "https://www.zara.com/in/en/denim-overshirt-p06917338.html?v1=179337630"
   },
   {
+    "name": "SHORT SLEEVE OXFORD SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/short-sleeve-oxford-shirt-p06640656.html?v1=213574649"
+  },
+  {
+    "name": "TEXTURED SWEATER",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-sweater-p05755319.html?v1=188071409"
+  },
+  {
     "name": "PARKA WITH RUBBERISED FINISH",
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/parka-with-rubberised-finish-p08281412.html?v1=191124251"
+  },
+  {
+    "name": "RUNNING CLUB PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/running-club-print-t-shirt-p05584324.html?v1=185079029"
   },
   {
     "name": "CHECK SET SHIRT",
@@ -4422,22 +4398,16 @@
     "link": "https://www.zara.com/in/en/creased-effect-jacket-p08281882.html?v1=188065347"
   },
   {
-    "name": "RUNNING CLUB PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-club-print-t-shirt-p05584324.html?v1=185079029"
-  },
-  {
     "name": "100% LINEN SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/100-linen-shirt-p04702262.html?v1=184470609"
   },
   {
-    "name": "SLOGAN PRINT T-SHIRT",
-    "price": 99000,
+    "name": "TURTLENECK SWEATER",
+    "price": 199000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p00679318.html?v1=195918125"
+    "link": "https://www.zara.com/in/en/turtleneck-sweater-p00632305.html?v1=185463442"
   },
   {
     "name": "RELAXED FIT CHECKED SUIT SHIRT",
@@ -4449,13 +4419,13 @@
     "name": "SLOGAN PRINT T-SHIRT",
     "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p00977310.html?v1=185996200"
+    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p00679318.html?v1=195918125"
   },
   {
-    "name": "TURTLENECK SWEATER",
-    "price": 199000,
+    "name": "SLOGAN PRINT T-SHIRT",
+    "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/turtleneck-sweater-p00632305.html?v1=185463442"
+    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p00977310.html?v1=185996200"
   },
   {
     "name": "SHIRT WITH EMBROIDERED COLLAR",
@@ -4464,22 +4434,16 @@
     "link": "https://www.zara.com/in/en/shirt-with-embroidered-collar-p06085354.html?v1=203017399"
   },
   {
+    "name": "OVERSHIRT WITH ZIP",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/overshirt-with-zip-p06085349.html?v1=196153456"
+  },
+  {
     "name": "STRIPED SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/striped-shirt-p01063040.html?v1=178094088"
-  },
-  {
-    "name": "OBJECT PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/object-print-shirt-p08574336.html?v1=184325372"
-  },
-  {
-    "name": "RIB NECK T-SHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p04442352.html?v1=197992372"
   },
   {
     "name": "TEXTURED CARDIGAN",
@@ -4488,10 +4452,22 @@
     "link": "https://www.zara.com/in/en/textured-cardigan-p05755304.html?v1=177653339"
   },
   {
+    "name": "OBJECT PRINT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/object-print-shirt-p08574336.html?v1=184325372"
+  },
+  {
     "name": "TIE-DYE PRINT VEST",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/tie-dye-print-vest-p07446409.html?v1=184325401"
+  },
+  {
+    "name": "RIB NECK T-SHIRT",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p04442352.html?v1=197992372"
   },
   {
     "name": "CROPPED EXERCISE T-SHIRT",
@@ -4509,25 +4485,7 @@
     "name": "OVERSHIRT WITH ZIP",
     "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/overshirt-with-zip-p06085349.html?v1=196153456"
-  },
-  {
-    "name": "TURTLENECK SWEATER",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/turtleneck-sweater-p06771319.html?v1=183715189"
-  },
-  {
-    "name": "OVERSHIRT WITH ZIP",
-    "price": 249000,
-    "discount": 50,
     "link": "https://www.zara.com/in/en/overshirt-with-zip-p06085349.html?v1=196153457"
-  },
-  {
-    "name": "FLORAL PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/floral-print-shirt-p02187300.html?v1=178633923"
   },
   {
     "name": "OVERSIZED SHIRT",
@@ -4536,10 +4494,28 @@
     "link": "https://www.zara.com/in/en/oversized-shirt-p05570318.html?v1=189902561"
   },
   {
+    "name": "DENIM OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/denim-overshirt-p06917371.html?v1=196153439"
+  },
+  {
     "name": "LONG SLEEVE T-SHIRT",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/long-sleeve-t-shirt-p00722350.html?v1=191118458"
+  },
+  {
+    "name": "TURTLENECK SWEATER",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/turtleneck-sweater-p06771319.html?v1=183715189"
+  },
+  {
+    "name": "MOCK NECK SWEATER",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/mock-neck-sweater-p06674301.html?v1=187249968"
   },
   {
     "name": "RUSTIC SHIRT",
@@ -4548,34 +4524,10 @@
     "link": "https://www.zara.com/in/en/rustic-shirt-p01608304.html?v1=187035255"
   },
   {
-    "name": "T-SHIRT WITH PRINTED GRAPHICS",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/t-shirt-with-printed-graphics-p06224318.html?v1=187257624"
-  },
-  {
-    "name": "CUTWORK EMBROIDERY SHIRT",
+    "name": "FLORAL PRINT SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/cutwork-embroidery-shirt-p03717135.html?v1=178608372"
-  },
-  {
-    "name": "BLURRED PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/blurred-print-t-shirt-p06224353.html?v1=191594253"
-  },
-  {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p01063106.html?v1=177662238"
-  },
-  {
-    "name": "DENIM OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/denim-overshirt-p06917371.html?v1=196153439"
+    "link": "https://www.zara.com/in/en/floral-print-shirt-p02187300.html?v1=178633923"
   },
   {
     "name": "STRIPED SHIRT",
@@ -4584,10 +4536,10 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p05684358.html?v1=199765526"
   },
   {
-    "name": "OMBRÉ PRINT T-SHIRT",
+    "name": "T-SHIRT WITH PRINTED GRAPHICS",
     "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/ombr--print-t-shirt-p05644301.html?v1=179366029"
+    "link": "https://www.zara.com/in/en/t-shirt-with-printed-graphics-p06224318.html?v1=187257624"
   },
   {
     "name": "TEXTURED SHIRT WITH POCKETS",
@@ -4596,34 +4548,28 @@
     "link": "https://www.zara.com/in/en/textured-shirt-with-pockets-p07446310.html?v1=178603859"
   },
   {
-    "name": "JACQUARD SHIRT",
-    "price": 149000,
+    "name": "BLURRED PRINT T-SHIRT",
+    "price": 99000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/jacquard-shirt-p07446305.html?v1=178603861"
+    "link": "https://www.zara.com/in/en/blurred-print-t-shirt-p06224353.html?v1=191594253"
   },
   {
-    "name": "TROPICAL PRINT SHIRT",
+    "name": "CUTWORK EMBROIDERY SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/tropical-print-shirt-p05862731.html?v1=189981279"
+    "link": "https://www.zara.com/in/en/cutwork-embroidery-shirt-p03717135.html?v1=178608372"
+  },
+  {
+    "name": "OMBRÉ PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/ombr--print-t-shirt-p05644301.html?v1=179366029"
   },
   {
     "name": "LIGHTWEIGHT COTTON SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/lightweight-cotton-shirt-p06085326.html?v1=189253215"
-  },
-  {
-    "name": "LIGHTWEIGHT PUFFER GILET",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/lightweight-puffer-gilet-p05320330.html?v1=204848936"
-  },
-  {
-    "name": "EMBROIDERED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/embroidered-shirt-p06085309.html?v1=184088056"
   },
   {
     "name": "STRIPED SHIRT",
@@ -4638,46 +4584,10 @@
     "link": "https://www.zara.com/in/en/patch-overshirt-p07446380.html?v1=188767172"
   },
   {
-    "name": "FLOWING TOP",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/flowing-top-p00722346.html?v1=195384344"
-  },
-  {
-    "name": "LYOCELL SHIRT",
+    "name": "JACQUARD SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/lyocell-shirt-p07545245.html?v1=182321180"
-  },
-  {
-    "name": "CONTRAST PRINTED T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224349.html?v1=189618991"
-  },
-  {
-    "name": "TEXTURED SWEATER WITH STRIPES",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-sweater-with-stripes-p06771315.html?v1=182865018"
-  },
-  {
-    "name": "PATCH OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/patch-overshirt-p07446380.html?v1=188767173"
-  },
-  {
-    "name": "STRIPED T­SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-t%C2%ADshirt-p02795312.html?v1=185983323"
-  },
-  {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01300249.html?v1=203278237"
+    "link": "https://www.zara.com/in/en/jacquard-shirt-p07446305.html?v1=178603861"
   },
   {
     "name": "COTTON PARKA",
@@ -4686,16 +4596,82 @@
     "link": "https://www.zara.com/in/en/cotton-parka-p06917423.html?v1=185876997"
   },
   {
+    "name": "PATCH OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/patch-overshirt-p07446380.html?v1=188767173"
+  },
+  {
+    "name": "TROPICAL PRINT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/tropical-print-shirt-p05862731.html?v1=189981279"
+  },
+  {
+    "name": "EMBROIDERED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/embroidered-shirt-p06085309.html?v1=184088056"
+  },
+  {
+    "name": "FLOWING TOP",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/flowing-top-p00722346.html?v1=195384344"
+  },
+  {
+    "name": "STRIPED T­SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/striped-t%C2%ADshirt-p02795312.html?v1=185983323"
+  },
+  {
     "name": "FLORAL PRINT OVERSHIRT",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/floral-print-overshirt-p06917331.html?v1=182871833"
   },
   {
-    "name": "FAUX SHEARLING OVERSHIRT",
+    "name": "OVERSHIRT WITH POCKETS",
     "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/faux-shearling-overshirt-p01248310.html?v1=188804870"
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p05707662.html?v1=191605103"
+  },
+  {
+    "name": "CONTRAST PRINTED T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224349.html?v1=189618991"
+  },
+  {
+    "name": "OVERSHIRT WITH POCKETS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01300249.html?v1=203278237"
+  },
+  {
+    "name": "LYOCELL SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/lyocell-shirt-p07545245.html?v1=182321180"
+  },
+  {
+    "name": "LIGHTWEIGHT PUFFER GILET",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/lightweight-puffer-gilet-p05320330.html?v1=204848936"
+  },
+  {
+    "name": "FRUIT PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/fruit-print-t-shirt-p06224308.html?v1=183703978"
+  },
+  {
+    "name": "TEXTURED SWEATER WITH STRIPES",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-sweater-with-stripes-p06771315.html?v1=182865018"
   },
   {
     "name": "T-SHIRT WITH PRINTED GRAPHICS",
@@ -4710,16 +4686,10 @@
     "link": "https://www.zara.com/in/en/leather-cage-sandals-p12717020.html?v1=177666747"
   },
   {
-    "name": "OVERSHIRT WITH POCKETS",
+    "name": "FAUX SHEARLING OVERSHIRT",
     "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p05707662.html?v1=191605103"
-  },
-  {
-    "name": "FRUIT PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/fruit-print-t-shirt-p06224308.html?v1=183703978"
+    "link": "https://www.zara.com/in/en/faux-shearling-overshirt-p01248310.html?v1=188804870"
   },
   {
     "name": "STRIPED SHIRT",
@@ -4728,22 +4698,10 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p03717303.html?v1=186773322"
   },
   {
-    "name": "MESH TEXTURED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/mesh-textured-shirt-p06085323.html?v1=187244375"
-  },
-  {
-    "name": "PRINTED SHIRT X RHUIGI",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/printed-shirt-x-rhuigi-p06085341.html?v1=177680907"
-  },
-  {
-    "name": "ZIP-UP JACKET",
+    "name": "DENIM OVERSHIRT",
     "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/zip-up-jacket-p07446407.html?v1=184325402"
+    "link": "https://www.zara.com/in/en/denim-overshirt-p06917337.html?v1=179127172"
   },
   {
     "name": "STRIPED COTTON - LINEN SHIRT",
@@ -4752,28 +4710,10 @@
     "link": "https://www.zara.com/in/en/striped-cotton---linen-shirt-p02688230.html?v1=188540541"
   },
   {
-    "name": "TECHNICAL WINDBREAKER PARKA",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/technical-windbreaker-parka-p08574469.html?v1=186463132"
-  },
-  {
-    "name": "CHECK SHIRT",
+    "name": "PRINTED SHIRT X RHUIGI",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/check-shirt-p00975312.html?v1=193550587"
-  },
-  {
-    "name": "OVERSHIRT WITH ZIP",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/overshirt-with-zip-p07446320.html?v1=191599103"
-  },
-  {
-    "name": "SHAWL COLLAR SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/shawl-collar-shirt-p05565120.html?v1=183868732"
+    "link": "https://www.zara.com/in/en/printed-shirt-x-rhuigi-p06085341.html?v1=177680907"
   },
   {
     "name": "FACE PRINT T-SHIRT",
@@ -4782,22 +4722,10 @@
     "link": "https://www.zara.com/in/en/face-print-t-shirt-p00962328.html?v1=195890608"
   },
   {
-    "name": "DENIM OVERSHIRT",
-    "price": 249000,
+    "name": "MESH TEXTURED SHIRT",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/denim-overshirt-p06917337.html?v1=179127172"
-  },
-  {
-    "name": "PRINTED DENIM OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/printed-denim-overshirt-p06917336.html?v1=182871829"
-  },
-  {
-    "name": "DENIM OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/denim-overshirt-p06917378.html?v1=221841984"
+    "link": "https://www.zara.com/in/en/mesh-textured-shirt-p06085323.html?v1=187244375"
   },
   {
     "name": "POPLIN SHIRT",
@@ -4806,16 +4734,28 @@
     "link": "https://www.zara.com/in/en/poplin-shirt-p01781566.html?v1=195934372"
   },
   {
-    "name": "ASYMMETRIC DENIM OVERSHIRT",
+    "name": "ZIP-UP JACKET",
     "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/asymmetric-denim-overshirt-p08062433.html?v1=177653270"
+    "link": "https://www.zara.com/in/en/zip-up-jacket-p07446407.html?v1=184325402"
   },
   {
-    "name": "FAUX LEATHER OVERSHIRT",
-    "price": 249000,
+    "name": "CHECK SHIRT",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/faux-leather-overshirt-p05070464.html?v1=186011217"
+    "link": "https://www.zara.com/in/en/check-shirt-p00975312.html?v1=193550587"
+  },
+  {
+    "name": "SHAWL COLLAR SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/shawl-collar-shirt-p05565120.html?v1=183868732"
+  },
+  {
+    "name": "TECHNICAL WINDBREAKER PARKA",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/technical-windbreaker-parka-p08574469.html?v1=186463132"
   },
   {
     "name": "STRIPED SHIRT",
@@ -4824,34 +4764,40 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p02688212.html?v1=191323562"
   },
   {
+    "name": "PRINTED DENIM OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/printed-denim-overshirt-p06917336.html?v1=182871829"
+  },
+  {
+    "name": "FAUX LEATHER OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/faux-leather-overshirt-p05070464.html?v1=186011217"
+  },
+  {
+    "name": "OVERSHIRT WITH ZIP",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/overshirt-with-zip-p07446320.html?v1=191599103"
+  },
+  {
+    "name": "ASYMMETRIC DENIM OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/asymmetric-denim-overshirt-p08062433.html?v1=177653270"
+  },
+  {
+    "name": "DENIM OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/denim-overshirt-p06917378.html?v1=221841984"
+  },
+  {
     "name": "CONTRAST CORDUROY OVERSHIRT",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/contrast-corduroy-overshirt-p01538366.html?v1=185138353"
-  },
-  {
-    "name": "FACE PRINT OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/face-print-overshirt-p07446325.html?v1=201274456"
-  },
-  {
-    "name": "REGULAR FIT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/regular-fit-shirt-p02688100.html?v1=200060869"
-  },
-  {
-    "name": "CASSETTE PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/cassette-print-shirt-p06085346.html?v1=189289017"
-  },
-  {
-    "name": "CORDUROY OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/corduroy-overshirt-p01538317.html?v1=192067835"
   },
   {
     "name": "LIGHTWEIGHT COTTON SHIRT",
@@ -4866,16 +4812,22 @@
     "link": "https://www.zara.com/in/en/poplin-shirt-p01781566.html?v1=195934371"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
+    "name": "FACE PRINT OVERSHIRT",
+    "price": 249000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p05588634.html?v1=192642833"
+    "link": "https://www.zara.com/in/en/face-print-overshirt-p07446325.html?v1=201274456"
   },
   {
-    "name": "TEXTURED SHIRT",
+    "name": "CASSETTE PRINT SHIRT",
     "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-shirt-p04688092.html?v1=202283028"
+    "link": "https://www.zara.com/in/en/cassette-print-shirt-p06085346.html?v1=189289017"
+  },
+  {
+    "name": "REGULAR FIT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/regular-fit-shirt-p02688100.html?v1=200060869"
   },
   {
     "name": "ANIMAL PRINT T-SHIRT",
@@ -4884,10 +4836,16 @@
     "link": "https://www.zara.com/in/en/animal-print-t-shirt-p01165300.html?v1=185627442"
   },
   {
-    "name": "COTTON BLAZER",
-    "price": 299000,
+    "name": "STRIPED SHIRT",
+    "price": 149000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/cotton-blazer-p04387300.html?v1=186820600"
+    "link": "https://www.zara.com/in/en/striped-shirt-p05588634.html?v1=192642833"
+  },
+  {
+    "name": "CORDUROY OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/corduroy-overshirt-p01538317.html?v1=192067835"
   },
   {
     "name": "PHOTO PRINT T-SHIRT",
@@ -4896,22 +4854,34 @@
     "link": "https://www.zara.com/in/en/photo-print-t-shirt-p06224317.html?v1=186011220"
   },
   {
+    "name": "TEXTURED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-shirt-p04688092.html?v1=202283028"
+  },
+  {
+    "name": "COTTON BLAZER",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cotton-blazer-p04387300.html?v1=186820600"
+  },
+  {
     "name": "POPLIN SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/poplin-shirt-p01781584.html?v1=195934376"
   },
   {
-    "name": "TEXTURED SHIRT WITH POCKET",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545360.html?v1=191801323"
-  },
-  {
     "name": "ABSTRACT PRINT T-SHIRT",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/abstract-print-t-shirt-p06224316.html?v1=188071372"
+  },
+  {
+    "name": "TEXTURED SHIRT WITH POCKET",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545360.html?v1=191801323"
   },
   {
     "name": "PATCH OVERSHIRT",
@@ -4932,16 +4902,16 @@
     "link": "https://www.zara.com/in/en/contrast-corduroy-overshirt-p01538366.html?v1=177648798"
   },
   {
-    "name": "FLAME PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/flame-print-shirt-p06085352.html?v1=203017353"
-  },
-  {
     "name": "FINE CORDUROY SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/fine-corduroy-shirt-p05716021.html?v1=194131138"
+  },
+  {
+    "name": "FLAME PRINT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/flame-print-shirt-p06085352.html?v1=203017353"
   },
   {
     "name": "COTTON TWILL SHIRT",
