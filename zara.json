@@ -192,12 +192,6 @@
     "link": "https://www.zara.com/in/en/technical-trench-coat-p07380680.html?v1=190229065"
   },
   {
-    "name": "QUILTED FOLDABLE SLIPPERS",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/quilted-foldable-slippers-p12742820.html?v1=185047005"
-  },
-  {
     "name": "PLEATED TROUSERS",
     "price": 159000,
     "discount": 68,
@@ -630,12 +624,6 @@
     "link": "https://www.zara.com/in/en/textured-jogger-bermuda-shorts-p00761313.html?v1=184857821"
   },
   {
-    "name": "KNIT SCARF",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/knit-scarf-p09065402.html?v1=240787627"
-  },
-  {
     "name": "ROUND NECK SWEATSHIRT",
     "price": 179000,
     "discount": 64,
@@ -646,12 +634,6 @@
     "price": 179000,
     "discount": 64,
     "link": "https://www.zara.com/in/en/faded-sweatshirt---limited-edition-p04087358.html?v1=207850000"
-  },
-  {
-    "name": "KNOP YARN TURTLENECK SWEATER",
-    "price": 179000,
-    "discount": 64,
-    "link": "https://www.zara.com/in/en/knop-yarn-turtleneck-sweater-p02142401.html?v1=242457253"
   },
   {
     "name": "JACQUARD LETTER CARDIGAN",
@@ -1056,12 +1038,6 @@
     "link": "https://www.zara.com/in/en/lace-up-sneakers-p12251020.html?v1=202325745"
   },
   {
-    "name": "CHECK SCARF",
-    "price": 79000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/check-scarf-p05875304.html?v1=191578109"
-  },
-  {
     "name": "WIDE FIT TROUSERS",
     "price": 159000,
     "discount": 60,
@@ -1120,18 +1096,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006597"
-  },
-  {
-    "name": "RIBBED KNIT GLOVES",
-    "price": 79000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/ribbed-knit-gloves-p01942301.html?v1=186464933"
-  },
-  {
-    "name": "GEOMETRIC PRINT JACQUARD GLOVES",
-    "price": 79000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/geometric-print-jacquard-gloves-p01942302.html?v1=186414217"
   },
   {
     "name": "SEERSUCKER JACKET",
@@ -1518,16 +1482,16 @@
     "link": "https://www.zara.com/in/en/viscose-linen-blend-shirt-p02599380.html?v1=206735051"
   },
   {
-    "name": "POPLIN SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060861"
-  },
-  {
     "name": "SPORTY LEATHER LOAFERS",
     "price": 199000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/sporty-leather-loafers-p12655921.html?v1=177666724"
+  },
+  {
+    "name": "POPLIN SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060861"
   },
   {
     "name": "DENIM OVERSHIRT",
@@ -1896,12 +1860,6 @@
     "link": "https://www.zara.com/in/en/premium-slogan-t-shirt-p04087301.html?v1=177672828"
   },
   {
-    "name": "SNOOPY PEANUTS™ PRINT T-SHIRT.",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/snoopy-peanuts--print-t-shirt--p06224351.html?v1=189620873"
-  },
-  {
     "name": "STRIPED ELASTIC SHIRT",
     "price": 149000,
     "discount": 50,
@@ -1936,6 +1894,12 @@
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/t-shirt-with-tennis-player-print-p00679303.html?v1=179140692"
+  },
+  {
+    "name": "SNOOPY PEANUTS™ PRINT T-SHIRT.",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/snoopy-peanuts--print-t-shirt--p06224351.html?v1=189620873"
   },
   {
     "name": "CHECK SET SHIRT",
@@ -2064,22 +2028,16 @@
     "link": "https://www.zara.com/in/en/poplin-shirt-with-pocket-p05514048.html?v1=211417575"
   },
   {
-    "name": "STRETCH SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/stretch-shirt-p07545434.html?v1=197524269"
-  },
-  {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p04148336.html?v1=230982220"
-  },
-  {
     "name": "PREMIUM SLOGAN T-SHIRT",
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/premium-slogan-t-shirt-p04087301.html?v1=177672826"
+  },
+  {
+    "name": "STRETCH SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/stretch-shirt-p07545434.html?v1=197524269"
   },
   {
     "name": "CONTRAST PRINTED T-SHIRT",
@@ -2202,6 +2160,12 @@
     "link": "https://www.zara.com/in/en/knit-t-shirt-with-embroidery-p03284306.html?v1=177672863"
   },
   {
+    "name": "KNIT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/knit-t-shirt-p04231496.html?v1=186357632"
+  },
+  {
     "name": "COTTON SHIRT",
     "price": 149000,
     "discount": 50,
@@ -2212,12 +2176,6 @@
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545300.html?v1=192130358"
-  },
-  {
-    "name": "KNIT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/knit-t-shirt-p04231496.html?v1=186357632"
   },
   {
     "name": "SPLIT SUEDE LEATHER CLOGS",
@@ -2316,16 +2274,16 @@
     "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545300.html?v1=192130359"
   },
   {
-    "name": "CONTRAST PRINTED T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224324.html?v1=187679870"
-  },
-  {
     "name": "TEXTURED SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/textured-shirt-p04688092.html?v1=202283028"
+  },
+  {
+    "name": "CONTRAST PRINTED T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224324.html?v1=187679870"
   },
   {
     "name": "CHECK FLANNEL SHIRT",
