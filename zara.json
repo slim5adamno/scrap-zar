@@ -84,24 +84,6 @@
     "link": "https://www.zara.com/in/en/poplin-pyjama-shirt-p00775317.html?v1=191129801"
   },
   {
-    "name": "ETCHED LEATHER BELT",
-    "price": 79000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/etched-leather-belt-p05919302.html?v1=181684416"
-  },
-  {
-    "name": "LEATHER BELT",
-    "price": 79000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/leather-belt-p02823311.html?v1=182562533"
-  },
-  {
-    "name": "LEATHER BELT",
-    "price": 79000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/leather-belt-p05717300.html?v1=178046725"
-  },
-  {
     "name": "COTTON TRENCH COAT",
     "price": 299000,
     "discount": 72,
@@ -144,12 +126,6 @@
     "link": "https://www.zara.com/in/en/technical-parka-p07380641.html?v1=184857820"
   },
   {
-    "name": "GEOMETRIC PRINT JACQUARD TIE",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/geometric-print-jacquard-tie-p09569301.html?v1=177882648"
-  },
-  {
     "name": "WIDE FIT TROUSERS",
     "price": 159000,
     "discount": 68,
@@ -186,6 +162,12 @@
     "link": "https://www.zara.com/in/en/jogger-waist-twill-trousers-p06861308.html?v1=195890597"
   },
   {
+    "name": "PLEATED SUIT TROUSERS",
+    "price": 159000,
+    "discount": 68,
+    "link": "https://www.zara.com/in/en/pleated-suit-trousers-p05914736.html?v1=202297405"
+  },
+  {
     "name": "STRAIGHT FIT SUIT TROUSERS",
     "price": 159000,
     "discount": 68,
@@ -196,12 +178,6 @@
     "price": 159000,
     "discount": 68,
     "link": "https://www.zara.com/in/en/pleated-suit-trousers-p02674304.html?v1=187247977"
-  },
-  {
-    "name": "PLEATED SUIT TROUSERS",
-    "price": 159000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/pleated-suit-trousers-p05914736.html?v1=202297405"
   },
   {
     "name": "VELVET TROUSERS",
@@ -792,16 +768,16 @@
     "link": "https://www.zara.com/in/en/pleated-trousers-p06861317.html?v1=203180317"
   },
   {
-    "name": "BAGGY FIT JEANS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/baggy-fit-jeans-p06688394.html?v1=202457834"
-  },
-  {
     "name": "WIDE FIT TROUSERS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/wide-fit-trousers-p08288810.html?v1=184759201"
+  },
+  {
+    "name": "BAGGY FIT JEANS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/baggy-fit-jeans-p06688394.html?v1=202457834"
   },
   {
     "name": "CARROT-FIT TROUSERS",
@@ -810,10 +786,10 @@
     "link": "https://www.zara.com/in/en/carrot-fit-trousers-p05846662.html?v1=192076684"
   },
   {
-    "name": "STRIPED KNIT SCARF",
+    "name": "CHECK SCARF",
     "price": 79000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/striped-knit-scarf-p03920318.html?v1=191808472"
+    "link": "https://www.zara.com/in/en/check-scarf-p05875304.html?v1=191578109"
   },
   {
     "name": "WIDE FIT TROUSERS",
@@ -868,6 +844,12 @@
     "price": 79000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/geometric-print-jacquard-gloves-p01942302.html?v1=186414217"
+  },
+  {
+    "name": "RIBBED KNIT GLOVES",
+    "price": 79000,
+    "discount": 58,
+    "link": "https://www.zara.com/in/en/ribbed-knit-gloves-p01942301.html?v1=186464933"
   },
   {
     "name": "COLOUR BLOCK TECHNICAL JACKET",
@@ -1342,12 +1324,6 @@
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/textured-shirt-p07545310.html?v1=183949932"
-  },
-  {
-    "name": "GEOMETRIC JACQUARD SWEATER",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/geometric-jacquard-sweater-p03166311.html?v1=179131604"
   },
   {
     "name": "GEOMETRIC JACQUARD SWEATER",
@@ -1896,16 +1872,16 @@
     "link": "https://www.zara.com/in/en/knit-t-shirt-p04231496.html?v1=186357632"
   },
   {
-    "name": "REGULAR FIT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/regular-fit-shirt-p02688100.html?v1=200060869"
-  },
-  {
     "name": "MERCERISED COTTON FINISH KNIT SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/mercerised-cotton-finish-knit-shirt-p05980284.html?v1=205828327"
+  },
+  {
+    "name": "REGULAR FIT SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/regular-fit-shirt-p02688100.html?v1=200060869"
   },
   {
     "name": "KNIT T-SHIRT WITH EMBROIDERY",
