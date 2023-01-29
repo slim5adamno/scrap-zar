@@ -78,6 +78,12 @@
     "link": "https://www.zara.com/in/en/colour-block-parka-p00706344.html?v1=203278290"
   },
   {
+    "name": "LEATHER BELT",
+    "price": 79000,
+    "discount": 72,
+    "link": "https://www.zara.com/in/en/leather-belt-p05717300.html?v1=178046725"
+  },
+  {
     "name": "PARKA WITH FAUX SHEARLING JACKET",
     "price": 299000,
     "discount": 72,
@@ -336,16 +342,16 @@
     "link": "https://www.zara.com/in/en/training-shorts-p06096402.html?v1=177839931"
   },
   {
-    "name": "CHECKED TEXTURED BLAZER",
-    "price": 299000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/checked-textured-blazer-p06861386.html?v1=188063336"
-  },
-  {
     "name": "HOUNDSTOOTH SUIT BLAZER",
     "price": 299000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/houndstooth-suit-blazer-p05652987.html?v1=182798764"
+  },
+  {
+    "name": "CHECKED TEXTURED BLAZER",
+    "price": 299000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/checked-textured-blazer-p06861386.html?v1=188063336"
   },
   {
     "name": "SUIT BLAZER",
@@ -456,12 +462,6 @@
     "link": "https://www.zara.com/in/en/linen---viscose-bermuda-shorts-p04432425.html?v1=182306887"
   },
   {
-    "name": "TEXTURED KNIT T-SHIRT",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/textured-knit-t-shirt-p02632300.html?v1=186456410"
-  },
-  {
     "name": "LINEN - VISCOSE BERMUDA SHORTS",
     "price": 99000,
     "discount": 65,
@@ -472,6 +472,12 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/textured-jogger-bermuda-shorts-p00761313.html?v1=184857821"
+  },
+  {
+    "name": "KNIT SCARF",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/knit-scarf-p09065402.html?v1=240787627"
   },
   {
     "name": "COTTON AND SILK KNIT POLO SHIRT",
@@ -880,6 +886,12 @@
     "price": 79000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/striped-knit-scarf-p03920318.html?v1=191808472"
+  },
+  {
+    "name": "SCARF WITH STRIPES",
+    "price": 79000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/scarf-with-stripes-p01942306.html?v1=201274466"
   },
   {
     "name": "WIDE FIT TROUSERS",
@@ -1408,6 +1420,24 @@
     "price": 79000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/leather-purse-p13820920.html?v1=177672398"
+  },
+  {
+    "name": "KNIT COTTON BEANIE",
+    "price": 79000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/knit-cotton-beanie-p09065336.html?v1=195601726"
+  },
+  {
+    "name": "COLOUR BLOCK KNITTED HAT",
+    "price": 79000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/colour-block-knitted-hat-p09065344.html?v1=198705635"
+  },
+  {
+    "name": "KNIT BEANIE WITH STRIPE",
+    "price": 79000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/knit-beanie-with-stripe-p09065355.html?v1=202733163"
   },
   {
     "name": "LEATHER PURSE",
