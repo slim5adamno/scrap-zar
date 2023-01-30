@@ -108,12 +108,6 @@
     "link": "https://www.zara.com/in/en/technical-parka-p07380641.html?v1=184857820"
   },
   {
-    "name": "QUILTED FOLDABLE SLIPPERS",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/quilted-foldable-slippers-p12742820.html?v1=185047005"
-  },
-  {
     "name": "PLEATED TROUSERS WITH BELT",
     "price": 159000,
     "discount": 68,
@@ -378,6 +372,12 @@
     "link": "https://www.zara.com/in/en/linen---viscose-bermuda-shorts-p04432425.html?v1=182306886"
   },
   {
+    "name": "KNIT SCARF",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/knit-scarf-p09065402.html?v1=240787627"
+  },
+  {
     "name": "CARDIGAN WITH POCKETS",
     "price": 179000,
     "discount": 64,
@@ -594,12 +594,6 @@
     "link": "https://www.zara.com/in/en/abstract-print-t-shirt-p06224316.html?v1=188071372"
   },
   {
-    "name": "STRAIGHT FIT TROUSERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/straight-fit-trousers-p05072306.html?v1=193178117"
-  },
-  {
     "name": "CONTRAST FAUX SHEARLING GILET",
     "price": 199000,
     "discount": 60,
@@ -610,12 +604,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/textured-jogger-waist-trousers-p07147340.html?v1=196170673"
-  },
-  {
-    "name": "PLEATED TROUSERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/pleated-trousers-p08288851.html?v1=183702258"
   },
   {
     "name": "STRIPED CARROT FIT TROUSERS",
@@ -684,6 +672,18 @@
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p02553314.html?v1=187025453"
   },
   {
+    "name": "CHECK SCARF",
+    "price": 79000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/check-scarf-p05875304.html?v1=191578109"
+  },
+  {
+    "name": "STRIPED KNIT SCARF",
+    "price": 79000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/striped-knit-scarf-p03920318.html?v1=191808472"
+  },
+  {
     "name": "WIDE FIT TROUSERS",
     "price": 159000,
     "discount": 60,
@@ -718,6 +718,18 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006597"
+  },
+  {
+    "name": "RIBBED KNIT GLOVES",
+    "price": 79000,
+    "discount": 58,
+    "link": "https://www.zara.com/in/en/ribbed-knit-gloves-p01942301.html?v1=186464933"
+  },
+  {
+    "name": "GEOMETRIC PRINT JACQUARD GLOVES",
+    "price": 79000,
+    "discount": 58,
+    "link": "https://www.zara.com/in/en/geometric-print-jacquard-gloves-p01942302.html?v1=186414217"
   },
   {
     "name": "100% LINEN JACKET",
@@ -948,16 +960,16 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p01063040.html?v1=178094088"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/striped-shirt-p01413037.html?v1=177672407"
-  },
-  {
     "name": "LYOCELL SHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/lyocell-shirt-p07545245.html?v1=182321180"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/striped-shirt-p01413037.html?v1=177672407"
   },
   {
     "name": "STRIPED SHIRT",
@@ -1144,6 +1156,12 @@
     "price": 79000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/leather-purse-p13820920.html?v1=177672397"
+  },
+  {
+    "name": "CHENILLE KNIT BEANIE",
+    "price": 79000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/chenille-knit-beanie-p03920336.html?v1=201665601"
   },
   {
     "name": "TEXTURED CARDIGAN",
@@ -1572,16 +1590,16 @@
     "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p07545300.html?v1=192130359"
   },
   {
-    "name": "SPLIT SUEDE LEATHER CLOGS",
-    "price": 229000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490698"
-  },
-  {
     "name": "CHECK SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/check-shirt-p00975312.html?v1=193550587"
+  },
+  {
+    "name": "SPLIT SUEDE LEATHER CLOGS",
+    "price": 229000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490698"
   },
   {
     "name": "STRIPED SHIRT",
@@ -1728,16 +1746,16 @@
     "link": "https://www.zara.com/in/en/striped-cotton---linen-shirt-p02688230.html?v1=188540541"
   },
   {
-    "name": "ANIMAL PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/animal-print-t-shirt-p01165300.html?v1=185627442"
-  },
-  {
     "name": "OVERSIZED OXFORD SHIRT",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545311.html?v1=192668116"
+  },
+  {
+    "name": "ANIMAL PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/animal-print-t-shirt-p01165300.html?v1=185627442"
   },
   {
     "name": "POPLIN SHIRT",
@@ -1764,16 +1782,16 @@
     "link": "https://www.zara.com/in/en/poplin-shirt-p01781566.html?v1=195934371"
   },
   {
-    "name": "PHOTO PRINT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/photo-print-t-shirt-p06224317.html?v1=186011220"
-  },
-  {
     "name": "NYLON BOOTS WITH LINING",
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/nylon-boots-with-lining-p12052820.html?v1=189347426"
+  },
+  {
+    "name": "PHOTO PRINT T-SHIRT",
+    "price": 99000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/photo-print-t-shirt-p06224317.html?v1=186011220"
   },
   {
     "name": "COLOURED DENIM SHIRT",
