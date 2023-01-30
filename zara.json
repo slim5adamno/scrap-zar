@@ -96,6 +96,12 @@
     "link": "https://www.zara.com/in/en/colour-block-knit-jacket-p09598329.html?v1=192076691"
   },
   {
+    "name": "WOOL BLEND BLAZER",
+    "price": 299000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/wool-blend-blazer-p08288312.html?v1=191323559"
+  },
+  {
     "name": "DOUBLE-BREASTED SUIT BLAZER",
     "price": 299000,
     "discount": 70,
@@ -370,12 +376,6 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/linen---viscose-bermuda-shorts-p04432425.html?v1=182306886"
-  },
-  {
-    "name": "KNIT SCARF",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/knit-scarf-p09065402.html?v1=240787627"
   },
   {
     "name": "CARDIGAN WITH POCKETS",
@@ -672,18 +672,6 @@
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p02553314.html?v1=187025453"
   },
   {
-    "name": "CHECK SCARF",
-    "price": 79000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/check-scarf-p05875304.html?v1=191578109"
-  },
-  {
-    "name": "STRIPED KNIT SCARF",
-    "price": 79000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/striped-knit-scarf-p03920318.html?v1=191808472"
-  },
-  {
     "name": "WIDE FIT TROUSERS",
     "price": 159000,
     "discount": 60,
@@ -718,18 +706,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006597"
-  },
-  {
-    "name": "RIBBED KNIT GLOVES",
-    "price": 79000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/ribbed-knit-gloves-p01942301.html?v1=186464933"
-  },
-  {
-    "name": "GEOMETRIC PRINT JACQUARD GLOVES",
-    "price": 79000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/geometric-print-jacquard-gloves-p01942302.html?v1=186414217"
   },
   {
     "name": "100% LINEN JACKET",
@@ -1716,16 +1692,16 @@
     "link": "https://www.zara.com/in/en/t-shirt-with-printed-graphics-p00679319.html?v1=186017350"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-shirt-p05684358.html?v1=199765526"
-  },
-  {
     "name": "FRUIT PRINT T-SHIRT",
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/fruit-print-t-shirt-p06224308.html?v1=183703978"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/striped-shirt-p05684358.html?v1=199765526"
   },
   {
     "name": "POPLIN SHIRT",
