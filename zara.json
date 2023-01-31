@@ -48,16 +48,16 @@
     "link": "https://www.zara.com/in/en/poplin-pyjama-shirt-p00775317.html?v1=191129801"
   },
   {
-    "name": "LEATHER BROGUES",
-    "price": 249000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/leather-brogues-p12416020.html?v1=189278996"
-  },
-  {
     "name": "LEATHER SHOES",
     "price": 249000,
     "discount": 72,
     "link": "https://www.zara.com/in/en/leather-shoes-p12425020.html?v1=198746454"
+  },
+  {
+    "name": "LEATHER BELT",
+    "price": 79000,
+    "discount": 72,
+    "link": "https://www.zara.com/in/en/leather-belt-p05717300.html?v1=178046725"
   },
   {
     "name": "OVERSIZE HOODIE STUDIO NICHOLSON",
@@ -190,12 +190,6 @@
     "price": 129000,
     "discount": 67,
     "link": "https://www.zara.com/in/en/faux-leather-shirt-p05070463.html?v1=186011218"
-  },
-  {
-    "name": "TEXTURED TERRY BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/textured-terry-bermuda-shorts-p00706311.html?v1=178975365"
   },
   {
     "name": "TEXTURED BERMUDA SHORTS",
@@ -334,6 +328,12 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/linen---viscose-bermuda-shorts-p04432425.html?v1=182306886"
+  },
+  {
+    "name": "KNIT SCARF",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/knit-scarf-p09065402.html?v1=240787627"
   },
   {
     "name": "GEOMETRIC JACQUARD CARDIGAN",
@@ -646,6 +646,18 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/carrot-fit-jeans-with-drawstring-p05072304.html?v1=192072353"
+  },
+  {
+    "name": "SCARF WITH STRIPES",
+    "price": 79000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/scarf-with-stripes-p01942306.html?v1=201274466"
+  },
+  {
+    "name": "STRIPED KNIT SCARF",
+    "price": 79000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/striped-knit-scarf-p03920318.html?v1=191808472"
   },
   {
     "name": "WIDE FIT TROUSERS",
@@ -1116,12 +1128,6 @@
     "link": "https://www.zara.com/in/en/turtleneck-sweater-p00632305.html?v1=185463442"
   },
   {
-    "name": "RIBBED TEXTURED SWEATER",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/ribbed-textured-sweater-p06771323.html?v1=187251906"
-  },
-  {
     "name": "TEXTURED JACKET",
     "price": 249000,
     "discount": 55,
@@ -1156,6 +1162,24 @@
     "price": 79000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/leather-purse-p13820920.html?v1=177672398"
+  },
+  {
+    "name": "KNIT COTTON BEANIE",
+    "price": 79000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/knit-cotton-beanie-p09065336.html?v1=195601726"
+  },
+  {
+    "name": "COLOUR BLOCK KNITTED HAT",
+    "price": 79000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/colour-block-knitted-hat-p09065344.html?v1=198705635"
+  },
+  {
+    "name": "KNIT BEANIE WITH STRIPE",
+    "price": 79000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/knit-beanie-with-stripe-p09065355.html?v1=202733163"
   },
   {
     "name": "LEATHER PURSE",
@@ -1318,12 +1342,6 @@
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/metallic-slogan-t-shirt-p04087315.html?v1=185472988"
-  },
-  {
-    "name": "TEXTURED WORKOUT T-SHIRT",
-    "price": 99000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-workout-t-shirt-p04335403.html?v1=197855912"
   },
   {
     "name": "STRIPED SHIRT",
@@ -1636,12 +1654,6 @@
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224324.html?v1=187679870"
-  },
-  {
-    "name": "BANDANA PRINT SHIRT",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/bandana-print-shirt-p02599388.html?v1=216686433"
   },
   {
     "name": "TEXTURED SHIRT WITH POCKET",
