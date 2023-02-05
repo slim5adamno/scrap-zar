@@ -18,24 +18,6 @@
     "link": "https://www.zara.com/in/en/water-repellent-trench-coat-studio-nicholson-p06518500.html?v1=184764082"
   },
   {
-    "name": "GEOMETRIC PRINT JACQUARD TIE",
-    "price": 59000,
-    "discount": 77,
-    "link": "https://www.zara.com/in/en/geometric-print-jacquard-tie-p09569301.html?v1=177882648"
-  },
-  {
-    "name": "LINEN BLEND SUIT BLAZER",
-    "price": 249000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/linen-blend-suit-blazer-p00706380.html?v1=177672803"
-  },
-  {
-    "name": "STRAIGHT FIT SUIT TROUSERS",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p00340316.html?v1=192126164"
-  },
-  {
     "name": "PLEATED SATIN TROUSERS",
     "price": 129000,
     "discount": 74,
@@ -46,12 +28,6 @@
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/pleated-satin-trousers-p09621653.html?v1=193162628"
-  },
-  {
-    "name": "KNIT SCARF",
-    "price": 59000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/knit-scarf-p09065402.html?v1=240787627"
   },
   {
     "name": "WIDE FIT TROUSERS",
@@ -88,12 +64,6 @@
     "price": 79000,
     "discount": 73,
     "link": "https://www.zara.com/in/en/faux-leather-bermuda-shorts-p05070461.html?v1=186006602"
-  },
-  {
-    "name": "TIE-DYE PRINT BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/tie-dye-print-bermuda-shorts-p02795311.html?v1=186011211"
   },
   {
     "name": "SUIT BLAZER",
@@ -234,16 +204,16 @@
     "link": "https://www.zara.com/in/en/faux-leather-trousers-p05070462.html?v1=186006597"
   },
   {
-    "name": "SATIN SHIRT",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/satin-shirt-p01161300.html?v1=203180259"
-  },
-  {
     "name": "STRIPED SHIRT",
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/striped-shirt-p01063106.html?v1=177662238"
+  },
+  {
+    "name": "CHECK SHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/check-shirt-p05869739.html?v1=200060797"
   },
   {
     "name": "100% LINEN JACKET",
@@ -262,12 +232,6 @@
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/striped-shirt-p01413037.html?v1=177672407"
-  },
-  {
-    "name": "BOMBER JACKET WITH PATCH",
-    "price": 199000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/bomber-jacket-with-patch-p00706470.html?v1=177666885"
   },
   {
     "name": "STRIPED TEXTURED OVERSHIRT",
@@ -396,6 +360,12 @@
     "link": "https://www.zara.com/in/en/golf-print-t-shirt-p06224402.html?v1=185668617"
   },
   {
+    "name": "CREASED-EFFECT TOP",
+    "price": 79000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/creased-effect-top-p00761371.html?v1=186759590"
+  },
+  {
     "name": "TURTLENECK SWEATER",
     "price": 159000,
     "discount": 60,
@@ -474,6 +444,12 @@
     "link": "https://www.zara.com/in/en/nylon-boots-with-lining-p12052820.html?v1=189347426"
   },
   {
+    "name": "SOFT TEXTURED TROUSERS",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/soft-textured-trousers-p04442415.html?v1=181849446"
+  },
+  {
     "name": "TEXTURED SHIRT",
     "price": 129000,
     "discount": 56,
@@ -534,6 +510,18 @@
     "link": "https://www.zara.com/in/en/striped-suit-trousers-p00775312.html?v1=189675765"
   },
   {
+    "name": "SHIRT WITH LANDSCAPE PRINT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/shirt-with-landscape-print-p02599370.html?v1=202733177"
+  },
+  {
+    "name": "TEXTURED SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/textured-shirt-p05588092.html?v1=186946332"
+  },
+  {
     "name": "STRIPED SHIRT",
     "price": 129000,
     "discount": 56,
@@ -574,12 +562,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/striped-shirt-p03717259.html?v1=197304204"
-  },
-  {
-    "name": "BANDANA PRINT SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/bandana-print-shirt-p02599388.html?v1=216686433"
   },
   {
     "name": "POPLIN SHIRT",
@@ -648,16 +630,16 @@
     "link": "https://www.zara.com/in/en/poplin-shirt-p01781584.html?v1=195934376"
   },
   {
-    "name": "CONTRAST ZIP SWEATSHIRT",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970734"
-  },
-  {
     "name": "OVERSIZE SWEATSHIRT",
     "price": 179000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/oversize-sweatshirt-p00761329.html?v1=195930384"
+  },
+  {
+    "name": "CONTRAST ZIP SWEATSHIRT",
+    "price": 179000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970734"
   },
   {
     "name": "OVERSIZED SWEATSHIRT",
@@ -684,10 +666,10 @@
     "link": "https://www.zara.com/in/en/textured-weave-sweatshirt-p00761339.html?v1=216051863"
   },
   {
-    "name": "EASY CARE TEXTURED SHIRT",
-    "price": 129000,
+    "name": "CONTRAST ZIP SWEATSHIRT",
+    "price": 179000,
     "discount": 55,
-    "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090404.html?v1=208299284"
+    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970733"
   },
   {
     "name": "KNIT JOGGERS",
@@ -700,12 +682,6 @@
     "price": 79000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/leather-purse-p13820920.html?v1=177672397"
-  },
-  {
-    "name": "CONTRAST ZIP SWEATSHIRT",
-    "price": 179000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/contrast-zip-sweatshirt-p04087347.html?v1=197970733"
   },
   {
     "name": "ANIMAL PRINT CARD HOLDER",
@@ -736,12 +712,6 @@
     "price": 229000,
     "discount": 54,
     "link": "https://www.zara.com/in/en/studded-sandals-p12782920.html?v1=180861249"
-  },
-  {
-    "name": "TANK TOP",
-    "price": 79000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/tank-top-p06462410.html?v1=177672297"
   },
   {
     "name": "MULTICOLOURED HIGH-TOP HIKING TRAINERS",
