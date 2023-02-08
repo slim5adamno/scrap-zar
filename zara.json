@@ -30,6 +30,12 @@
     "link": "https://www.zara.com/in/en/oversize-hoodie-studio-nicholson-p05372385.html?v1=198063940"
   },
   {
+    "name": "OVERSIZE SWEATER",
+    "price": 129000,
+    "discount": 78,
+    "link": "https://www.zara.com/in/en/oversize-sweater-p01023345.html?v1=205479538"
+  },
+  {
     "name": "LEATHER SHOES",
     "price": 199000,
     "discount": 77,
@@ -52,6 +58,12 @@
     "price": 249000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/technical-parka-p07380641.html?v1=184857820"
+  },
+  {
+    "name": "LINEN BLEND SUIT TROUSERS",
+    "price": 129000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/linen-blend-suit-trousers-p00706381.html?v1=177677494"
   },
   {
     "name": "PLEATED SATIN TROUSERS",
@@ -172,12 +184,6 @@
     "price": 129000,
     "discount": 67,
     "link": "https://www.zara.com/in/en/jogger-waist-trousers-p05993870.html?v1=200431302"
-  },
-  {
-    "name": "TIE-DYE PRINT VEST",
-    "price": 129000,
-    "discount": 67,
-    "link": "https://www.zara.com/in/en/tie-dye-print-vest-p07446409.html?v1=184325401"
   },
   {
     "name": "TURTLENECK SWEATER",
@@ -432,22 +438,28 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p00975351.html?v1=213586707"
   },
   {
+    "name": "JACQUARD SWEATER WITH ZIP",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/jacquard-sweater-with-zip-p03284329.html?v1=189289015"
+  },
+  {
     "name": "MOCK NECK SWEATER",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/mock-neck-sweater-p00304301.html?v1=182641960"
   },
   {
-    "name": "GILET WITH RUBBERISED FINISH",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/gilet-with-rubberised-finish-p08574460.html?v1=185134405"
-  },
-  {
     "name": "OVERSIZE SWEATSHIRT WITH SLOGAN",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/oversize-sweatshirt-with-slogan-p04087380.html?v1=205281104"
+  },
+  {
+    "name": "GILET WITH RUBBERISED FINISH",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/gilet-with-rubberised-finish-p08574460.html?v1=185134405"
   },
   {
     "name": "STAND-UP COLLAR SHIRT",
@@ -490,6 +502,12 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/check-shirt-p00975312.html?v1=193550587"
+  },
+  {
+    "name": "CHECK FLANNEL SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/check-flannel-shirt-p00975380.html?v1=214518963"
   },
   {
     "name": "STRIPED SHIRT",
@@ -652,6 +670,12 @@
     "price": 229000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490698"
+  },
+  {
+    "name": "EASY CARE TEXTURED SHIRT",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090401.html?v1=185134390"
   },
   {
     "name": "BASIC JOGGING TROUSERS",
