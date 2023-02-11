@@ -18,6 +18,12 @@
     "link": "https://www.zara.com/in/en/water-repellent-trench-coat-studio-nicholson-p06518500.html?v1=184764082"
   },
   {
+    "name": "CONTRAST CROCHET SHIRT",
+    "price": 79000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/contrast-crochet-shirt-p04735207.html?v1=185138314"
+  },
+  {
     "name": "FAUX LEATHER BERMUDA SHORTS",
     "price": 59000,
     "discount": 80,
@@ -36,12 +42,6 @@
     "link": "https://www.zara.com/in/en/wool-blend-trousers-with-pleats-p08288310.html?v1=191318457"
   },
   {
-    "name": "VELVET BLAZER",
-    "price": 249000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/velvet-blazer-p09621633.html?v1=193149837"
-  },
-  {
     "name": "TECHNICAL PARKA",
     "price": 249000,
     "discount": 75,
@@ -52,6 +52,12 @@
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/wide-fit-trousers-p02553322.html?v1=188530165"
+  },
+  {
+    "name": "STRAIGHT FIT SUIT TROUSERS",
+    "price": 129000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p00340316.html?v1=192126164"
   },
   {
     "name": "STRAIGHT FIT SUIT TROUSERS",
@@ -96,6 +102,12 @@
     "link": "https://www.zara.com/in/en/training-tank-top-p00347465.html?v1=206289489"
   },
   {
+    "name": "CASSETTE PRINT SHIRT",
+    "price": 79000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/cassette-print-shirt-p06085346.html?v1=189289017"
+  },
+  {
     "name": "TRAINING TANK TOP",
     "price": 79000,
     "discount": 73,
@@ -112,12 +124,6 @@
     "price": 249000,
     "discount": 72,
     "link": "https://www.zara.com/in/en/suit-blazer-p02674310.html?v1=191584773"
-  },
-  {
-    "name": "CORDUROY PUFFER JACKET",
-    "price": 249000,
-    "discount": 71,
-    "link": "https://www.zara.com/in/en/corduroy-puffer-jacket-p05320301.html?v1=240772568"
   },
   {
     "name": "TEXTURED JACKET",
@@ -312,12 +318,6 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p02688121.html?v1=208652926"
   },
   {
-    "name": "OVERSIZED OXFORD SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545337.html?v1=211200654"
-  },
-  {
     "name": "STRIPED SUIT TROUSERS",
     "price": 129000,
     "discount": 56,
@@ -357,7 +357,7 @@
     "name": "POPLIN SHIRT",
     "price": 129000,
     "discount": 56,
-    "link": "https://www.zara.com/in/en/poplin-shirt-p01781584.html?v1=195934376"
+    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060862"
   },
   {
     "name": "STRIPED SHIRT",
@@ -369,7 +369,13 @@
     "name": "POPLIN SHIRT",
     "price": 129000,
     "discount": 56,
-    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060862"
+    "link": "https://www.zara.com/in/en/poplin-shirt-p01781584.html?v1=195934376"
+  },
+  {
+    "name": "OVERSIZE SWEATSHIRT WITH SLOGAN",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/oversize-sweatshirt-with-slogan-p04087380.html?v1=205281105"
   },
   {
     "name": "HIGH NECK SWEATSHIRT",
@@ -382,12 +388,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/poplin-shirt-p01781566.html?v1=195934372"
-  },
-  {
-    "name": "OVERSIZE SWEATSHIRT WITH SLOGAN",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/oversize-sweatshirt-with-slogan-p04087380.html?v1=205281105"
   },
   {
     "name": "HIGH NECK SWEATSHIRT",
@@ -468,16 +468,16 @@
     "link": "https://www.zara.com/in/en/basic-jogging-trousers-p00761301.html?v1=201963828"
   },
   {
-    "name": "ROUND NECK SWEATER",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/round-neck-sweater-p02580304.html?v1=177662347"
-  },
-  {
     "name": "EASY CARE TEXTURED SHIRT",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090401.html?v1=185134389"
+  },
+  {
+    "name": "ROUND NECK SWEATER",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/round-neck-sweater-p02580304.html?v1=177662347"
   },
   {
     "name": "BASIC RIBBED T-SHIRT",
