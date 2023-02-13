@@ -42,6 +42,12 @@
     "link": "https://www.zara.com/in/en/wool-blend-trousers-with-pleats-p08288310.html?v1=191318457"
   },
   {
+    "name": "TECHNICAL BERMUDA JOGGERS",
+    "price": 59000,
+    "discount": 77,
+    "link": "https://www.zara.com/in/en/technical-bermuda-joggers-p01538344.html?v1=177666634"
+  },
+  {
     "name": "TECHNICAL TRENCH COAT",
     "price": 249000,
     "discount": 75,
@@ -60,12 +66,6 @@
     "link": "https://www.zara.com/in/en/technical-parka-p07380641.html?v1=184857820"
   },
   {
-    "name": "PLEATED SUIT TROUSERS",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/pleated-suit-trousers-p05914736.html?v1=202297405"
-  },
-  {
     "name": "OVERSHIRT WITH ZIP",
     "price": 129000,
     "discount": 74,
@@ -82,12 +82,6 @@
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p00340316.html?v1=192126164"
-  },
-  {
-    "name": "PLEATED SUIT TROUSERS",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/pleated-suit-trousers-p02674304.html?v1=187247977"
   },
   {
     "name": "PLEATED SATIN TROUSERS",
@@ -132,12 +126,6 @@
     "link": "https://www.zara.com/in/en/training-tank-top-p00347465.html?v1=206289489"
   },
   {
-    "name": "PINSTRIPE SUIT BLAZER",
-    "price": 249000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/pinstripe-suit-blazer-p05853277.html?v1=191118450"
-  },
-  {
     "name": "SUIT TECHNICAL BLAZER",
     "price": 249000,
     "discount": 72,
@@ -160,12 +148,6 @@
     "price": 249000,
     "discount": 72,
     "link": "https://www.zara.com/in/en/2-in-1-oversize-parka-p03918499.html?v1=181621530"
-  },
-  {
-    "name": "SUIT BLAZER",
-    "price": 249000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/suit-blazer-p02674310.html?v1=191584773"
   },
   {
     "name": "WATER-REPELLENT TECHNICAL JACKET",
@@ -222,16 +204,16 @@
     "link": "https://www.zara.com/in/en/cotton-parka-p06917423.html?v1=185876997"
   },
   {
-    "name": "STRAIGHT FIT TROUSERS",
-    "price": 129000,
-    "discount": 67,
-    "link": "https://www.zara.com/in/en/straight-fit-trousers-p05855662.html?v1=192076686"
-  },
-  {
     "name": "CARROT-FIT TROUSERS",
     "price": 129000,
     "discount": 67,
     "link": "https://www.zara.com/in/en/carrot-fit-trousers-p05846662.html?v1=192076684"
+  },
+  {
+    "name": "STRAIGHT FIT TROUSERS",
+    "price": 129000,
+    "discount": 67,
+    "link": "https://www.zara.com/in/en/straight-fit-trousers-p05855662.html?v1=192076686"
   },
   {
     "name": "PLEATED TROUSERS",
@@ -292,12 +274,6 @@
     "price": 229000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12308020.html?v1=177677942"
-  },
-  {
-    "name": "MINIMALIST SNEAKERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/minimalist-sneakers-p12232920.html?v1=177672632"
   },
   {
     "name": "OMBRÉ PRINT T-SHIRT",
@@ -408,12 +384,6 @@
     "link": "https://www.zara.com/in/en/textured-oxford-shirt-p01434635.html?v1=206522077"
   },
   {
-    "name": "SWEATSHIRT WITH CONTRAST PATCH",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/sweatshirt-with-contrast-patch-p00722372.html?v1=214053844"
-  },
-  {
     "name": "STRIPED OXFORD SHIRT",
     "price": 129000,
     "discount": 56,
@@ -456,28 +426,22 @@
     "link": "https://www.zara.com/in/en/geometric-jacquard-shirt-p07446390.html?v1=202733179"
   },
   {
-    "name": "CHECK FLANNEL SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/check-flannel-shirt-p00975380.html?v1=214518963"
-  },
-  {
     "name": "STRIPED SHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/striped-shirt-p05588634.html?v1=192642833"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/striped-shirt-p03717259.html?v1=197304204"
-  },
-  {
     "name": "POPLIN SHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060861"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/striped-shirt-p03717259.html?v1=197304204"
   },
   {
     "name": "TIE-DYE PRINT SWEATSHIRT",
