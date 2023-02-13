@@ -18,12 +18,6 @@
     "link": "https://www.zara.com/in/en/water-repellent-trench-coat-studio-nicholson-p06518500.html?v1=184764082"
   },
   {
-    "name": "WOOL BLEND COAT",
-    "price": 249000,
-    "discount": 82,
-    "link": "https://www.zara.com/in/en/wool-blend-coat-p05992123.html?v1=207850008"
-  },
-  {
     "name": "FAUX LEATHER BERMUDA SHORTS",
     "price": 59000,
     "discount": 80,
@@ -42,12 +36,6 @@
     "link": "https://www.zara.com/in/en/double-breasted-blazer-p00706382.html?v1=186779337"
   },
   {
-    "name": "WOOL BLEND BLAZER",
-    "price": 249000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/wool-blend-blazer-p08288312.html?v1=191323558"
-  },
-  {
     "name": "TECHNICAL PARKA",
     "price": 249000,
     "discount": 75,
@@ -60,22 +48,10 @@
     "link": "https://www.zara.com/in/en/printed-faux-shearling-gilet-p04391306.html?v1=180382402"
   },
   {
-    "name": "TEXTURED CARDIGAN",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/textured-cardigan-p09598306.html?v1=185627392"
-  },
-  {
     "name": "STRAIGHT FIT SUIT TROUSERS",
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p00340316.html?v1=192126164"
-  },
-  {
-    "name": "CORDUROY OVERSHIRT",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/corduroy-overshirt-p01538317.html?v1=192067834"
   },
   {
     "name": "PLEATED SATIN TROUSERS",
@@ -106,12 +82,6 @@
     "price": 79000,
     "discount": 73,
     "link": "https://www.zara.com/in/en/training-tank-top-p00347465.html?v1=206289489"
-  },
-  {
-    "name": "CASSETTE PRINT SHIRT",
-    "price": 79000,
-    "discount": 73,
-    "link": "https://www.zara.com/in/en/cassette-print-shirt-p06085346.html?v1=189289017"
   },
   {
     "name": "BIRD’S-EYE SUIT BLAZER",
@@ -184,6 +154,12 @@
     "price": 129000,
     "discount": 67,
     "link": "https://www.zara.com/in/en/turtleneck-sweater-p06771319.html?v1=183715191"
+  },
+  {
+    "name": "TEXTURED CABLE-KNIT SWEATER",
+    "price": 129000,
+    "discount": 67,
+    "link": "https://www.zara.com/in/en/textured-cable-knit-sweater-p02580305.html?v1=182579890"
   },
   {
     "name": "CARROT-FIT TROUSERS",
@@ -330,18 +306,6 @@
     "link": "https://www.zara.com/in/en/object-print-shirt-p08574336.html?v1=184325372"
   },
   {
-    "name": "STRIPED SHIRT WITH POCKET",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/striped-shirt-with-pocket-p05896263.html?v1=203471082"
-  },
-  {
-    "name": "FLAME PRINT SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/flame-print-shirt-p06085351.html?v1=203017352"
-  },
-  {
     "name": "STRIPED SUIT TROUSERS",
     "price": 129000,
     "discount": 56,
@@ -354,28 +318,22 @@
     "link": "https://www.zara.com/in/en/oversize-sweatshirt-with-slogan-p04087380.html?v1=205281104"
   },
   {
-    "name": "OVERSIZED SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/oversized-shirt-p05570318.html?v1=189902561"
-  },
-  {
     "name": "STRIPED SHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/striped-shirt-p05588634.html?v1=192642833"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/striped-shirt-p03717259.html?v1=197304204"
-  },
-  {
     "name": "POPLIN SHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060861"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/striped-shirt-p03717259.html?v1=197304204"
   },
   {
     "name": "TIE-DYE PRINT SWEATSHIRT",
@@ -396,16 +354,16 @@
     "link": "https://www.zara.com/in/en/high-neck-sweatshirt-p04442353.html?v1=198084117"
   },
   {
-    "name": "POPLIN SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060862"
-  },
-  {
     "name": "HIGH NECK SWEATSHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/high-neck-sweatshirt-p04442353.html?v1=198084120"
+  },
+  {
+    "name": "POPLIN SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060862"
   },
   {
     "name": "OVERSIZE SWEATSHIRT WITH SLOGAN",
