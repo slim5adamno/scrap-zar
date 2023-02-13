@@ -30,6 +30,12 @@
     "link": "https://www.zara.com/in/en/oversize-hoodie-studio-nicholson-p05372385.html?v1=198063940"
   },
   {
+    "name": "COLOURED DENIM BERMUDA SHORTS",
+    "price": 59000,
+    "discount": 77,
+    "link": "https://www.zara.com/in/en/coloured-denim-bermuda-shorts-p00108436.html?v1=178508061"
+  },
+  {
     "name": "TECHNICAL PARKA",
     "price": 249000,
     "discount": 75,
@@ -40,6 +46,12 @@
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/straight-fit-suit-trousers-p00340316.html?v1=192126164"
+  },
+  {
+    "name": "BIRD’S-EYE SUIT TROUSERS",
+    "price": 129000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/bird-s-eye-suit-trousers-p00706331.html?v1=190941455"
   },
   {
     "name": "PLEATED SATIN TROUSERS",
@@ -240,6 +252,30 @@
     "link": "https://www.zara.com/in/en/tretorn-x-zara-wellies-p12050020.html?v1=240772712"
   },
   {
+    "name": "TAPERED SKINNY JEANS",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/tapered-skinny-jeans-p00840350.html?v1=184743268"
+  },
+  {
+    "name": "TEXTURED SWEATER",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/textured-sweater-p05536304.html?v1=233182385"
+  },
+  {
+    "name": "JOGGING TROUSERS WITH STRIPE DETAIL",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/jogging-trousers-with-stripe-detail-p05372301.html?v1=177648845"
+  },
+  {
+    "name": "WOOL BLEND SWEATER",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/wool-blend-sweater-p03644300.html?v1=185853196"
+  },
+  {
     "name": "OBJECT PRINT SHIRT",
     "price": 129000,
     "discount": 56,
@@ -300,28 +336,28 @@
     "link": "https://www.zara.com/in/en/high-neck-sweatshirt-p04442353.html?v1=198084117"
   },
   {
-    "name": "POPLIN SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060862"
-  },
-  {
     "name": "HIGH NECK SWEATSHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/high-neck-sweatshirt-p04442353.html?v1=198084120"
   },
   {
-    "name": "OVERSIZE SWEATSHIRT WITH SLOGAN",
+    "name": "POPLIN SHIRT",
     "price": 129000,
     "discount": 56,
-    "link": "https://www.zara.com/in/en/oversize-sweatshirt-with-slogan-p04087380.html?v1=205281105"
+    "link": "https://www.zara.com/in/en/poplin-shirt-p02688101.html?v1=200060862"
   },
   {
     "name": "STRIPED SHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/striped-shirt-p02688212.html?v1=191323562"
+  },
+  {
+    "name": "OVERSIZE SWEATSHIRT WITH SLOGAN",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/oversize-sweatshirt-with-slogan-p04087380.html?v1=205281105"
   },
   {
     "name": "PRINTED SWEATSHIRT WITH PATCH",
@@ -358,6 +394,12 @@
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090404.html?v1=208299285"
+  },
+  {
+    "name": "BASIC HOODIE",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/basic-hoodie-p00761300.html?v1=243786338"
   },
   {
     "name": "STUDDED SANDALS",
@@ -402,6 +444,12 @@
     "link": "https://www.zara.com/in/en/denim-shirt-with-pockets-p01820340.html?v1=183344733"
   },
   {
+    "name": "DENIM SHIRT",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/denim-shirt-p06987320.html?v1=177662254"
+  },
+  {
     "name": "JAVIER S. MEDINA® LEATHER CROSSBODY BAG",
     "price": 499000,
     "discount": 50,
@@ -412,12 +460,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090409.html?v1=187682134"
-  },
-  {
-    "name": "100 ML / 3.38 oz INFINITY WAVE",
-    "price": 79000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/100-ml---3-38-oz-infinity-wave-p20210482.html?v1=189351425"
   },
   {
     "name": "CREASED-EFFECT BLAZER",
