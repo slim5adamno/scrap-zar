@@ -30,6 +30,12 @@
     "link": "https://www.zara.com/in/en/water-repellent-trench-coat-studio-nicholson-p06518500.html?v1=184764082"
   },
   {
+    "name": "DOUBLE-BREASTED COAT",
+    "price": 249000,
+    "discount": 82,
+    "link": "https://www.zara.com/in/en/double-breasted-coat-p05975778.html?v1=200946034"
+  },
+  {
     "name": "CHECK TEXTURED BERMUDA SHORTS",
     "price": 59000,
     "discount": 80,
@@ -60,6 +66,12 @@
     "link": "https://www.zara.com/in/en/colour-block-parka-p00706344.html?v1=203278290"
   },
   {
+    "name": "WOOL BLEND COAT",
+    "price": 249000,
+    "discount": 77,
+    "link": "https://www.zara.com/in/en/wool-blend-coat-p02675401.html?v1=204797466"
+  },
+  {
     "name": "DOUBLE-WEAVE COAT",
     "price": 249000,
     "discount": 75,
@@ -82,12 +94,6 @@
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/flared-jeans-p06688344.html?v1=194934404"
-  },
-  {
-    "name": "PLEATED SUIT TROUSERS",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/pleated-suit-trousers-p05852281.html?v1=190501488"
   },
   {
     "name": "STRAIGHT FIT CHINO TROUSERS",
@@ -120,12 +126,6 @@
     "link": "https://www.zara.com/in/en/suit-trousers-p05916775.html?v1=200709189"
   },
   {
-    "name": "PLEATED SUIT TROUSERS",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/pleated-suit-trousers-p05914736.html?v1=202297405"
-  },
-  {
     "name": "SUIT JOGGER WAIST TROUSERS",
     "price": 129000,
     "discount": 74,
@@ -138,16 +138,16 @@
     "link": "https://www.zara.com/in/en/pleated-satin-trousers-p09621653.html?v1=193162628"
   },
   {
-    "name": "PLEATED SATIN TROUSERS",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/pleated-satin-trousers-p09621653.html?v1=193162627"
-  },
-  {
     "name": "WIDE FIT TROUSERS",
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/wide-fit-trousers-p08288850.html?v1=183703967"
+  },
+  {
+    "name": "PLEATED SATIN TROUSERS",
+    "price": 129000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/pleated-satin-trousers-p09621653.html?v1=193162627"
   },
   {
     "name": "TROPICAL PRINT SHIRT",
@@ -198,12 +198,6 @@
     "link": "https://www.zara.com/in/en/suit-blazer-p05851281.html?v1=190501487"
   },
   {
-    "name": "BIRD’S-EYE SUIT BLAZER",
-    "price": 249000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/bird-s-eye-suit-blazer-p00706330.html?v1=190943060"
-  },
-  {
     "name": "SUIT BLAZER",
     "price": 249000,
     "discount": 72,
@@ -214,6 +208,12 @@
     "price": 199000,
     "discount": 71,
     "link": "https://www.zara.com/in/en/leather-casual-shoes-p12506920.html?v1=177653265"
+  },
+  {
+    "name": "JACKET WITH POCKETS BY JAVIER S. MEDINA",
+    "price": 199000,
+    "discount": 71,
+    "link": "https://www.zara.com/in/en/jacket-with-pockets-by-javier-s--medina-p07505193.html?v1=187055483"
   },
   {
     "name": "OVERSHIRT WITH POCKETS",
@@ -654,6 +654,12 @@
     "link": "https://www.zara.com/in/en/jogger-trousers-p05320421.html?v1=223783227"
   },
   {
+    "name": "KNIT BASEBALL SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/knit-baseball-shirt-p02281301.html?v1=177677924"
+  },
+  {
     "name": "COTTON - LINEN TROUSERS",
     "price": 129000,
     "discount": 56,
@@ -864,12 +870,6 @@
     "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090409.html?v1=187682135"
   },
   {
-    "name": "SPLIT SUEDE LEATHER CLOGS",
-    "price": 229000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490698"
-  },
-  {
     "name": "LIGHTWEIGHT PUFFER GILET",
     "price": 129000,
     "discount": 50,
@@ -880,6 +880,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090301.html?v1=235242677"
+  },
+  {
+    "name": "SPLIT SUEDE LEATHER CLOGS",
+    "price": 229000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/split-suede-leather-clogs-p12730020.html?v1=197490698"
   },
   {
     "name": "DENIM SHIRT",
