@@ -3,6 +3,8 @@ name: Men uniq scrape 15 minute
 on:
   schedule:
     - cron:  '*/15 * * * *'
+  workflow_dispatch:
+  
 
 jobs:
   scheduled:
