@@ -42,12 +42,6 @@
     "link": "https://www.zara.com/in/en/100-silk-bermuda-shorts-p05344400.html?v1=257145674"
   },
   {
-    "name": "HOODED PUFFER PARKA",
-    "price": 399000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/hooded-puffer-parka-p08281320.html?v1=222658126"
-  },
-  {
     "name": "WATER-REPELLENT TRENCH COAT",
     "price": 399000,
     "discount": 66,
@@ -642,12 +636,6 @@
     "link": "https://www.zara.com/in/en/denim-jacket-with-faux-shearling-p05575310.html?v1=225109950"
   },
   {
-    "name": "PORTABLE SHOWER",
-    "price": 149000,
-    "discount": 54,
-    "link": "https://www.zara.com/in/en/portable-shower-p03920412.html?v1=222748468"
-  },
-  {
     "name": "TECHNICAL WINDBREAKER JACKET",
     "price": 399000,
     "discount": 53,
@@ -658,12 +646,6 @@
     "price": 399000,
     "discount": 53,
     "link": "https://www.zara.com/in/en/felt-texture-bomber-jacket-p04442013.html?v1=239330650"
-  },
-  {
-    "name": "PADDED BOMBER JACKET",
-    "price": 399000,
-    "discount": 53,
-    "link": "https://www.zara.com/in/en/padded-bomber-jacket-p04688302.html?v1=225891007"
   },
   {
     "name": "PADDED JACKET WITH POCKETS",
@@ -900,16 +882,16 @@
     "link": "https://www.zara.com/in/en/striped-textured-bermuda-shorts-p07563450.html?v1=260081481"
   },
   {
-    "name": "TEXTURED BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/textured-bermuda-shorts-p04723297.html?v1=273568853"
-  },
-  {
     "name": "PARACHUTE CARGO BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/parachute-cargo-bermuda-shorts-p08281390.html?v1=257858327"
+  },
+  {
+    "name": "TEXTURED BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/textured-bermuda-shorts-p04723297.html?v1=273568853"
   },
   {
     "name": "PLEATED CARGO BERMUDA SHORTS",
@@ -964,6 +946,12 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/relaxed-fit-denim-bermuda-shorts-p03991470.html?v1=244513239"
+  },
+  {
+    "name": "STRIPED BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/striped-bermuda-shorts-p04640953.html?v1=258606436"
   },
   {
     "name": "PLEATED BERMUDA SHORTS",
@@ -1030,12 +1018,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/textured-mesh-bermuda-shorts-p00706348.html?v1=256401834"
-  },
-  {
-    "name": "STRIPED BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-bermuda-shorts-p04640953.html?v1=258606436"
   },
   {
     "name": "CARGO BERMUDA SHORTS WITH CONTRAST TOPSTITCHING",
@@ -1332,12 +1314,6 @@
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p04094280.html?v1=229432843"
   },
   {
-    "name": "STRAIGHT FIT JEANS - LIMITED EDITION",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/straight-fit-jeans---limited-edition-p03991414.html?v1=231193477"
-  },
-  {
     "name": "SLIM COMFORT FIT JEANS",
     "price": 249000,
     "discount": 50,
@@ -1428,22 +1404,28 @@
     "link": "https://www.zara.com/in/en/cotton-bomber-jacket-p04302377.html?v1=261394066"
   },
   {
-    "name": "CONTRAST STRIPED KNIT T-SHIRT",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/contrast-striped-knit-t-shirt-p03166422.html?v1=246631159"
-  },
-  {
     "name": "KNIT POLO SHIRT",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/knit-polo-shirt-p04216402.html?v1=229178017"
   },
   {
+    "name": "CONTRAST STRIPED KNIT T-SHIRT",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/contrast-striped-knit-t-shirt-p03166422.html?v1=246631159"
+  },
+  {
     "name": "TEXTURED SUIT TROUSERS",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/textured-suit-trousers-p04585923.html?v1=257155053"
+  },
+  {
+    "name": "TEXTURED CROCHET SHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/textured-crochet-shirt-p07200420.html?v1=247931692"
   },
   {
     "name": "COMFORT PERFORMANCE TECHNICAL TROUSERS",
@@ -1462,6 +1444,12 @@
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/wide-fit-trousers-with-topstitching-p04650992.html?v1=258904875"
+  },
+  {
+    "name": "SPEED RACER™ © TATSUNOKO PRODUCTION CHEQUERED SWEATSHIRT",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/speed-racer----tatsunoko-production-chequered-sweatshirt-p01277411.html?v1=256959560"
   },
   {
     "name": "COMFORT BERMUDA SHORTS",
@@ -1608,16 +1596,16 @@
     "link": "https://www.zara.com/in/en/chunky-shoes-p12508120.html?v1=222756300"
   },
   {
-    "name": "PUFFER JACKET",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/puffer-jacket-p06985303.html?v1=226811336"
-  },
-  {
     "name": "BOMBER JACKET WITH ZIPS",
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/bomber-jacket-with-zips-p08281430.html?v1=235982670"
+  },
+  {
+    "name": "PUFFER JACKET",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/puffer-jacket-p06985303.html?v1=226811336"
   },
   {
     "name": "SLOGAN PRINT HOODIE",
@@ -2076,6 +2064,12 @@
     "link": "https://www.zara.com/in/en/quilted-hoodie-p02795407.html?v1=231855370"
   },
   {
+    "name": "BOMBER JACKET WITH CONTRAST PATCHES",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/bomber-jacket-with-contrast-patches-p03918396.html?v1=222679582"
+  },
+  {
     "name": "TECHNICAL BOWLING BAG",
     "price": 199000,
     "discount": 50,
@@ -2112,16 +2106,16 @@
     "link": "https://www.zara.com/in/en/cropped-hoodie-p00761462.html?v1=228308482"
   },
   {
-    "name": "TRACK SOLE SHOES",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/track-sole-shoes-p12520120.html?v1=222770324"
-  },
-  {
     "name": "TEXTURED HIGH NECK SWEATER",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/textured-high-neck-sweater-p01775420.html?v1=222692798"
+  },
+  {
+    "name": "TRACK SOLE SHOES",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/track-sole-shoes-p12520120.html?v1=222770324"
   },
   {
     "name": "COMFORT BERMUDA SHORTS",
