@@ -648,16 +648,16 @@
     "link": "https://www.zara.com/in/en/suit-blazer-p08288712.html?v1=226108901"
   },
   {
-    "name": "POLARTEC® CONTRAST FLEECE JACKET",
-    "price": 399000,
-    "discount": 53,
-    "link": "https://www.zara.com/in/en/polartec--contrast-fleece-jacket-p01732403.html?v1=222761523"
-  },
-  {
     "name": "COTTON JACKET",
     "price": 399000,
     "discount": 53,
     "link": "https://www.zara.com/in/en/cotton-jacket-p00706200.html?v1=231156167"
+  },
+  {
+    "name": "POLARTEC® CONTRAST FLEECE JACKET",
+    "price": 399000,
+    "discount": 53,
+    "link": "https://www.zara.com/in/en/polartec--contrast-fleece-jacket-p01732403.html?v1=222761523"
   },
   {
     "name": "LINEN - COTTON BLEND JACKET",
@@ -1218,12 +1218,6 @@
     "link": "https://www.zara.com/in/en/checked-swimming-trunks-p08574324.html?v1=222748505"
   },
   {
-    "name": "WATER-REPELLENT TECHNICAL JACKET",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/water-repellent-technical-jacket-p03918109.html?v1=222761945"
-  },
-  {
     "name": "FADED DENIM JACKET",
     "price": 299000,
     "discount": 50,
@@ -1294,6 +1288,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/basic-denim-bermuda-shorts-p01538422.html?v1=227077523"
+  },
+  {
+    "name": "WATER-REPELLENT TECHNICAL JACKET",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/water-repellent-technical-jacket-p03918109.html?v1=222761945"
   },
   {
     "name": "BASIC COLOURED BERMUDAS",
@@ -1854,12 +1854,6 @@
     "link": "https://www.zara.com/in/en/bomber-jacket-with-zips-p08281430.html?v1=235982670"
   },
   {
-    "name": "CREASED-EFFECT BERMUDA SHORTS",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
-  },
-  {
     "name": "TRACK SOLE SHOES",
     "price": 299000,
     "discount": 50,
@@ -1870,6 +1864,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/comfort-bermuda-shorts-p00706550.html?v1=223541149"
+  },
+  {
+    "name": "CREASED-EFFECT BERMUDA SHORTS",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
   },
   {
     "name": "QUILTED HOODIE",
