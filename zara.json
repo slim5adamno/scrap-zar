@@ -804,12 +804,6 @@
     "link": "https://www.zara.com/in/en/cargo-bermuda-shorts-p05520351.html?v1=271623915"
   },
   {
-    "name": "STRIPED JACQUARD BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-jacquard-bermuda-shorts-p06861301.html?v1=275219075"
-  },
-  {
     "name": "COTTON - LINEN CARGO BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
@@ -966,12 +960,6 @@
     "link": "https://www.zara.com/in/en/abstract-print-technical-bermuda-shorts-p06085471.html?v1=242917462"
   },
   {
-    "name": "PADEL WORKOUT SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/padel-workout-shorts-p02681304.html?v1=255321866"
-  },
-  {
     "name": "TECHNICAL CARGO BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
@@ -1020,10 +1008,22 @@
     "link": "https://www.zara.com/in/en/carpenter-bermuda-shorts-with-pocket-p06085347.html?v1=222652970"
   },
   {
+    "name": "PADEL WORKOUT SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/padel-workout-shorts-p02681304.html?v1=255321866"
+  },
+  {
     "name": "TECHNICAL CARGO BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/technical-cargo-bermuda-shorts-p07380414.html?v1=258553938"
+  },
+  {
+    "name": "STRIPED JACQUARD BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/striped-jacquard-bermuda-shorts-p06861301.html?v1=275219075"
   },
   {
     "name": "JOGGING BERMUDA SHORTS WITH ELASTIC WAISTBAND",
@@ -1344,12 +1344,6 @@
     "link": "https://www.zara.com/in/en/contrast-striped-knit-t-shirt-p03166422.html?v1=246631159"
   },
   {
-    "name": "TEXTURED SUIT TROUSERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-suit-trousers-p01564441.html?v1=249266149"
-  },
-  {
     "name": "CHECK SUIT TROUSERS",
     "price": 249000,
     "discount": 50,
@@ -1444,6 +1438,12 @@
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/faux-leather-puffer-gilet-p08281340.html?v1=226023969"
+  },
+  {
+    "name": "CHECK KNIT POLO SHIRT",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/check-knit-polo-shirt-p01023406.html?v1=232863740"
   },
   {
     "name": "TRACK SOLE SHOES",
@@ -1824,6 +1824,12 @@
     "link": "https://www.zara.com/in/en/cotton-jacket-p06861307.html?v1=237225117"
   },
   {
+    "name": "CREASED-EFFECT BERMUDA SHORTS",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
+  },
+  {
     "name": "TECHNICAL JACKET WITH POCKETS",
     "price": 299000,
     "discount": 50,
@@ -1834,12 +1840,6 @@
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/colour-block-technical-jacket-p00706374.html?v1=247637979"
-  },
-  {
-    "name": "CREASED-EFFECT BERMUDA SHORTS",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
   },
   {
     "name": "BERMUDA SHORTS WITH CONTRAST TOPSTITCHING",
@@ -1864,12 +1864,6 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860423"
-  },
-  {
-    "name": "CHECK KNIT POLO SHIRT",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/check-knit-polo-shirt-p01023406.html?v1=232863740"
   },
   {
     "name": "CHUNKY SHOES",
@@ -1914,16 +1908,16 @@
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
   },
   {
-    "name": "TECHNICAL BOWLING BAG",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/technical-bowling-bag-p13124120.html?v1=226617209"
-  },
-  {
     "name": "MULTI-PIECE RUNNING SNEAKERS",
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12309120.html?v1=222756344"
+  },
+  {
+    "name": "TECHNICAL BOWLING BAG",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/technical-bowling-bag-p13124120.html?v1=226617209"
   },
   {
     "name": "RUNNING TRAINERS",
