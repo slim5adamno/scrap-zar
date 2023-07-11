@@ -156,16 +156,16 @@
     "link": "https://www.zara.com/in/en/technical-trench-coat-p05854401.html?v1=225722262"
   },
   {
-    "name": "100% WOOL SUIT BLAZER",
-    "price": 399000,
-    "discount": 63,
-    "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600487"
-  },
-  {
     "name": "LINEN SUIT BLAZER",
     "price": 399000,
     "discount": 63,
     "link": "https://www.zara.com/in/en/linen-suit-blazer-p04467408.html?v1=243356491"
+  },
+  {
+    "name": "100% WOOL SUIT BLAZER",
+    "price": 399000,
+    "discount": 63,
+    "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600487"
   },
   {
     "name": "SUIT DINNER JACKET BLAZER",
@@ -508,6 +508,12 @@
     "price": 399000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/double-breasted-suit-blazer-p04120749.html?v1=227090566"
+  },
+  {
+    "name": "LEATHER BELT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/leather-belt-p05919415.html?v1=245908298"
   },
   {
     "name": "SOCK-STYLE RUNNING TRAINERS",
@@ -1500,22 +1506,28 @@
     "link": "https://www.zara.com/in/en/textured-suit-trousers-p00706321.html?v1=269916161"
   },
   {
-    "name": "PLEATED CARGO TROUSERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/pleated-cargo-trousers-p06186410.html?v1=249599183"
-  },
-  {
     "name": "BASIC DENIM BERMUDA SHORTS",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/basic-denim-bermuda-shorts-p01538422.html?v1=227077523"
   },
   {
+    "name": "NON-IRON TEXTURED SHIRT",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/non-iron-textured-shirt-p03277302.html?v1=224677856"
+  },
+  {
     "name": "STRAIGHT FIT TROUSERS",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p06917472.html?v1=242308385"
+  },
+  {
+    "name": "FAUX LEATHER PUFFER GILET",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/faux-leather-puffer-gilet-p08281340.html?v1=226023969"
   },
   {
     "name": "HOODIE WITH JAMES COFFMAN GRAPHICS",
@@ -1558,12 +1570,6 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/vertical-stripe-sweater-p01023405.html?v1=222770037"
-  },
-  {
-    "name": "FAUX LEATHER PUFFER GILET",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/faux-leather-puffer-gilet-p08281340.html?v1=226023969"
   },
   {
     "name": "NON-IRON TEXTURED SHIRT",
@@ -1836,6 +1842,12 @@
     "link": "https://www.zara.com/in/en/cargo-bermuda-shorts-p01300414.html?v1=260128705"
   },
   {
+    "name": "SWEATSHIRT WITH ZIP AND LOGO",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/sweatshirt-with-zip-and-logo-p00762308.html?v1=236164265"
+  },
+  {
     "name": "2-IN-1 TECHNICAL SHORTS",
     "price": 199000,
     "discount": 50,
@@ -1872,6 +1884,12 @@
     "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685501"
   },
   {
+    "name": "COLOUR BLOCK TECHNICAL JACKET",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/colour-block-technical-jacket-p00706374.html?v1=247637979"
+  },
+  {
     "name": "GEOMETRIC JACQUARD SWEATER",
     "price": 199000,
     "discount": 50,
@@ -1882,12 +1900,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685502"
-  },
-  {
-    "name": "SWEATSHIRT WITH ZIP AND LOGO",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/sweatshirt-with-zip-and-logo-p00762308.html?v1=236164265"
   },
   {
     "name": "COLOUR BLOCK TECHNICAL JACKET",
@@ -1936,18 +1948,6 @@
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/track-sole-shoes-p12520120.html?v1=222770325"
-  },
-  {
-    "name": "NON-IRON TEXTURED SHIRT",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/non-iron-textured-shirt-p03277302.html?v1=224677856"
-  },
-  {
-    "name": "COLOUR BLOCK TECHNICAL JACKET",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/colour-block-technical-jacket-p00706374.html?v1=247637979"
   },
   {
     "name": "PRINTED FAUX SHEARLING GILET",
@@ -2028,6 +2028,12 @@
     "link": "https://www.zara.com/in/en/trousers-with-matching-belt-p04151281.html?v1=229432842"
   },
   {
+    "name": "JACKET WITH IRREGULAR TRIMS",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/jacket-with-irregular-trims-p01538393.html?v1=250463105"
+  },
+  {
     "name": "TEXTURED SWEATER WITH STRIPES",
     "price": 199000,
     "discount": 50,
@@ -2044,12 +2050,6 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/technical-bowling-bag-p13124120.html?v1=226617209"
-  },
-  {
-    "name": "JACKET WITH IRREGULAR TRIMS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/jacket-with-irregular-trims-p01538393.html?v1=250463105"
   },
   {
     "name": "CHUNKY CANVAS SHOES",
