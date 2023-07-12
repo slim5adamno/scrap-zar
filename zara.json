@@ -24,6 +24,12 @@
     "link": "https://www.zara.com/in/en/100-wool-bermuda-shorts-p01564975.html?v1=244299503"
   },
   {
+    "name": "FOLDABLE SUNGLASSES",
+    "price": 149000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/foldable-sunglasses-p02750301.html?v1=222748509"
+  },
+  {
     "name": "LIGHTWEIGHT 100% WOOL SWEATER",
     "price": 199000,
     "discount": 66,
@@ -34,12 +40,6 @@
     "price": 399000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p04196219.html?v1=245033100"
-  },
-  {
-    "name": "TIE-DYE TECHNICAL BERMUDA SHORTS",
-    "price": 199000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/tie-dye-technical-bermuda-shorts-p04164413.html?v1=246301658"
   },
   {
     "name": "BLAZER WITH ZIP - LIMITED EDITION",
@@ -64,6 +64,12 @@
     "price": 399000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/technical-parka---limited-edition-p03918418.html?v1=224902049"
+  },
+  {
+    "name": "TIE-DYE TECHNICAL BERMUDA SHORTS",
+    "price": 199000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/tie-dye-technical-bermuda-shorts-p04164413.html?v1=246301658"
   },
   {
     "name": "TECHNICAL TRENCH COAT",
@@ -240,12 +246,6 @@
     "link": "https://www.zara.com/in/en/100-cotton-cardigan-p03332400.html?v1=222702860"
   },
   {
-    "name": "HOODIE",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/hoodie-p00761354.html?v1=235934621"
-  },
-  {
     "name": "HOODED CARDIGAN",
     "price": 199000,
     "discount": 60,
@@ -346,12 +346,6 @@
     "price": 249000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/cotton---wool-trousers-p04195335.html?v1=245080762"
-  },
-  {
-    "name": "TEXTURED SUIT BLAZER",
-    "price": 399000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/textured-suit-blazer-p00706320.html?v1=269916160"
   },
   {
     "name": "PINSTRIPED SUIT BLAZER",
@@ -480,12 +474,6 @@
     "link": "https://www.zara.com/in/en/jogger-bermuda-shorts-with-label-p04087463.html?v1=242917516"
   },
   {
-    "name": "STRAIGHT FIT DENIM BERMUDA SHORTS",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/straight-fit-denim-bermuda-shorts-p04365330.html?v1=222712879"
-  },
-  {
     "name": "COTTON CHINO BERMUDA SHORTS",
     "price": 129000,
     "discount": 55,
@@ -580,12 +568,6 @@
     "price": 399000,
     "discount": 53,
     "link": "https://www.zara.com/in/en/padded-jacket-with-pockets-p00029302.html?v1=222748437"
-  },
-  {
-    "name": "TEXTURED SUIT BLAZER",
-    "price": 399000,
-    "discount": 53,
-    "link": "https://www.zara.com/in/en/textured-suit-blazer-p04025540.html?v1=261155461"
   },
   {
     "name": "FELT TEXTURE BOMBER JACKET",
@@ -720,12 +702,6 @@
     "link": "https://www.zara.com/in/en/bermuda-shorts-with-pockets-p07563400.html?v1=254805596"
   },
   {
-    "name": "LINEN - COTTON BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/linen---cotton-bermuda-shorts-p04640095.html?v1=258955805"
-  },
-  {
     "name": "STRIPED TEXTURED BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
@@ -756,6 +732,12 @@
     "link": "https://www.zara.com/in/en/cargo-bermuda-shorts-with-topstitching-p04649992.html?v1=258904876"
   },
   {
+    "name": "LINEN - COTTON BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/linen---cotton-bermuda-shorts-p04640095.html?v1=258955805"
+  },
+  {
     "name": "STRIPED BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
@@ -778,12 +760,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/vintage-faded-denim-bermuda-shorts-p06688440.html?v1=246301683"
-  },
-  {
-    "name": "PADEL WORKOUT SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/padel-workout-shorts-p05320316.html?v1=250427441"
   },
   {
     "name": "RIPPED DENIM BERMUDA SHORTS",
@@ -810,10 +786,16 @@
     "link": "https://www.zara.com/in/en/wide-fit-bermuda-shorts-p06917495.html?v1=250814778"
   },
   {
-    "name": "PLEATED CHINO BERMUDA SHORTS",
+    "name": "PADEL WORKOUT SHORTS",
     "price": 159000,
     "discount": 51,
-    "link": "https://www.zara.com/in/en/pleated-chino-bermuda-shorts-p04706297.html?v1=273568855"
+    "link": "https://www.zara.com/in/en/padel-workout-shorts-p05320316.html?v1=250427441"
+  },
+  {
+    "name": "STRIPED JACQUARD BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/striped-jacquard-bermuda-shorts-p06861301.html?v1=275219075"
   },
   {
     "name": "PLEATED CARGO BERMUDA SHORTS",
@@ -832,6 +814,12 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/linen-blend-bermuda-shorts-with-topstitching-p00706364.html?v1=281771341"
+  },
+  {
+    "name": "EMBROIDERED BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/embroidered-bermuda-shorts-p02878410.html?v1=239997909"
   },
   {
     "name": "RELAXED FIT DENIM BERMUDA SHORTS",
@@ -960,12 +948,6 @@
     "link": "https://www.zara.com/in/en/bermuda-shorts-with-contrast-topstitching-p06917493.html?v1=244357714"
   },
   {
-    "name": "DENIM CARGO BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/denim-cargo-bermuda-shorts-p06987301.html?v1=288423906"
-  },
-  {
     "name": "GEOMETRIC PRINT JACQUARD BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
@@ -978,16 +960,16 @@
     "link": "https://www.zara.com/in/en/denim-cargo-bermuda-shorts-p03175405.html?v1=261144552"
   },
   {
-    "name": "COTTON - LYOCELL CARGO BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/cotton---lyocell-cargo-bermuda-shorts-p04672296.html?v1=258904874"
-  },
-  {
     "name": "CONTRAST TECHNICAL BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/contrast-technical-bermuda-shorts-p00706423.html?v1=250827312"
+  },
+  {
+    "name": "COTTON - LYOCELL CARGO BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/cotton---lyocell-cargo-bermuda-shorts-p04672296.html?v1=258904874"
   },
   {
     "name": "PLEATED BERMUDA SHORTS",
@@ -1002,6 +984,12 @@
     "link": "https://www.zara.com/in/en/pleated-denim-bermuda-shorts---limited-edition-p02328491.html?v1=259651576"
   },
   {
+    "name": "DENIM CARGO BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/denim-cargo-bermuda-shorts-p06987301.html?v1=288423906"
+  },
+  {
     "name": "COLOUR BLOCK TECHNICAL BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
@@ -1012,6 +1000,12 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/cargo-chino-bermuda-shorts-p04722297.html?v1=273568854"
+  },
+  {
+    "name": "TECHNICAL CARGO BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/technical-cargo-bermuda-shorts-p07380414.html?v1=273575034"
   },
   {
     "name": "PADEL WORKOUT SHORTS",
@@ -1029,19 +1023,7 @@
     "name": "TECHNICAL CARGO BERMUDA SHORTS",
     "price": 159000,
     "discount": 51,
-    "link": "https://www.zara.com/in/en/technical-cargo-bermuda-shorts-p07380414.html?v1=273575034"
-  },
-  {
-    "name": "TECHNICAL CARGO BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
     "link": "https://www.zara.com/in/en/technical-cargo-bermuda-shorts-p07380414.html?v1=258553938"
-  },
-  {
-    "name": "STRIPED JACQUARD BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-jacquard-bermuda-shorts-p06861301.html?v1=275219075"
   },
   {
     "name": "TERRY JACQUARD ANIMAL PRINT BERMUDA SHORTS",
@@ -1248,6 +1230,12 @@
     "link": "https://www.zara.com/in/en/denim-jacket-with-pockets---limited-edition-p03991413.html?v1=231193475"
   },
   {
+    "name": "LINEN - VISCOSE SUIT TROUSERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/linen---viscose-suit-trousers-p04355974.html?v1=258606440"
+  },
+  {
     "name": "TWISTED SEAM JACKET - LIMITED EDITION",
     "price": 299000,
     "discount": 50,
@@ -1284,12 +1272,6 @@
     "link": "https://www.zara.com/in/en/sweater-with-contrast-stripes-p01023404.html?v1=222766895"
   },
   {
-    "name": "NON-IRON TEXTURED SHIRT",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/non-iron-textured-shirt-p03277302.html?v1=224677856"
-  },
-  {
     "name": "RELAXED FIT SUIT TROUSERS - LIMITED EDITION",
     "price": 249000,
     "discount": 50,
@@ -1306,12 +1288,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/comfort-bermuda-shorts-p00706550.html?v1=223541150"
-  },
-  {
-    "name": "LINEN - VISCOSE SUIT TROUSERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/linen---viscose-suit-trousers-p04355974.html?v1=258606440"
   },
   {
     "name": "SUIT TROUSERS",
@@ -1342,6 +1318,12 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/sweater-with-irregular-stripes-p03284401.html?v1=222658208"
+  },
+  {
+    "name": "NON-IRON TEXTURED SHIRT",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/non-iron-textured-shirt-p03277302.html?v1=224677856"
   },
   {
     "name": "ABSTRACT PRINT JEANS",
@@ -1470,6 +1452,12 @@
     "link": "https://www.zara.com/in/en/bomber-jacket-with-zips-p08281430.html?v1=235982670"
   },
   {
+    "name": "CHUNKY SHOES",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/chunky-shoes-p12508120.html?v1=222756300"
+  },
+  {
     "name": "RIPPED SLIM FIT JEANS",
     "price": 249000,
     "discount": 50,
@@ -1528,12 +1516,6 @@
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/leather-bucket-hat---limited-edition-p03920404.html?v1=227044704"
-  },
-  {
-    "name": "LINEN - COTTON SWEATER",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/linen---cotton-sweater-p06216405.html?v1=237225045"
   },
   {
     "name": "JACKET WITH CONTRAST TOPSTITCHING",
@@ -1806,6 +1788,12 @@
     "link": "https://www.zara.com/in/en/geometric-jacquard-sweater-p03597405.html?v1=222730339"
   },
   {
+    "name": "CROPPED FLOWING BERMUDA SHORTS",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685502"
+  },
+  {
     "name": "JACKET WITH IRREGULAR TRIMS",
     "price": 299000,
     "discount": 50,
@@ -1816,12 +1804,6 @@
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12309120.html?v1=222756344"
-  },
-  {
-    "name": "CROPPED FLOWING BERMUDA SHORTS",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685502"
   },
   {
     "name": "JACKET WITH POCKETS",
@@ -1866,12 +1848,6 @@
     "link": "https://www.zara.com/in/en/colour-block-technical-jacket-p03427435.html?v1=235658459"
   },
   {
-    "name": "CHUNKY SHOES",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/chunky-shoes-p12508120.html?v1=222756300"
-  },
-  {
     "name": "FAUX SUEDE JACKET",
     "price": 299000,
     "discount": 50,
@@ -1882,12 +1858,6 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/technical-bowling-bag-p13124120.html?v1=226617209"
-  },
-  {
-    "name": "RUNNING TRAINERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=224266095"
   },
   {
     "name": "CAGE SANDALS",
@@ -1930,6 +1900,12 @@
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
+  },
+  {
+    "name": "RUNNING TRAINERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=224266095"
   },
   {
     "name": "RUNNING TRAINERS",
