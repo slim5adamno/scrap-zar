@@ -42,12 +42,6 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600486"
   },
   {
-    "name": "LINEN SUIT BLAZER",
-    "price": 299000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/linen-suit-blazer-p04467408.html?v1=243356491"
-  },
-  {
     "name": "SUIT DINNER JACKET BLAZER",
     "price": 299000,
     "discount": 72,
@@ -84,16 +78,16 @@
     "link": "https://www.zara.com/in/en/oversize-suit-blazer-p00706433.html?v1=257145695"
   },
   {
-    "name": "TEXTURED CONTRAST CARDIGAN",
-    "price": 159000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/textured-contrast-cardigan-p05755418.html?v1=222756380"
-  },
-  {
     "name": "RELAXED FIT BLAZER - LIMITED EDITION",
     "price": 299000,
     "discount": 68,
     "link": "https://www.zara.com/in/en/relaxed-fit-blazer---limited-edition-p04200395.html?v1=236540911"
+  },
+  {
+    "name": "TEXTURED CONTRAST CARDIGAN",
+    "price": 159000,
+    "discount": 68,
+    "link": "https://www.zara.com/in/en/textured-contrast-cardigan-p05755418.html?v1=222756380"
   },
   {
     "name": "DENIM CARGO BERMUDA SHORTS",
@@ -402,12 +396,6 @@
     "link": "https://www.zara.com/in/en/contrast-striped-knit-t-shirt-p03166421.html?v1=246631158"
   },
   {
-    "name": "COTTON - LINEN CARGO BERMUDA SHORTS",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/cotton---linen-cargo-bermuda-shorts-p08574300.html?v1=280531459"
-  },
-  {
     "name": "TECHNICAL CARGO BERMUDA SHORTS",
     "price": 129000,
     "discount": 60,
@@ -418,6 +406,12 @@
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/technical-cargo-bermuda-shorts-p07380414.html?v1=273575034"
+  },
+  {
+    "name": "COTTON - LINEN CARGO BERMUDA SHORTS",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/cotton---linen-cargo-bermuda-shorts-p08574300.html?v1=280531459"
   },
   {
     "name": "2-IN-1 TECHNICAL SHORTS",
@@ -1776,6 +1770,12 @@
     "link": "https://www.zara.com/in/en/training-shorts-p01943303.html?v1=222702857"
   },
   {
+    "name": "CREASED-EFFECT BERMUDA SHORTS",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
+  },
+  {
     "name": "BOXY FIT DENIM JACKET",
     "price": 299000,
     "discount": 50,
@@ -1908,12 +1908,6 @@
     "link": "https://www.zara.com/in/en/matching-t-shirt-p01943309.html?v1=248803140"
   },
   {
-    "name": "STRIPED TEXTURED T-SHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/striped-textured-t-shirt-p05584408.html?v1=248173610"
-  },
-  {
     "name": "T-SHIRT WITH EMBROIDERED SLOGAN",
     "price": 99000,
     "discount": 50,
@@ -1966,12 +1960,6 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/cropped-striped-shirt-p04696953.html?v1=259282088"
-  },
-  {
-    "name": "PUFFER GILET",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/puffer-gilet-p08574380.html?v1=222770165"
   },
   {
     "name": "LONG SLEEVE HEAVY WEIGHT T-SHIRT",
@@ -2170,12 +2158,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/bermuda-shorts-with-contrast-topstitching-p05520300.html?v1=278685546"
-  },
-  {
-    "name": "CREASED-EFFECT BERMUDA SHORTS",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
   },
   {
     "name": "TECHNICAL BOXY FIT JACKET",
@@ -2382,6 +2364,12 @@
     "link": "https://www.zara.com/in/en/rubberised-sporty-shoes-p12504120.html?v1=222766920"
   },
   {
+    "name": "LYOCELL BOMBER JACKET",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/lyocell-bomber-jacket-p09621644.html?v1=223734360"
+  },
+  {
     "name": "RUNNING TRAINERS",
     "price": 299000,
     "discount": 50,
@@ -2434,11 +2422,5 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html?v1=222657874"
-  },
-  {
-    "name": "LYOCELL BOMBER JACKET",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/lyocell-bomber-jacket-p09621644.html?v1=223734360"
   }
 ]
