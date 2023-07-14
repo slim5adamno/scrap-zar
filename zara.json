@@ -276,6 +276,12 @@
     "link": "https://www.zara.com/in/en/vertical-quilted-waistcoat-p07901409.html?v1=226628801"
   },
   {
+    "name": "STRIPE PRINT SWIMMING TRUNKS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/stripe-print-swimming-trunks-p00495305.html?v1=222748478"
+  },
+  {
     "name": "SEERSUCKER SWIMMING TRUNKS",
     "price": 99000,
     "discount": 61,
@@ -310,6 +316,12 @@
     "price": 179000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/soft-backpack-p13229120.html?v1=231866446"
+  },
+  {
+    "name": "GEOMETRIC PRINT SWIMMING TRUNKS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/geometric-print-swimming-trunks-p02634300.html?v1=280531480"
   },
   {
     "name": "RUBBERISED CLUTCH",
@@ -532,12 +544,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/running-clogs-p12314120.html?v1=224251173"
-  },
-  {
-    "name": "TECHNICAL WINDBREAKER JACKET",
-    "price": 299000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/technical-windbreaker-jacket-p01732305.html?v1=224133341"
   },
   {
     "name": "BOMBER JACKET WITH HIGH NECK",
@@ -1524,12 +1530,6 @@
     "link": "https://www.zara.com/in/en/rustic-knit-t-shirt-with-pocket-p03003300.html?v1=272732864"
   },
   {
-    "name": "STRIPED KNIT POLO SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-knit-polo-shirt-p03284457.html?v1=238697390"
-  },
-  {
     "name": "RIPPED KNIT T-SHIRT",
     "price": 159000,
     "discount": 51,
@@ -2106,12 +2106,6 @@
     "link": "https://www.zara.com/in/en/bermuda-shorts-with-contrast-topstitching-p05520300.html?v1=278685546"
   },
   {
-    "name": "LYOCELL BOMBER JACKET",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/lyocell-bomber-jacket-p09621644.html?v1=223734359"
-  },
-  {
     "name": "SOFT TOTE",
     "price": 299000,
     "discount": 50,
@@ -2122,6 +2116,12 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/technical-bowling-bag-p13124120.html?v1=226617209"
+  },
+  {
+    "name": "LYOCELL BOMBER JACKET",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/lyocell-bomber-jacket-p09621644.html?v1=223734359"
   },
   {
     "name": "COMFORT BERMUDA SHORTS",
@@ -2190,16 +2190,16 @@
     "link": "https://www.zara.com/in/en/split-suede-sport-shoes-p12503120.html?v1=222766917"
   },
   {
-    "name": "CASUAL SHOES",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
-  },
-  {
     "name": "RUNNING TRAINERS",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
+  },
+  {
+    "name": "CASUAL SHOES",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
   },
   {
     "name": "RUBBERISED SPORTY SHOES",
