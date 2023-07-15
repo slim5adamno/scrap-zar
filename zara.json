@@ -180,16 +180,16 @@
     "link": "https://www.zara.com/in/en/striped-espadrilles-p12744121.html?v1=225088594"
   },
   {
-    "name": "SOFT LEATHER LOAFERS",
-    "price": 299000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/soft-leather-loafers-p12666120.html?v1=251138388"
-  },
-  {
     "name": "CHUNKY LEATHER SHOES",
     "price": 299000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/chunky-leather-shoes-p12403121.html?v1=222756629"
+  },
+  {
+    "name": "SOFT LEATHER LOAFERS",
+    "price": 299000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/soft-leather-loafers-p12666120.html?v1=251138388"
   },
   {
     "name": "LEATHER TRACK-SOLE SHOES",
@@ -426,12 +426,6 @@
     "link": "https://www.zara.com/in/en/houndstooth-suit-trousers-p01564471.html?v1=256468873"
   },
   {
-    "name": "2-IN-1 TECHNICAL SHORTS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/2-in-1-technical-shorts-p02681300.html?v1=222770478"
-  },
-  {
     "name": "PARACHUTE CARGO BERMUDA SHORTS",
     "price": 129000,
     "discount": 60,
@@ -442,6 +436,12 @@
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/pleated-cargo-bermuda-shorts-p06186411.html?v1=249599184"
+  },
+  {
+    "name": "2-IN-1 TECHNICAL SHORTS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/2-in-1-technical-shorts-p02681300.html?v1=222770478"
   },
   {
     "name": "PLEATED BERMUDA SHORTS",
@@ -490,6 +490,18 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/ombre-print-bermuda-shorts-p06085478.html?v1=265588310"
+  },
+  {
+    "name": "BOMBER JACKET WITH PATCH",
+    "price": 299000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/bomber-jacket-with-patch-p04391401.html?v1=222761892"
+  },
+  {
+    "name": "WAVY PRINT OVERSHIRT - LIMITED EDITION",
+    "price": 299000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/wavy-print-overshirt---limited-edition-p06085302.html?v1=268378177"
   },
   {
     "name": "BOMBER JACKET WITH RIBBING",
@@ -1386,12 +1398,6 @@
     "link": "https://www.zara.com/in/en/twisted-knit-vest-p06216409.html?v1=241374413"
   },
   {
-    "name": "STRAIGHT LEG CROPPED JEANS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/straight-leg-cropped-jeans-p08062480.html?v1=243953211"
-  },
-  {
     "name": "JACQUARD KNIT VEST",
     "price": 159000,
     "discount": 51,
@@ -1722,12 +1728,6 @@
     "link": "https://www.zara.com/in/en/matching-t-shirt-p01943309.html?v1=248803140"
   },
   {
-    "name": "MONOCHROME TECHNICAL SANDALS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/monochrome-technical-sandals-p12746120.html?v1=224683441"
-  },
-  {
     "name": "T-SHIRT WITH MERCERIZED FINISH",
     "price": 129000,
     "discount": 50,
@@ -1744,6 +1744,12 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/fabric-trainers-p12222120.html?v1=248883222"
+  },
+  {
+    "name": "MONOCHROME TECHNICAL SANDALS",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/monochrome-technical-sandals-p12746120.html?v1=224683441"
   },
   {
     "name": "FABRIC TRAINERS",
