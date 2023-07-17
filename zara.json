@@ -246,16 +246,16 @@
     "link": "https://www.zara.com/in/en/track-sole-shoes-p12520120.html?v1=222770325"
   },
   {
-    "name": "RUBBERISED CLUTCH",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/rubberised-clutch-p13705120.html?v1=223545185"
-  },
-  {
     "name": "TRACK SOLE SHOES",
     "price": 229000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/track-sole-shoes-p12520120.html?v1=222770326"
+  },
+  {
+    "name": "RUBBERISED CLUTCH",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/rubberised-clutch-p13705120.html?v1=223545185"
   },
   {
     "name": "TRACK SOLE SHOES",
@@ -396,12 +396,6 @@
     "link": "https://www.zara.com/in/en/suit-trousers-p04534794.html?v1=246691095"
   },
   {
-    "name": "OPENWORK SWEATER WITH STRIPES",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/openwork-sweater-with-stripes-p07140406.html?v1=222761548"
-  },
-  {
     "name": "TECHNICAL SHORTS",
     "price": 159000,
     "discount": 60,
@@ -502,6 +496,12 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-loafers-p12660120.html?v1=224865698"
+  },
+  {
+    "name": "FAUX LEATHER JACKET",
+    "price": 299000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/faux-leather-jacket-p08281888.html?v1=226584145"
   },
   {
     "name": "RUNNING CLOGS",
@@ -774,6 +774,12 @@
     "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
   },
   {
+    "name": "CONTRAST PRINTED T-SHIRT",
+    "price": 99000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p06224422.html?v1=233595015"
+  },
+  {
     "name": "TEXTURED BERMUDA SHORTS",
     "price": 129000,
     "discount": 56,
@@ -868,6 +874,12 @@
     "price": 349000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12604120.html?v1=222766959"
+  },
+  {
+    "name": "T-SHIRT WITH CONTRAST PRINT",
+    "price": 99000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-print-p06224820.html?v1=252665122"
   },
   {
     "name": "SLOGAN PRINT T-SHIRT",
@@ -1692,12 +1704,6 @@
     "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12305120.html?v1=222748303"
   },
   {
-    "name": "LACE-UP SNEAKERS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/lace-up-sneakers-p12229020.html?v1=222730327"
-  },
-  {
     "name": "BOMBER JACKET WITH ZIPS",
     "price": 299000,
     "discount": 50,
@@ -1710,22 +1716,28 @@
     "link": "https://www.zara.com/in/en/linen-blend-trousers-with-topstitching-p00706365.html?v1=286106186"
   },
   {
+    "name": "BOMBER JACKET WITH ZIPS",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/bomber-jacket-with-zips-p08281430.html?v1=235982669"
+  },
+  {
     "name": "PENNY LOAFERS",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
   },
   {
+    "name": "CROPPED CARGO TROUSERS",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cropped-cargo-trousers-p00108400.html?v1=222730313"
+  },
+  {
     "name": "RUBBERISED SHOES WITH TRACK SOLE",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/rubberised-shoes-with-track-sole-p12506120.html?v1=222766913"
-  },
-  {
-    "name": "BOMBER JACKET WITH ZIPS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/bomber-jacket-with-zips-p08281430.html?v1=235982669"
   },
   {
     "name": "XL CANVAS TOTE BAG",
@@ -2058,12 +2070,6 @@
     "link": "https://www.zara.com/in/en/technical-bowling-bag-p13124120.html?v1=226617209"
   },
   {
-    "name": "SOFT BOWLING BAG",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/soft-bowling-bag-p13102120.html?v1=222747680"
-  },
-  {
     "name": "RIPPED CROCHET SHIRT",
     "price": 199000,
     "discount": 50,
@@ -2074,6 +2080,12 @@
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
+  },
+  {
+    "name": "SOFT BOWLING BAG",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/soft-bowling-bag-p13102120.html?v1=222747680"
   },
   {
     "name": "TRAINERS WITH SOLE DETAIL",
