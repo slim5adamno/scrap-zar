@@ -456,12 +456,6 @@
     "link": "https://www.zara.com/in/en/denim-carpenter-bermuda-shorts-with-pocket-p06186301.html?v1=288417376"
   },
   {
-    "name": "CROCHET BERMUDA SHORTS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/crochet-bermuda-shorts-p02688354.html?v1=265848871"
-  },
-  {
     "name": "BERMUDA SHORTS WITH CONTRAST TOPSTITCHING",
     "price": 129000,
     "discount": 60,
@@ -472,6 +466,12 @@
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/contrast-technical-bermuda-shorts-p00706423.html?v1=250827313"
+  },
+  {
+    "name": "CROCHET BERMUDA SHORTS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/crochet-bermuda-shorts-p02688354.html?v1=265848871"
   },
   {
     "name": "WIDE FIT BERMUDA SHORTS",
@@ -1008,6 +1008,12 @@
     "link": "https://www.zara.com/in/en/leather-brogues-p12407120.html?v1=222748232"
   },
   {
+    "name": "LEATHER LOAFERS",
+    "price": 399000,
+    "discount": 53,
+    "link": "https://www.zara.com/in/en/leather-loafers-p12635120.html?v1=235226524"
+  },
+  {
     "name": "LEATHER DERBY SHOES",
     "price": 399000,
     "discount": 53,
@@ -1017,25 +1023,19 @@
     "name": "LEATHER LOAFERS",
     "price": 399000,
     "discount": 53,
-    "link": "https://www.zara.com/in/en/leather-loafers-p12635120.html?v1=235226524"
-  },
-  {
-    "name": "LEATHER LOAFERS",
-    "price": 399000,
-    "discount": 53,
     "link": "https://www.zara.com/in/en/leather-loafers-p12635120.html?v1=235226525"
-  },
-  {
-    "name": "LEATHER TRAINERS",
-    "price": 279000,
-    "discount": 53,
-    "link": "https://www.zara.com/in/en/leather-trainers-p12216120.html?v1=222766932"
   },
   {
     "name": "RETRO LEATHER TRAINERS",
     "price": 279000,
     "discount": 53,
     "link": "https://www.zara.com/in/en/retro-leather-trainers-p12234020.html?v1=222766934"
+  },
+  {
+    "name": "LEATHER TRAINERS",
+    "price": 279000,
+    "discount": 53,
+    "link": "https://www.zara.com/in/en/leather-trainers-p12216120.html?v1=222766932"
   },
   {
     "name": "LEATHER BOWLING BAG",
@@ -1386,6 +1386,12 @@
     "link": "https://www.zara.com/in/en/chunky-trainers-p12206120.html?v1=222674427"
   },
   {
+    "name": "PLEATED TROUSERS",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/pleated-trousers-p02553413.html?v1=231540884"
+  },
+  {
     "name": "LINEN BLEND TROUSERS WITH TOPSTITCHING",
     "price": 199000,
     "discount": 50,
@@ -1396,12 +1402,6 @@
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/boxy-fit-denim-jacket-p05072403.html?v1=231873887"
-  },
-  {
-    "name": "PLEATED TROUSERS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/pleated-trousers-p02553413.html?v1=231540884"
   },
   {
     "name": "SLIM FIT SUIT BLAZER",
@@ -1710,22 +1710,10 @@
     "link": "https://www.zara.com/in/en/multi-pocket-technical-backpack-p13207120.html?v1=222756837"
   },
   {
-    "name": "RUNNING TRAINERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=224266095"
-  },
-  {
     "name": "RUBBERISED SHOES WITH TRACK SOLE",
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/rubberised-shoes-with-track-sole-p12506120.html?v1=222766912"
-  },
-  {
-    "name": "LYOCELL BOMBER JACKET",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/lyocell-bomber-jacket-p09621644.html?v1=223734359"
   },
   {
     "name": "TRAINERS WITH SOLE DETAIL",
@@ -1741,9 +1729,21 @@
   },
   {
     "name": "RUNNING TRAINERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=224266095"
+  },
+  {
+    "name": "RUNNING TRAINERS",
     "price": 299000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
+  },
+  {
+    "name": "LYOCELL BOMBER JACKET",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/lyocell-bomber-jacket-p09621644.html?v1=223734359"
   },
   {
     "name": "LYOCELL BOMBER JACKET",
@@ -1770,16 +1770,16 @@
     "link": "https://www.zara.com/in/en/multi-pocket-technical-backpack-p13207120.html?v1=222756838"
   },
   {
-    "name": "CASUAL SHOES",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
-  },
-  {
     "name": "BUCKLED TRACK SANDALS",
     "price": 229000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/buckled-track-sandals-p12716120.html?v1=222756538"
+  },
+  {
+    "name": "CASUAL SHOES",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
   },
   {
     "name": "RUBBERISED SPORTY SHOES",
