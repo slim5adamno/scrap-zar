@@ -24,12 +24,6 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
-    "name": "100% WOOL SUIT TROUSERS",
-    "price": 199000,
-    "discount": 71,
-    "link": "https://www.zara.com/in/en/100-wool-suit-trousers-p01564901.html?v1=232600454"
-  },
-  {
     "name": "RELAXED FIT DENIM BERMUDA SHORTS",
     "price": 99000,
     "discount": 69,
@@ -96,12 +90,6 @@
     "link": "https://www.zara.com/in/en/textured-suit-blazer-p05676185.html?v1=226108907"
   },
   {
-    "name": "TEXTURED SHIRT",
-    "price": 159000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/textured-shirt-p04465188.html?v1=247081905"
-  },
-  {
     "name": "LIGHTWEIGHT JACKET WITH POCKETS",
     "price": 249000,
     "discount": 67,
@@ -136,6 +124,12 @@
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/textured-jogger-bermuda-shorts-p03665442.html?v1=246156009"
+  },
+  {
+    "name": "COTTON CHINO BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/cotton-chino-bermuda-shorts-p08727306.html?v1=242324670"
   },
   {
     "name": "VISCOSE - LINEN BERMUDA SHORTS",
@@ -330,12 +324,6 @@
     "link": "https://www.zara.com/in/en/leather-monk-shoes-p12430120.html?v1=224102958"
   },
   {
-    "name": "STRIPED T-SHIRT WITH PATCH",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/striped-t-shirt-with-patch-p00761434.html?v1=232849103"
-  },
-  {
     "name": "SLIPPERS",
     "price": 99000,
     "discount": 61,
@@ -486,12 +474,6 @@
     "link": "https://www.zara.com/in/en/technical-suit-trousers-p09621671.html?v1=225300362"
   },
   {
-    "name": "CHECK SUIT TROUSERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/check-suit-trousers-p04655860.html?v1=257495116"
-  },
-  {
     "name": "OMBRÉ PRINT SHIRT",
     "price": 199000,
     "discount": 60,
@@ -504,16 +486,10 @@
     "link": "https://www.zara.com/in/en/textured-sweater-with-stripes-p03390400.html?v1=222724540"
   },
   {
-    "name": "JOGGER WAIST COTTON TROUSERS",
+    "name": "REGULAR FIT TROUSERS",
     "price": 199000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/jogger-waist-cotton-trousers-p06861408.html?v1=224862462"
-  },
-  {
-    "name": "BOOTCUT FIT TROUSERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/bootcut-fit-trousers-p01591420.html?v1=231564395"
+    "link": "https://www.zara.com/in/en/regular-fit-trousers-p04164917.html?v1=255130975"
   },
   {
     "name": "JOGGER WAIST SATIN TROUSERS",
@@ -546,22 +522,28 @@
     "link": "https://www.zara.com/in/en/pleated-technical-trousers-p07380321.html?v1=275886143"
   },
   {
+    "name": "TEXTURED STRIPED SWEATER",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/textured-striped-sweater-p03597406.html?v1=222748464"
+  },
+  {
     "name": "RUBBERISED LOAFERS",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-loafers-p12660120.html?v1=224865698"
   },
   {
+    "name": "STRAIGHT FIT TROUSERS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/straight-fit-trousers-p01300506.html?v1=227500699"
+  },
+  {
     "name": "RUBBERISED LOAFERS",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-loafers-p12660120.html?v1=224865699"
-  },
-  {
-    "name": "TROUSERS WITH MATCHING BELT",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/trousers-with-matching-belt-p04151281.html?v1=229432842"
   },
   {
     "name": "NON-IRON TEXTURED SHIRT",
@@ -574,12 +556,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860424"
-  },
-  {
-    "name": "SHIRT WITH FRENCH CUFFS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/shirt-with-french-cuffs-p04628487.html?v1=261735286"
   },
   {
     "name": "STRIPED COTTON SHIRT",
@@ -1008,12 +984,6 @@
     "link": "https://www.zara.com/in/en/leather-shoes-p12425020.html?v1=248883280"
   },
   {
-    "name": "BASIC HOODIE",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/basic-hoodie-p00761300.html?v1=234291700"
-  },
-  {
     "name": "SWEATSHIRT WITH ZIP COLLAR",
     "price": 129000,
     "discount": 55,
@@ -1056,6 +1026,12 @@
     "link": "https://www.zara.com/in/en/soft-messenger-bag-p13643120.html?v1=248883206"
   },
   {
+    "name": "SOFT-TOUCH SWEATSHIRT",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/soft-touch-sweatshirt-p02888413.html?v1=226365362"
+  },
+  {
     "name": "SOFT CROSSBODY BAG",
     "price": 129000,
     "discount": 55,
@@ -1066,12 +1042,6 @@
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/soft-touch-sweatshirt-p02888413.html?v1=229183230"
-  },
-  {
-    "name": "SOFT-TOUCH SWEATSHIRT",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/soft-touch-sweatshirt-p02888413.html?v1=226365362"
   },
   {
     "name": "SOFT-TOUCH SWEATSHIRT",
@@ -1186,12 +1156,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/technical-shirt-p01538391.html?v1=252977082"
-  },
-  {
-    "name": "COTTON TWILL SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/cotton-twill-shirt-p05588865.html?v1=256410371"
   },
   {
     "name": "TEXTURED SHIRT",
@@ -1536,6 +1500,12 @@
     "link": "https://www.zara.com/in/en/linen---cotton-t-shirt-p04387405.html?v1=250109218"
   },
   {
+    "name": "LINEN/COTTON TROUSERS",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/linen-cotton-trousers-p08574347.html?v1=225295957"
+  },
+  {
     "name": "LINEN - COTTON T-SHIRT",
     "price": 99000,
     "discount": 50,
@@ -1620,16 +1590,16 @@
     "link": "https://www.zara.com/in/en/textured-check-shirt-p07036343.html?v1=290519816"
   },
   {
-    "name": "CROPPED JACKET WITH POCKETS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
-  },
-  {
     "name": "LINEN BLEND TROUSERS WITH TOPSTITCHING",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/linen-blend-trousers-with-topstitching-p00706365.html?v1=281771350"
+  },
+  {
+    "name": "CROPPED JACKET WITH POCKETS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
   },
   {
     "name": "SLIM FIT SUIT BLAZER",
@@ -1782,6 +1752,12 @@
     "link": "https://www.zara.com/in/en/oxford-shirt-with-embroidery-of--inigo-studio-p07446467.html?v1=266420307"
   },
   {
+    "name": "OVERSHIRT WITH POCKETS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
+  },
+  {
     "name": "LEATHER MINI CROSSBODY BAG",
     "price": 299000,
     "discount": 50,
@@ -1804,12 +1780,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/sporty-toiletry-bag-p13704120.html?v1=222756839"
-  },
-  {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
   },
   {
     "name": "CANVAS TOTE BAG",
@@ -1848,16 +1818,16 @@
     "link": "https://www.zara.com/in/en/rubberised-crossbody-bag-p13519120.html?v1=222692836"
   },
   {
-    "name": "NYLON SHOULDER BAG",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/nylon-shoulder-bag-p13625120.html?v1=222766626"
-  },
-  {
     "name": "SOFT BELT BAG",
     "price": 149000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/soft-belt-bag-p13510120.html?v1=222761656"
+  },
+  {
+    "name": "NYLON SHOULDER BAG",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/nylon-shoulder-bag-p13625120.html?v1=222766626"
   },
   {
     "name": "BASIC SWEATSHIRT",
