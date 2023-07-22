@@ -6,12 +6,6 @@
     "link": "https://www.zara.com/in/en/100-wool-bermuda-shorts-p01564975.html?v1=244299502"
   },
   {
-    "name": "PORTABLE SHOWER",
-    "price": 79000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/portable-shower-p03920412.html?v1=222748468"
-  },
-  {
     "name": "DENIM CARGO BERMUDA SHORTS",
     "price": 129000,
     "discount": 74,
@@ -414,16 +408,22 @@
     "link": "https://www.zara.com/in/en/paint-splatter-print-jeans-p00840406.html?v1=241047707"
   },
   {
-    "name": "STRAIGHT FIT TROUSERS",
+    "name": "WIDE FIT TROUSERS",
     "price": 199000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/straight-fit-trousers-p01300506.html?v1=227500699"
+    "link": "https://www.zara.com/in/en/wide-fit-trousers-p04505280.html?v1=250463110"
   },
   {
     "name": "RUBBERISED LOAFERS",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-loafers-p12660120.html?v1=224865698"
+  },
+  {
+    "name": "STRAIGHT FIT TROUSERS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/straight-fit-trousers-p01300506.html?v1=227500699"
   },
   {
     "name": "CHECK SUIT TROUSERS",
@@ -774,12 +774,6 @@
     "link": "https://www.zara.com/in/en/heart-print-t-shirt-p06224414.html?v1=229007766"
   },
   {
-    "name": "RIB NECK T-SHIRT",
-    "price": 99000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/rib-neck-t-shirt-p04442451.html?v1=224677861"
-  },
-  {
     "name": "STRAPPY LEATHER SANDALS",
     "price": 199000,
     "discount": 56,
@@ -1104,12 +1098,6 @@
     "link": "https://www.zara.com/in/en/viscose-shirt---cotton-p00779400.html?v1=244363079"
   },
   {
-    "name": "TEXTURED SHIRT WITH POCKET",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p05658312.html?v1=286106198"
-  },
-  {
     "name": "STRIPED POPLIN SHIRT",
     "price": 159000,
     "discount": 51,
@@ -1266,6 +1254,12 @@
     "link": "https://www.zara.com/in/en/wavy-print-shirt-p06085320.html?v1=265592405"
   },
   {
+    "name": "TEXTURED SHIRT WITH POCKET",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/textured-shirt-with-pocket-p05658312.html?v1=286106198"
+  },
+  {
     "name": "KNIT VEST WITH STRIPE",
     "price": 159000,
     "discount": 51,
@@ -1380,12 +1374,6 @@
     "link": "https://www.zara.com/in/en/linen---cotton-t-shirt-p04387405.html?v1=250109218"
   },
   {
-    "name": "STRAIGHT FIT JEANS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/straight-fit-jeans-p06688471.html?v1=241894460"
-  },
-  {
     "name": "CARPENTER TROUSERS WITH POCKET",
     "price": 199000,
     "discount": 50,
@@ -1428,12 +1416,6 @@
     "link": "https://www.zara.com/in/en/100-linen-shirt-p04046387.html?v1=233620653"
   },
   {
-    "name": "SLIM FIT CARGO TROUSERS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/slim-fit-cargo-trousers-p09252307.html?v1=222766761"
-  },
-  {
     "name": "FLORAL JACQUARD TROUSERS",
     "price": 199000,
     "discount": 50,
@@ -1450,12 +1432,6 @@
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/canvas-high-top-trainers-p12111120.html?v1=225773090"
-  },
-  {
-    "name": "SLIM FIT CARGO TROUSERS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/slim-fit-cargo-trousers-p09252307.html?v1=222766762"
   },
   {
     "name": "LACE-UP SNEAKERS",
@@ -1494,12 +1470,6 @@
     "link": "https://www.zara.com/in/en/contrast-embroidered-overshirt-p04302303.html?v1=260428917"
   },
   {
-    "name": "CARPENTER TROUSERS WITH POCKET",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/carpenter-trousers-with-pocket-p01538405.html?v1=222748287"
-  },
-  {
     "name": "OVERSHIRT WITH POCKETS",
     "price": 249000,
     "discount": 50,
@@ -1510,12 +1480,6 @@
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/basic-bomber-jacket-p06518400.html?v1=222761479"
-  },
-  {
-    "name": "PENNY LOAFERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
   },
   {
     "name": "BASIC BOMBER JACKET",
@@ -1534,6 +1498,12 @@
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/overshirt-with-contrast-topstitching-p06917468.html?v1=239997816"
+  },
+  {
+    "name": "PENNY LOAFERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
   },
   {
     "name": "PENNY LOAFERS",
