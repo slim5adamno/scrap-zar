@@ -1,11 +1,5 @@
 [
   {
-    "name": "JUMPSUIT WITH CONTRASTING TOPSTITCHING",
-    "price": 199000,
-    "discount": 81,
-    "link": "https://www.zara.com/in/en/jumpsuit-with-contrasting-topstitching-p04279171.html?v1=257870796"
-  },
-  {
     "name": "DOUBLE-BREASTED SUIT BLAZER",
     "price": 299000,
     "discount": 75,
@@ -168,6 +162,12 @@
     "link": "https://www.zara.com/in/en/linen-blend-bermuda-shorts-with-topstitching-p00706364.html?v1=281771340"
   },
   {
+    "name": "SPLIT SUEDE LEATHER DECK SHOES",
+    "price": 199000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/split-suede-leather-deck-shoes-p12515120.html?v1=224266114"
+  },
+  {
     "name": "PARACHUTE CARGO BERMUDA SHORTS",
     "price": 99000,
     "discount": 69,
@@ -258,16 +258,16 @@
     "link": "https://www.zara.com/in/en/ombre-print-bermuda-shorts-p06085478.html?v1=265588310"
   },
   {
-    "name": "HOODIE WITH RIPS",
-    "price": 129000,
-    "discount": 67,
-    "link": "https://www.zara.com/in/en/hoodie-with-rips-p00761469.html?v1=243957422"
-  },
-  {
     "name": "FAUX LEATHER BOMBER JACKET",
     "price": 249000,
     "discount": 67,
     "link": "https://www.zara.com/in/en/faux-leather-bomber-jacket-p03046406.html?v1=244815183"
+  },
+  {
+    "name": "HOODIE WITH RIPS",
+    "price": 129000,
+    "discount": 67,
+    "link": "https://www.zara.com/in/en/hoodie-with-rips-p00761469.html?v1=243957422"
   },
   {
     "name": "TEXTURED BERMUDA SHORTS",
@@ -310,6 +310,12 @@
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/viscose---linen-bermuda-shorts-p04302689.html?v1=226063460"
+  },
+  {
+    "name": "WAVY PRINT TROUSERS - LIMITED EDITION",
+    "price": 199000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/wavy-print-trousers---limited-edition-p06416304.html?v1=268378175"
   },
   {
     "name": "LEATHER TRAINERS",
@@ -468,22 +474,28 @@
     "link": "https://www.zara.com/in/en/matching-t-shirt-p01943309.html?v1=248803142"
   },
   {
-    "name": "TEXTURED T-SHIRT",
+    "name": "LONG SLEEVE HEAVY WEIGHT T-SHIRT",
     "price": 99000,
     "discount": 61,
-    "link": "https://www.zara.com/in/en/textured-t-shirt-p05372421.html?v1=246311921"
+    "link": "https://www.zara.com/in/en/long-sleeve-heavy-weight-t-shirt-p00761466.html?v1=235930435"
   },
   {
-    "name": "SLIPPERS",
+    "name": "MATCHING T-SHIRT",
     "price": 99000,
     "discount": 61,
-    "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756669"
+    "link": "https://www.zara.com/in/en/matching-t-shirt-p01943309.html?v1=248803140"
   },
   {
     "name": "TEXTURED BERMUDA SHORTS WITH LABEL",
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/textured-bermuda-shorts-with-label-p00761443.html?v1=227488642"
+  },
+  {
+    "name": "CREASED-EFFECT BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
   },
   {
     "name": "T-SHIRT IN CHECK TEXTURE",
@@ -552,6 +564,12 @@
     "link": "https://www.zara.com/in/en/leather-card-holder-p13807120.html?v1=222770064"
   },
   {
+    "name": "SLIPPERS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756669"
+  },
+  {
     "name": "LEATHER CROSSBODY BAG",
     "price": 229000,
     "discount": 61,
@@ -588,12 +606,6 @@
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p04094280.html?v1=229432843"
   },
   {
-    "name": "CARGO TROUSERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/cargo-trousers-p04393533.html?v1=247162912"
-  },
-  {
     "name": "TEXTURED SUIT TROUSERS",
     "price": 199000,
     "discount": 60,
@@ -622,6 +634,12 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/sweater-with-irregular-stripes-p03284401.html?v1=222658208"
+  },
+  {
+    "name": "SPLIT SUEDE SPORT SHOES",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/split-suede-sport-shoes-p12503120.html?v1=222766917"
   },
   {
     "name": "STRIPED COTTON SHIRT",
@@ -678,6 +696,12 @@
     "link": "https://www.zara.com/in/en/split-suede-leather-shoes-p12500121.html?v1=222766931"
   },
   {
+    "name": "SPLIT SUEDE LEATHER SHOES",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/split-suede-leather-shoes-p12500120.html?v1=222766930"
+  },
+  {
     "name": "RUBBERISED SHOES WITH TRACK SOLE",
     "price": 199000,
     "discount": 60,
@@ -694,6 +718,12 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-shoes-with-track-sole-p12506120.html?v1=222766913"
+  },
+  {
+    "name": "MONOCHROME TECHNICAL SANDALS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/monochrome-technical-sandals-p12746120.html?v1=224683441"
   },
   {
     "name": "RIPPED SLIM FIT JEANS",
@@ -720,10 +750,22 @@
     "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
   },
   {
+    "name": "SUPER SKINNY TROUSERS WITH CHAIN",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/super-skinny-trousers-with-chain-p09621301.html?v1=225300364"
+  },
+  {
     "name": "LEATHER CROSSBODY BAG - LIMITED EDITION",
     "price": 299000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-crossbody-bag---limited-edition-p13613220.html?v1=275474004"
+  },
+  {
+    "name": "BASIC WALLET",
+    "price": 59000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/basic-wallet-p13812120.html?v1=241894417"
   },
   {
     "name": "CONTRAST LEATHER XL CROSSBODY BAG",
@@ -822,6 +864,12 @@
     "link": "https://www.zara.com/in/en/boxy-fit-denim-jacket-p05072403.html?v1=231873887"
   },
   {
+    "name": "COMFORT PERFORMANCE TECHNICAL JACKET",
+    "price": 249000,
+    "discount": 58,
+    "link": "https://www.zara.com/in/en/comfort-performance-technical-jacket-p07380701.html?v1=223707583"
+  },
+  {
     "name": "LEATHER DRIVING LOAFERS",
     "price": 249000,
     "discount": 58,
@@ -856,12 +904,6 @@
     "price": 249000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/technical-jacket-with-pockets-p05320333.html?v1=231141353"
-  },
-  {
-    "name": "COMFORT PERFORMANCE TECHNICAL JACKET",
-    "price": 249000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/comfort-performance-technical-jacket-p07380701.html?v1=223707583"
   },
   {
     "name": "MULTI-PIECE RUNNING TRAINERS",
@@ -1098,6 +1140,12 @@
     "link": "https://www.zara.com/in/en/t-shirt-with-contrast-topstitching-p04087448.html?v1=236113979"
   },
   {
+    "name": "MATCHING LABEL SWEATSHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/matching-label-sweatshirt-p04087445.html?v1=222679580"
+  },
+  {
     "name": "EMBROIDERED SWEATSHIRT",
     "price": 129000,
     "discount": 56,
@@ -1134,6 +1182,12 @@
     "link": "https://www.zara.com/in/en/retro-sneakers-p12224120.html?v1=223549658"
   },
   {
+    "name": "MULTIPIECE TRAINERS",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/multipiece-trainers-p12218120.html?v1=222692772"
+  },
+  {
     "name": "LEATHER TRAINERS",
     "price": 199000,
     "discount": 56,
@@ -1144,6 +1198,12 @@
     "price": 199000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/sock-style-running-trainers-p12306120.html?v1=222762016"
+  },
+  {
+    "name": "MULTIPIECE SNEAKERS",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/multipiece-sneakers-p12212120.html?v1=222756771"
   },
   {
     "name": "SOCK-STYLE RUNNING TRAINERS",
@@ -1204,6 +1264,18 @@
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/soft-touch-sweatshirt-p02888413.html?v1=226365362"
+  },
+  {
+    "name": "BASIC HOODIE",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/basic-hoodie-p00761300.html?v1=225807706"
+  },
+  {
+    "name": "CHUNKY PRINTED SPORTS TRAINERS",
+    "price": 179000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/chunky-printed-sports-trainers-p12225220.html?v1=277568876"
   },
   {
     "name": "JACKET WITH CONTRAST TOPSTITCHING",
@@ -1494,18 +1566,6 @@
     "link": "https://www.zara.com/in/en/check-shirt-p04840055.html?v1=255764894"
   },
   {
-    "name": "CROCHET KNIT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/crochet-knit-shirt-p04231414.html?v1=253767647"
-  },
-  {
-    "name": "KNIT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/knit-shirt-p04090414.html?v1=253377244"
-  },
-  {
     "name": "CROPPED ABSTRACT PRINT SHIRT",
     "price": 159000,
     "discount": 51,
@@ -1608,12 +1668,6 @@
     "link": "https://www.zara.com/in/en/technical-crossbody-bag-p13628020.html?v1=222683418"
   },
   {
-    "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12305120.html?v1=222748303"
-  },
-  {
     "name": "TEXTURED POLO SHIRT",
     "price": 199000,
     "discount": 50,
@@ -1666,6 +1720,12 @@
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/t-shirt-with-printed-graphic-p00977301.html?v1=282831027"
+  },
+  {
+    "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12305120.html?v1=222748303"
   },
   {
     "name": "OVERSIZED SHIRT",
@@ -1752,12 +1812,6 @@
     "link": "https://www.zara.com/in/en/canvas-high-top-trainers-p12111120.html?v1=225773090"
   },
   {
-    "name": "PUFFER GILET",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/puffer-gilet-p08574380.html?v1=222770165"
-  },
-  {
     "name": "T-SHIRT WITH CONTRAST TOPSTITCHING",
     "price": 99000,
     "discount": 50,
@@ -1768,6 +1822,18 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/ripped-crochet-shirt-p02688403.html?v1=265852548"
+  },
+  {
+    "name": "OXFORD SHIRT WITH EMBROIDERY OF @INIGO_STUDIO",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/oxford-shirt-with-embroidery-of--inigo-studio-p07446467.html?v1=266420307"
+  },
+  {
+    "name": "PUFFER GILET",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/puffer-gilet-p04302314.html?v1=222761620"
   },
   {
     "name": "PADDED BOMBER JACKET",
@@ -1800,16 +1866,10 @@
     "link": "https://www.zara.com/in/en/overshirt-with-contrast-topstitching-p06917468.html?v1=239997816"
   },
   {
-    "name": "OXFORD SHIRT WITH EMBROIDERY OF @INIGO_STUDIO",
-    "price": 199000,
+    "name": "TRAINERS WITH SOLE DETAIL",
+    "price": 129000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/oxford-shirt-with-embroidery-of--inigo-studio-p07446467.html?v1=266420307"
-  },
-  {
-    "name": "RUNNING TRAINERS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
+    "link": "https://www.zara.com/in/en/trainers-with-sole-detail-p12236120.html?v1=242638214"
   },
   {
     "name": "CARGO TROUSERS",
@@ -1836,10 +1896,10 @@
     "link": "https://www.zara.com/in/en/lace-trim-shirt-p03992414.html?v1=255525942"
   },
   {
-    "name": "TRAINERS WITH SOLE DETAIL",
-    "price": 129000,
+    "name": "CHUNKY TRAINERS",
+    "price": 199000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/trainers-with-sole-detail-p12236120.html?v1=242638214"
+    "link": "https://www.zara.com/in/en/chunky-trainers-p12206120.html?v1=222674427"
   },
   {
     "name": "BASIC BOMBER JACKET",
@@ -1902,12 +1962,6 @@
     "link": "https://www.zara.com/in/en/check-overshirt-p03717450.html?v1=236867252"
   },
   {
-    "name": "CHUNKY HIGH-TOP SNEAKERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/chunky-high-top-sneakers-p12104120.html?v1=222766304"
-  },
-  {
     "name": "WATER-REPELLENT TECHNICAL JACKET",
     "price": 249000,
     "discount": 50,
@@ -1930,6 +1984,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/slim-clutch-bag-p13707120.html?v1=222770055"
+  },
+  {
+    "name": "MONOCHROME SLIM BRIEFCASE",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/monochrome-slim-briefcase-p13405120.html?v1=231191951"
   },
   {
     "name": "LEATHER BELT BAG",
@@ -1974,6 +2034,12 @@
     "link": "https://www.zara.com/in/en/leather-belt-bag-p13610120.html?v1=222767000"
   },
   {
+    "name": "TECHNICAL BACKPACK",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/technical-backpack-p13223120.html?v1=226617211"
+  },
+  {
     "name": "LEATHER MINI CROSSBODY BAG",
     "price": 299000,
     "discount": 50,
@@ -1984,6 +2050,12 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p02599454.html?v1=247131235"
+  },
+  {
+    "name": "RUNNING TRAINERS",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
   },
   {
     "name": "RUBBERISED CROSSBODY BAG",
@@ -2040,6 +2112,12 @@
     "link": "https://www.zara.com/in/en/soft-belt-bag-p13510120.html?v1=222761656"
   },
   {
+    "name": "TECHNICAL BACKPACK",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/technical-backpack-p13223120.html?v1=226617210"
+  },
+  {
     "name": "RUNNING TRAINERS",
     "price": 249000,
     "discount": 50,
@@ -2068,6 +2146,12 @@
     "price": 229000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/buckled-track-sandals-p12716120.html?v1=222756538"
+  },
+  {
+    "name": "CHUNKY HIGH-TOP SNEAKERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/chunky-high-top-sneakers-p12104120.html?v1=222766304"
   },
   {
     "name": "RUNNING TRAINERS",
