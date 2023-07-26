@@ -6,16 +6,16 @@
     "link": "https://www.zara.com/in/en/playsuit-p00706417.html?v1=269554741"
   },
   {
-    "name": "CARPENTER BERMUDA SHORTS WITH POCKET",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/carpenter-bermuda-shorts-with-pocket-p05862455.html?v1=227044714"
-  },
-  {
     "name": "DENIM CARGO BERMUDA SHORTS",
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/denim-cargo-bermuda-shorts-p04164411.html?v1=226617304"
+  },
+  {
+    "name": "CARPENTER BERMUDA SHORTS WITH POCKET",
+    "price": 129000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/carpenter-bermuda-shorts-with-pocket-p05862455.html?v1=227044714"
   },
   {
     "name": "PLAYSUIT - LIMITED EDITION",
@@ -474,12 +474,6 @@
     "link": "https://www.zara.com/in/en/balloon-fit-jeans-p02553460.html?v1=225262563"
   },
   {
-    "name": "CARGO TROUSERS WITH ADJUSTABLE HEMS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/cargo-trousers-with-adjustable-hems-p06917401.html?v1=226397955"
-  },
-  {
     "name": "CHECK KNIT POLO SHIRT",
     "price": 159000,
     "discount": 60,
@@ -496,6 +490,12 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/cargo-trousers-p06917427.html?v1=249916166"
+  },
+  {
+    "name": "CARGO TROUSERS WITH ADJUSTABLE HEMS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/cargo-trousers-with-adjustable-hems-p06917401.html?v1=226397955"
   },
   {
     "name": "BALLOON FIT JEANS",
@@ -528,12 +528,6 @@
     "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970093"
   },
   {
-    "name": "RIPPED SKINNY JEANS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/ripped-skinny-jeans-p03175400.html?v1=250788512"
-  },
-  {
     "name": "TRACK SOLE FABRIC SHOES",
     "price": 199000,
     "discount": 60,
@@ -544,12 +538,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/textured-striped-sweater-p03597406.html?v1=222748464"
-  },
-  {
-    "name": "MONOCHROME TECHNICAL SANDALS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/monochrome-technical-sandals-p12746120.html?v1=224683441"
   },
   {
     "name": "BELTED CHINO TROUSERS",
@@ -564,12 +552,6 @@
     "link": "https://www.zara.com/in/en/striped-cotton-shirt-p03717405.html?v1=229721157"
   },
   {
-    "name": "JEANS WITH TWISTED SEAM",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/jeans-with-twisted-seam-p09863400.html?v1=222766891"
-  },
-  {
     "name": "WIDE FIT TROUSERS WITH TOPSTITCHING",
     "price": 199000,
     "discount": 60,
@@ -582,10 +564,16 @@
     "link": "https://www.zara.com/in/en/straight-fit-trousers-p01300506.html?v1=227500699"
   },
   {
-    "name": "STRAIGHT FIT JEANS",
+    "name": "JEANS WITH TWISTED SEAM",
     "price": 199000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/straight-fit-jeans-p03991466.html?v1=231873878"
+    "link": "https://www.zara.com/in/en/jeans-with-twisted-seam-p09863400.html?v1=222766891"
+  },
+  {
+    "name": "MONOCHROME TECHNICAL SANDALS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/monochrome-technical-sandals-p12746120.html?v1=224683441"
   },
   {
     "name": "RUBBERISED LOAFERS",
@@ -750,22 +738,16 @@
     "link": "https://www.zara.com/in/en/technical-jacket-with-pockets-p05320333.html?v1=231141353"
   },
   {
-    "name": "CANVAS EXPLORER BACKPACK",
-    "price": 299000,
-    "discount": 57,
-    "link": "https://www.zara.com/in/en/canvas-explorer-backpack-p13246020.html?v1=222685922"
-  },
-  {
     "name": "MULTI-PIECE RUNNING TRAINERS",
     "price": 299000,
     "discount": 57,
     "link": "https://www.zara.com/in/en/multi-piece-running-trainers-p12385020.html?v1=248883281"
   },
   {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 99000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
+    "name": "CANVAS EXPLORER BACKPACK",
+    "price": 299000,
+    "discount": 57,
+    "link": "https://www.zara.com/in/en/canvas-explorer-backpack-p13246020.html?v1=222685922"
   },
   {
     "name": "CONTRAST PRINTED T-SHIRT",
@@ -846,6 +828,12 @@
     "link": "https://www.zara.com/in/en/abstract-print-t-shirt-p02795301.html?v1=286106178"
   },
   {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 99000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
+  },
+  {
     "name": "SUSHI PRINT T-SHIRT",
     "price": 99000,
     "discount": 56,
@@ -892,12 +880,6 @@
     "price": 99000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/seamless-short-sleeve-t-shirt-p00347303.html?v1=250467902"
-  },
-  {
-    "name": "DIP-DYE T-SHIRT WITH SLOGAN",
-    "price": 99000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/dip-dye-t-shirt-with-slogan-p03665445.html?v1=253767651"
   },
   {
     "name": "STRAPPY LEATHER SANDALS",
@@ -1216,12 +1198,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/striped-cotton---linen-shirt-p00975107.html?v1=251915501"
-  },
-  {
-    "name": "GEOMETRIC PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/geometric-print-shirt-p04141301.html?v1=288417369"
   },
   {
     "name": "RELAXED SHIRT WITH POCKET",
@@ -1554,12 +1530,6 @@
     "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
   },
   {
-    "name": "PUFFER GILET",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/puffer-gilet-p04302314.html?v1=222761620"
-  },
-  {
     "name": "PARKA WITH RUBBERISED FINISH",
     "price": 299000,
     "discount": 50,
@@ -1572,22 +1542,16 @@
     "link": "https://www.zara.com/in/en/leather-shoes-p12400120.html?v1=222766550"
   },
   {
-    "name": "CROPPED CARGO TROUSERS",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/cropped-cargo-trousers-p00108400.html?v1=222730313"
-  },
-  {
     "name": "LACE TRIM SHIRT",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/lace-trim-shirt-p03992414.html?v1=255525942"
   },
   {
-    "name": "TEXTURED CROCHET SHIRT",
+    "name": "CROPPED CARGO TROUSERS",
     "price": 199000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/textured-crochet-shirt-p04387841.html?v1=260490122"
+    "link": "https://www.zara.com/in/en/cropped-cargo-trousers-p00108400.html?v1=222730313"
   },
   {
     "name": "BASIC BOMBER JACKET",
@@ -1648,12 +1612,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/slim-clutch-bag-p13707120.html?v1=222770055"
-  },
-  {
-    "name": "CANVAS TOTE BAG",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/canvas-tote-bag-p13316120.html?v1=239694800"
   },
   {
     "name": "TEXTURED POLO SHIRT",
@@ -1722,6 +1680,12 @@
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p02599454.html?v1=247131235"
   },
   {
+    "name": "CANVAS TOTE BAG",
+    "price": 199000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/canvas-tote-bag-p13316120.html?v1=239694800"
+  },
+  {
     "name": "LEATHER MINI CROSSBODY BAG",
     "price": 299000,
     "discount": 50,
@@ -1770,16 +1734,16 @@
     "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=224266095"
   },
   {
-    "name": "ROLL-UP RUBBERIZED CROSSBODY BAG",
-    "price": 149000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/roll-up-rubberized-crossbody-bag-p13501120.html?v1=222745906"
-  },
-  {
     "name": "TRAINERS WITH SOLE DETAIL",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/trainers-with-sole-detail-p12236120.html?v1=232185028"
+  },
+  {
+    "name": "ROLL-UP RUBBERIZED CROSSBODY BAG",
+    "price": 149000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/roll-up-rubberized-crossbody-bag-p13501120.html?v1=222745906"
   },
   {
     "name": "SOFT BELT BAG",
