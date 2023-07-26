@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/viscose---linen-suit-blazer-p04609974.html?v1=258606437"
   },
   {
+    "name": "LINEN BLEND SUIT BLAZER",
+    "price": 299000,
+    "discount": 72,
+    "link": "https://www.zara.com/in/en/linen-blend-suit-blazer-p04360695.html?v1=251077494"
+  },
+  {
     "name": "100% WOOL SUIT BLAZER",
     "price": 299000,
     "discount": 72,
@@ -342,16 +348,16 @@
     "link": "https://www.zara.com/in/en/leather-card-holder-p13807120.html?v1=222770064"
   },
   {
-    "name": "TECHNICAL BOWLING BAG",
-    "price": 229000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/technical-bowling-bag-p13105120.html?v1=222756844"
-  },
-  {
     "name": "SLIPPERS",
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756668"
+  },
+  {
+    "name": "TECHNICAL BOWLING BAG",
+    "price": 229000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/technical-bowling-bag-p13105120.html?v1=222756844"
   },
   {
     "name": "XL WALLET",
@@ -582,12 +588,6 @@
     "link": "https://www.zara.com/in/en/multi-piece-running-trainers-p12385020.html?v1=248883281"
   },
   {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 99000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
-  },
-  {
     "name": "BASIC JOGGER BERMUDA SHORTS",
     "price": 99000,
     "discount": 56,
@@ -634,6 +634,12 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/premium-hoodie-p04087481.html?v1=246306524"
+  },
+  {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 99000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
   },
   {
     "name": "SUSHI PRINT T-SHIRT",
@@ -1158,12 +1164,6 @@
     "link": "https://www.zara.com/in/en/canvas-deck-shoes-p12655220.html?v1=270204598"
   },
   {
-    "name": "COLOUR BLOCK TRAINING GILET",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/colour-block-training-gilet-p01732309.html?v1=248175586"
-  },
-  {
     "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
     "price": 299000,
     "discount": 50,
@@ -1200,6 +1200,18 @@
     "link": "https://www.zara.com/in/en/oxford-shirt-with-embroidery-of--inigo-studio-p07446467.html?v1=266420307"
   },
   {
+    "name": "COLOUR BLOCK TRAINING GILET",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/colour-block-training-gilet-p01732309.html?v1=248175586"
+  },
+  {
+    "name": "RUNNING TRAINERS",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
+  },
+  {
     "name": "PARKA WITH RUBBERISED FINISH",
     "price": 299000,
     "discount": 50,
@@ -1216,12 +1228,6 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/lace-trim-shirt-p03992414.html?v1=255525942"
-  },
-  {
-    "name": "RUNNING TRAINERS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
   },
   {
     "name": "CHUNKY TRAINERS",
@@ -1296,12 +1302,6 @@
     "link": "https://www.zara.com/in/en/slim-clutch-bag-p13707120.html?v1=222770055"
   },
   {
-    "name": "CANVAS TOTE BAG",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/canvas-tote-bag-p13316120.html?v1=239694800"
-  },
-  {
     "name": "TEXTURED POLO SHIRT",
     "price": 199000,
     "discount": 50,
@@ -1362,6 +1362,12 @@
     "link": "https://www.zara.com/in/en/monochrome-mini-crossbody-bag-p13609121.html?v1=275107826"
   },
   {
+    "name": "LEATHER MINI CROSSBODY BAG",
+    "price": 299000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/leather-mini-crossbody-bag-p13905020.html?v1=248883212"
+  },
+  {
     "name": "COTTON SHIRT WITH POCKET",
     "price": 199000,
     "discount": 50,
@@ -1374,10 +1380,10 @@
     "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
   },
   {
-    "name": "LEATHER MINI CROSSBODY BAG",
-    "price": 299000,
+    "name": "CANVAS TOTE BAG",
+    "price": 199000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/leather-mini-crossbody-bag-p13905020.html?v1=248883212"
+    "link": "https://www.zara.com/in/en/canvas-tote-bag-p13316120.html?v1=239694800"
   },
   {
     "name": "LEATHER MINI CROSSBODY BAG",
