@@ -42,16 +42,16 @@
     "link": "https://www.zara.com/in/en/ombre-print-bermuda-shorts-p06085478.html?v1=265588310"
   },
   {
-    "name": "HOODIE",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/hoodie-p00761354.html?v1=230511829"
-  },
-  {
     "name": "TEXTURED SUIT BLAZER",
     "price": 249000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/textured-suit-blazer-p06861350.html?v1=226108898"
+  },
+  {
+    "name": "BIRD’S-EYE SUIT BLAZER",
+    "price": 249000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/bird-s-eye-suit-blazer-p00706330.html?v1=222766635"
   },
   {
     "name": "LEATHER TASSEL LOAFERS",
@@ -108,6 +108,12 @@
     "link": "https://www.zara.com/in/en/contrast-technical-bermuda-shorts-p00706423.html?v1=250827312"
   },
   {
+    "name": "VINTAGE FADED DENIM BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/vintage-faded-denim-bermuda-shorts-p06688440.html?v1=246301683"
+  },
+  {
     "name": "TEXTURED BERMUDA SHORTS",
     "price": 99000,
     "discount": 69,
@@ -150,10 +156,22 @@
     "link": "https://www.zara.com/in/en/technical-suit-trousers-p09621671.html?v1=225300362"
   },
   {
+    "name": "TEXTURED SUIT TROUSERS",
+    "price": 159000,
+    "discount": 68,
+    "link": "https://www.zara.com/in/en/textured-suit-trousers-p00706453.html?v1=255321873"
+  },
+  {
     "name": "BALLOON FIT JEANS",
     "price": 159000,
     "discount": 68,
     "link": "https://www.zara.com/in/en/balloon-fit-jeans-p06186400.html?v1=242710904"
+  },
+  {
+    "name": "BIRD’S-EYE SUIT TROUSERS",
+    "price": 159000,
+    "discount": 68,
+    "link": "https://www.zara.com/in/en/bird-s-eye-suit-trousers-p00706331.html?v1=222766637"
   },
   {
     "name": "HOODIE WITH SLOGAN PRINT",
@@ -220,6 +238,12 @@
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
+  },
+  {
+    "name": "RETRO LEATHER TRAINERS",
+    "price": 199000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/retro-leather-trainers-p12234020.html?v1=222766934"
   },
   {
     "name": "CHUNKY LEATHER LOAFERS",
@@ -334,6 +358,12 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685502"
+  },
+  {
+    "name": "BERMUDA SHORTS WITH CONTRAST TOPSTITCHING",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/bermuda-shorts-with-contrast-topstitching-p05520300.html?v1=278685544"
   },
   {
     "name": "CROPPED FLOWING BERMUDA SHORTS",
@@ -636,12 +666,6 @@
     "link": "https://www.zara.com/in/en/boxy-fit-denim-jacket-p05072403.html?v1=231873887"
   },
   {
-    "name": "LIGHTWEIGHT SHORT SLEEVE T-SHIRT",
-    "price": 79000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/lightweight-short-sleeve-t-shirt-p00722353.html?v1=230511822"
-  },
-  {
     "name": "JACKET WITH CONTRAST TOPSTITCHING",
     "price": 249000,
     "discount": 58,
@@ -696,12 +720,6 @@
     "link": "https://www.zara.com/in/en/striped-knit-vest-p02632417.html?v1=251904326"
   },
   {
-    "name": "POLO SWEATSHIRT WITH CONTRAST PRINT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/polo-sweatshirt-with-contrast-print-p01165410.html?v1=222702878"
-  },
-  {
     "name": "TEXTURED KNIT VEST",
     "price": 129000,
     "discount": 56,
@@ -742,6 +760,12 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/oversize-knit-vest-p06771406.html?v1=242339358"
+  },
+  {
+    "name": "POLO SWEATSHIRT WITH CONTRAST PRINT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/polo-sweatshirt-with-contrast-print-p01165410.html?v1=222702878"
   },
   {
     "name": "SOFT MINIMALIST TOTE BAG",
@@ -1054,12 +1078,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/abstract-print-shirt-p06085403.html?v1=269573023"
-  },
-  {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p04424210.html?v1=249887340"
   },
   {
     "name": "GEOMETRIC PRINT SHIRT",
