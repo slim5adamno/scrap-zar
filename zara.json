@@ -18,12 +18,6 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
-    "name": "COTTON - LINEN SUIT BLAZER",
-    "price": 249000,
-    "discount": 77,
-    "link": "https://www.zara.com/in/en/cotton---linen-suit-blazer-p04661948.html?v1=258606439"
-  },
-  {
     "name": "LEATHER TRACK-SOLE SHOES",
     "price": 199000,
     "discount": 76,
@@ -102,16 +96,16 @@
     "link": "https://www.zara.com/in/en/pleated-bermuda-shorts-p00706211.html?v1=257902420"
   },
   {
-    "name": "CONTRAST TECHNICAL BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/contrast-technical-bermuda-shorts-p00706423.html?v1=250827312"
-  },
-  {
     "name": "BERMUDA SHORTS WITH TURN-UP HEMS",
     "price": 99000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/bermuda-shorts-with-turn-up-hems-p03268470.html?v1=266112345"
+  },
+  {
+    "name": "CONTRAST TECHNICAL BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/contrast-technical-bermuda-shorts-p00706423.html?v1=250827312"
   },
   {
     "name": "TECHNICAL CARGO BERMUDA SHORTS",
@@ -154,12 +148,6 @@
     "price": 159000,
     "discount": 68,
     "link": "https://www.zara.com/in/en/technical-suit-trousers-p09621671.html?v1=225300362"
-  },
-  {
-    "name": "TEXTURED SUIT TROUSERS",
-    "price": 159000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/textured-suit-trousers-p05653185.html?v1=226108904"
   },
   {
     "name": "KNIT SHIRT WITH FLORAL EMBROIDERY",
@@ -327,6 +315,12 @@
     "name": "CROPPED FLOWING BERMUDA SHORTS",
     "price": 99000,
     "discount": 61,
+    "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685502"
+  },
+  {
+    "name": "CROPPED FLOWING BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
     "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685501"
   },
   {
@@ -372,18 +366,6 @@
     "link": "https://www.zara.com/in/en/running-trainers-p12311120.html?v1=222674321"
   },
   {
-    "name": "CROPPED FLOWING BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685502"
-  },
-  {
-    "name": "LEATHER CROSSBODY BAG",
-    "price": 229000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657925"
-  },
-  {
     "name": "LEATHER CROSSBODY BAG",
     "price": 229000,
     "discount": 61,
@@ -396,12 +378,6 @@
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13301120.html?v1=225741324"
   },
   {
-    "name": "LEATHER CARD HOLDER",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/leather-card-holder-p13807120.html?v1=222770064"
-  },
-  {
     "name": "LEATHER MINI CROSSBODY BAG",
     "price": 229000,
     "discount": 61,
@@ -412,6 +388,18 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/monochrome-mini-crossbody-bag-p13609121.html?v1=275107827"
+  },
+  {
+    "name": "LEATHER CROSSBODY BAG",
+    "price": 229000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657925"
+  },
+  {
+    "name": "LEATHER CARD HOLDER",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/leather-card-holder-p13807120.html?v1=222770064"
   },
   {
     "name": "MONOCHROME MINI CROSSBODY BAG",
@@ -465,6 +453,12 @@
     "name": "TRACK SOLE FABRIC SHOES",
     "price": 199000,
     "discount": 60,
+    "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970094"
+  },
+  {
+    "name": "TRACK SOLE FABRIC SHOES",
+    "price": 199000,
+    "discount": 60,
     "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970093"
   },
   {
@@ -472,12 +466,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860424"
-  },
-  {
-    "name": "TRACK SOLE FABRIC SHOES",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970094"
   },
   {
     "name": "RUBBERISED SHOES WITH TRACK SOLE",
@@ -652,12 +640,6 @@
     "price": 249000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/technical-jacket-p07627330.html?v1=235988122"
-  },
-  {
-    "name": "GOLD EDT 30 ML / 1.01 oz",
-    "price": 25000,
-    "discount": 57,
-    "link": "https://www.zara.com/in/en/gold-edt-30-ml---1-01-oz-p20210001.html?v1=276355419"
   },
   {
     "name": "BASIC JOGGER BERMUDA SHORTS",
@@ -972,22 +954,10 @@
     "link": "https://www.zara.com/in/en/linen---cotton-blend-shirt-p00975403.html?v1=245820873"
   },
   {
-    "name": "SEERSUCKER SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/seersucker-shirt-p00775454.html?v1=247542455"
-  },
-  {
     "name": "TEXTURED SHIRT",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/textured-shirt-p02675510.html?v1=256936743"
-  },
-  {
-    "name": "CROPPED ABSTRACT PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/cropped-abstract-print-shirt-p04681184.html?v1=260866567"
   },
   {
     "name": "LIGHTWEIGHT DENIM SHIRT",
