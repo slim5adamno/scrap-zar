@@ -1,5 +1,11 @@
 [
   {
+    "name": "LEATHER BELT",
+    "price": 59000,
+    "discount": 79,
+    "link": "https://www.zara.com/in/en/leather-belt-p05919404.html?v1=222748277"
+  },
+  {
     "name": "TRACK SOLE SHOES",
     "price": 129000,
     "discount": 78,
@@ -28,12 +34,6 @@
     "price": 99000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/technical-shorts-p01732303.html?v1=222770473"
-  },
-  {
-    "name": "WIDE FIT BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/wide-fit-bermuda-shorts-p02553470.html?v1=263299542"
   },
   {
     "name": "OMBRÉ PRINT BERMUDA SHORTS",
@@ -298,6 +298,12 @@
     "price": 399000,
     "discount": 63,
     "link": "https://www.zara.com/in/en/contrast-leather-shoes-p12440120.html?v1=223970099"
+  },
+  {
+    "name": "LEATHER TRAINERS",
+    "price": 249000,
+    "discount": 62,
+    "link": "https://www.zara.com/in/en/leather-trainers-p12226020.html?v1=224715077"
   },
   {
     "name": "CROPPED FLOWING BERMUDA SHORTS",
@@ -1044,18 +1050,6 @@
     "link": "https://www.zara.com/in/en/abstract-print-shirt-p04424210.html?v1=249887340"
   },
   {
-    "name": "WAVY PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/wavy-print-shirt-p06085320.html?v1=265592405"
-  },
-  {
-    "name": "GEOMETRIC PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/geometric-print-shirt-p05400300.html?v1=263297869"
-  },
-  {
     "name": "PRINTED SHIRT",
     "price": 159000,
     "discount": 51,
@@ -1110,10 +1104,10 @@
     "link": "https://www.zara.com/in/en/lyocell---cotton-shirt-with-topstitching-p04594296.html?v1=260862613"
   },
   {
-    "name": "SHIRT WITH CONTRAST EMBROIDERY",
+    "name": "GEOMETRIC PRINT SHIRT",
     "price": 159000,
     "discount": 51,
-    "link": "https://www.zara.com/in/en/shirt-with-contrast-embroidery-p03798320.html?v1=268330924"
+    "link": "https://www.zara.com/in/en/geometric-print-shirt-p05400300.html?v1=263297869"
   },
   {
     "name": "CANVAS HIGH-TOP TRAINERS",
