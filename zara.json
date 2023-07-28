@@ -1,5 +1,11 @@
 [
   {
+    "name": "OVAL SUNGLASSES",
+    "price": 59000,
+    "discount": 88,
+    "link": "https://www.zara.com/in/en/oval-sunglasses-p02750425.html?v1=237218861"
+  },
+  {
     "name": "TRACK SOLE SHOES",
     "price": 129000,
     "discount": 78,
@@ -34,6 +40,18 @@
     "price": 99000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/ombre-print-bermuda-shorts-p06085478.html?v1=265588310"
+  },
+  {
+    "name": "LONG NECKLACE WITH CONTRAST BEADS",
+    "price": 49000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/long-necklace-with-contrast-beads-p08435458.html?v1=237729243"
+  },
+  {
+    "name": "2-PACK OF CONTRAST NECKLACES",
+    "price": 49000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/2-pack-of-contrast-necklaces-p08435457.html?v1=237746430"
   },
   {
     "name": "LEATHER TASSEL LOAFERS",
@@ -216,12 +234,6 @@
     "link": "https://www.zara.com/in/en/james-coffman-graphic-print-t-shirt-p00679406.html?v1=231517673"
   },
   {
-    "name": "T-SHIRT WITH RIBBED COLLAR - LIMITED EDITION",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/t-shirt-with-ribbed-collar---limited-edition-p04087417.html?v1=227477302"
-  },
-  {
     "name": "HEART PRINT T-SHIRT",
     "price": 79000,
     "discount": 65,
@@ -292,12 +304,6 @@
     "price": 399000,
     "discount": 63,
     "link": "https://www.zara.com/in/en/contrast-leather-shoes-p12440120.html?v1=223970099"
-  },
-  {
-    "name": "CROPPED FLOWING BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/cropped-flowing-bermuda-shorts-p08062340.html?v1=278685502"
   },
   {
     "name": "CROPPED FLOWING BERMUDA SHORTS",
@@ -402,16 +408,16 @@
     "link": "https://www.zara.com/in/en/leather-mini-crossbody-bag-p13905020.html?v1=248883214"
   },
   {
-    "name": "SLIPPERS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756668"
-  },
-  {
     "name": "XL WALLET",
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/xl-wallet-p13899120.html?v1=285447914"
+  },
+  {
+    "name": "SLIPPERS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756668"
   },
   {
     "name": "TECHNICAL BOWLING BAG",
@@ -444,16 +450,16 @@
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860424"
   },
   {
-    "name": "TRANSLUCENT CHUNKY SHOES",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/translucent-chunky-shoes-p12409120.html?v1=231873882"
-  },
-  {
     "name": "RUBBERISED SHOES WITH TRACK SOLE",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-shoes-with-track-sole-p12506120.html?v1=222766912"
+  },
+  {
+    "name": "TRANSLUCENT CHUNKY SHOES",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/translucent-chunky-shoes-p12409120.html?v1=231873882"
   },
   {
     "name": "RUBBERISED SPORTY SHOES",
@@ -606,16 +612,22 @@
     "link": "https://www.zara.com/in/en/basic-jogger-bermuda-shorts-p00761377.html?v1=286106201"
   },
   {
-    "name": "BABAR™ ZIP-UP SWEATSHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/babar--zip-up-sweatshirt-p00962413.html?v1=226073506"
-  },
-  {
     "name": "SPLIT SUEDE LEATHER SNEAKERS",
     "price": 199000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/split-suede-leather-sneakers-p12219120.html?v1=226365364"
+  },
+  {
+    "name": "LEATHER TRAINERS",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/leather-trainers-p12256120.html?v1=225754733"
+  },
+  {
+    "name": "GRAPHIC PRINT SWEATSHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/graphic-print-sweatshirt-p00722403.html?v1=222747671"
   },
   {
     "name": "TECHNICAL CROSSBODY BAG",
@@ -720,12 +732,6 @@
     "link": "https://www.zara.com/in/en/roll-up-rubberized-crossbody-bag-p13501120.html?v1=222745906"
   },
   {
-    "name": "GRAPHIC PRINT SWEATSHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/graphic-print-sweatshirt-p00722403.html?v1=222747671"
-  },
-  {
     "name": "SOFT-TOUCH SWEATSHIRT",
     "price": 129000,
     "discount": 55,
@@ -742,6 +748,12 @@
     "price": 249000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/faux-suede-overshirt-p08281650.html?v1=226547980"
+  },
+  {
+    "name": "BASIC KNIT T-SHIRT",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/basic-knit-t-shirt-p02621420.html?v1=222748561"
   },
   {
     "name": "CONTRAST POLO SWEATSHIRT",
@@ -1108,12 +1120,6 @@
     "price": 79000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/ribbed-tank-top-p00679320.html?v1=232602403"
-  },
-  {
-    "name": "ATHLETICZ POOL SANDALS",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/athleticz-pool-sandals-p12332120.html?v1=224126449"
   },
   {
     "name": "KNIT T-SHIRT",
