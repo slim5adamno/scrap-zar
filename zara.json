@@ -342,6 +342,12 @@
     "link": "https://www.zara.com/in/en/rubberised-sporty-shoes-p12504120.html?v1=222766920"
   },
   {
+    "name": "CROPPED CARGO TROUSERS",
+    "price": 159000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/cropped-cargo-trousers-p00108400.html?v1=222730313"
+  },
+  {
     "name": "LEATHER MULE SANDALS",
     "price": 159000,
     "discount": 60,
@@ -436,12 +442,6 @@
     "price": 249000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/padded-bomber-jacket-p03918314.html?v1=225781427"
-  },
-  {
-    "name": "LINEN - COTTON OVERSHIRT",
-    "price": 249000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/linen---cotton-overshirt-p06861460.html?v1=244373057"
   },
   {
     "name": "TWISTED SEAM JACKET - LIMITED EDITION",
@@ -594,12 +594,6 @@
     "link": "https://www.zara.com/in/en/monochrome-xl-extralight--slide-sandals-p12750120.html?v1=241697222"
   },
   {
-    "name": "FAUX SUEDE OVERSHIRT",
-    "price": 249000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/faux-suede-overshirt-p08281650.html?v1=226547980"
-  },
-  {
     "name": "STRAPPY SANDALS",
     "price": 129000,
     "discount": 55,
@@ -666,12 +660,6 @@
     "link": "https://www.zara.com/in/en/relaxed-shirt-with-pocket-p02688351.html?v1=265865058"
   },
   {
-    "name": "LOOSE-FITTING SHIRT WITH POCKETS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/loose-fitting-shirt-with-pockets-p07545398.html?v1=265839422"
-  },
-  {
     "name": "STRIPED OVERSIZE SHIRT",
     "price": 159000,
     "discount": 51,
@@ -682,6 +670,12 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/striped-oversize-shirt-p00975430.html?v1=256172878"
+  },
+  {
+    "name": "LOOSE-FITTING SHIRT WITH POCKETS",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/loose-fitting-shirt-with-pockets-p07545398.html?v1=265839422"
   },
   {
     "name": "TECHNICAL SHIRT",
@@ -750,12 +744,6 @@
     "link": "https://www.zara.com/in/en/denim-rustic-shirt---limited-edition-p02328490.html?v1=259651575"
   },
   {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p00794330.html?v1=257907198"
-  },
-  {
     "name": "BOXY-FIT TECHNICAL SHIRT",
     "price": 159000,
     "discount": 51,
@@ -814,12 +802,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/shirt-with-contrast-embroidery-p03798320.html?v1=268330924"
-  },
-  {
-    "name": "GEOMETRIC PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/geometric-print-shirt-p05400300.html?v1=263297869"
   },
   {
     "name": "RIBBED TANK TOP",
@@ -900,16 +882,16 @@
     "link": "https://www.zara.com/in/en/faux-suede-overshirt-p03046405.html?v1=222762028"
   },
   {
-    "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
-    "price": 229000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html?v1=222702918"
-  },
-  {
     "name": "TRAINERS WITH SOLE DETAIL",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/trainers-with-sole-detail-p12236120.html?v1=232185028"
+  },
+  {
+    "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
+    "price": 229000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html?v1=222702918"
   },
   {
     "name": "PENNY LOAFERS",
