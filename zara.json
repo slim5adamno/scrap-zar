@@ -138,6 +138,12 @@
     "link": "https://www.zara.com/in/en/james-coffman-graphic-print-t-shirt-p00679406.html?v1=231517673"
   },
   {
+    "name": "LEATHER LOAFERS",
+    "price": 299000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/leather-loafers-p12635120.html?v1=235226525"
+  },
+  {
     "name": "HEART PRINT T-SHIRT",
     "price": 79000,
     "discount": 65,
@@ -600,12 +606,6 @@
     "link": "https://www.zara.com/in/en/quilted-crossbody-bag-p13526120.html?v1=222694480"
   },
   {
-    "name": "SOFT-TOUCH SWEATSHIRT",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/soft-touch-sweatshirt-p02888413.html?v1=226365362"
-  },
-  {
     "name": "JACKET WITH CONTRAST TOPSTITCHING",
     "price": 249000,
     "discount": 55,
@@ -774,12 +774,6 @@
     "link": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html?v1=252852589"
   },
   {
-    "name": "STRIPED POPLIN SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-poplin-shirt-p04573883.html?v1=248810914"
-  },
-  {
     "name": "100% VISCOSE SHIRT",
     "price": 159000,
     "discount": 51,
@@ -790,6 +784,12 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/shirt-with-contrast-embroidery-p02675435.html?v1=250812093"
+  },
+  {
+    "name": "STRIPED POPLIN SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/striped-poplin-shirt-p04573883.html?v1=248810914"
   },
   {
     "name": "ABSTRACT PRINT SHIRT",
@@ -834,28 +834,28 @@
     "link": "https://www.zara.com/in/en/boxy-fit-technical-shirt-p07380412.html?v1=273575032"
   },
   {
-    "name": "STRIPED OVERSIZE SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-oversize-shirt-p00975430.html?v1=239311045"
-  },
-  {
     "name": "COTTON SHIRT WITH POCKET",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p04406400.html?v1=247635946"
   },
   {
-    "name": "SHIRT WITH CONTRAST EMBROIDERY",
+    "name": "STRIPED OVERSIZE SHIRT",
     "price": 159000,
     "discount": 51,
-    "link": "https://www.zara.com/in/en/shirt-with-contrast-embroidery-p03798320.html?v1=268330924"
+    "link": "https://www.zara.com/in/en/striped-oversize-shirt-p00975430.html?v1=239311045"
   },
   {
     "name": "ABSTRACT PRINT SHIRT",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/abstract-print-shirt-p06085403.html?v1=269573023"
+  },
+  {
+    "name": "SHIRT WITH CONTRAST EMBROIDERY",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/shirt-with-contrast-embroidery-p03798320.html?v1=268330924"
   },
   {
     "name": "SHIRT WITH POCKET",
