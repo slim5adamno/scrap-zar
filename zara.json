@@ -1,11 +1,5 @@
 [
   {
-    "name": "PLAYSUIT - LIMITED EDITION",
-    "price": 159000,
-    "discount": 79,
-    "link": "https://www.zara.com/in/en/playsuit---limited-edition-p01300302.html?v1=268382336"
-  },
-  {
     "name": "TRACK SOLE SHOES",
     "price": 129000,
     "discount": 78,
@@ -52,6 +46,12 @@
     "price": 99000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/pleated-bermuda-shorts-p00794416.html?v1=269269794"
+  },
+  {
+    "name": "MATCHING T-SHIRT",
+    "price": 79000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/matching-t-shirt-p01943309.html?v1=248803140"
   },
   {
     "name": "CONTRAST LEATHER XL CROSSBODY BAG",
@@ -126,16 +126,16 @@
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
   },
   {
-    "name": "SOFT DENIM BERMUDA SHORTS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/soft-denim-bermuda-shorts-p05862403.html?v1=231868132"
-  },
-  {
     "name": "T-SHIRT WITH CONTRAST PATCH",
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
+  },
+  {
+    "name": "SOFT DENIM BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/soft-denim-bermuda-shorts-p05862403.html?v1=231868132"
   },
   {
     "name": "T-SHIRT WITH PRINTED PATCH",
@@ -390,16 +390,16 @@
     "link": "https://www.zara.com/in/en/translucent-chunky-shoes-p12409120.html?v1=231873882"
   },
   {
-    "name": "RUNNING TRAINERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
-  },
-  {
     "name": "STRAPPY SANDALS WITH BUCKLE FASTENING",
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/strappy-sandals-with-buckle-fastening-p12717120.html?v1=222740609"
+  },
+  {
+    "name": "RUNNING TRAINERS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
   },
   {
     "name": "PENNY LOAFERS",
@@ -616,12 +616,6 @@
     "price": 229000,
     "discount": 54,
     "link": "https://www.zara.com/in/en/soft-explorer-backpack-p13205120.html?v1=222747679"
-  },
-  {
-    "name": "SOFT LEATHER PENNY LOAFERS",
-    "price": 399000,
-    "discount": 53,
-    "link": "https://www.zara.com/in/en/soft-leather-penny-loafers-p12626121.html?v1=251138390"
   },
   {
     "name": "CHUNKY LEATHER LOAFERS",
