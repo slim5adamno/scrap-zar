@@ -126,6 +126,12 @@
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
   },
   {
+    "name": "RETRO LEATHER TRAINERS",
+    "price": 199000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/retro-leather-trainers-p12234020.html?v1=222766934"
+  },
+  {
     "name": "T-SHIRT WITH CONTRAST PATCH",
     "price": 79000,
     "discount": 65,
@@ -156,22 +162,10 @@
     "link": "https://www.zara.com/in/en/heart-print-t-shirt-p06224414.html?v1=229007766"
   },
   {
-    "name": "LEATHER DERBY SHOES",
-    "price": 299000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/leather-derby-shoes-p12404120.html?v1=222766927"
-  },
-  {
     "name": "KNIT ESPADRILLES",
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/knit-espadrilles-p12743120.html?v1=222685927"
-  },
-  {
-    "name": "BUCKLED TRACK SANDALS",
-    "price": 159000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/buckled-track-sandals-p12716120.html?v1=222756538"
   },
   {
     "name": "MINI CROSSBODY BAG",
@@ -196,6 +190,12 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/mini-crossbody-bag-p13600120.html?v1=222657929"
+  },
+  {
+    "name": "BUCKLED TRACK SANDALS",
+    "price": 159000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/buckled-track-sandals-p12716120.html?v1=222756538"
   },
   {
     "name": "SQUARE TOE SHOES",
@@ -298,12 +298,6 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756668"
-  },
-  {
-    "name": "JACQUARD SHIRT WITH LEAVES",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/jacquard-shirt-with-leaves-p06048302.html?v1=278685508"
   },
   {
     "name": "SHORT SLEEVE HEAVY WEIGHT T-SHIRT",
@@ -540,6 +534,18 @@
     "link": "https://www.zara.com/in/en/split-suede-leather-sneakers-p12219120.html?v1=226365364"
   },
   {
+    "name": "MULTIPIECE TRAINERS",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/multipiece-trainers-p12218120.html?v1=222692772"
+  },
+  {
+    "name": "MINIMALIST CONTRAST SNEAKERS",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/minimalist-contrast-sneakers-p12200120.html?v1=222766636"
+  },
+  {
     "name": "SOFT BELT BAG",
     "price": 129000,
     "discount": 56,
@@ -642,12 +648,6 @@
     "link": "https://www.zara.com/in/en/checked-jacquard-shirt-p07545338.html?v1=262618823"
   },
   {
-    "name": "COTTON - LINEN TROUSERS",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/cotton---linen-trousers-p07147301.html?v1=263299543"
-  },
-  {
     "name": "RELAXED SHIRT WITH POCKET",
     "price": 159000,
     "discount": 51,
@@ -682,12 +682,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/wavy-print-shirt-p06085320.html?v1=265592406"
-  },
-  {
-    "name": "OVERSIZE-FIT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/oversize-fit-shirt-p00794415.html?v1=271999522"
   },
   {
     "name": "OVERSIZED OXFORD SHIRT",
@@ -738,12 +732,6 @@
     "link": "https://www.zara.com/in/en/shirt-with-pocket-p08574392.html?v1=293190326"
   },
   {
-    "name": "RELAXED SHIRT WITH POCKET",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/relaxed-shirt-with-pocket-p04419401.html?v1=254739726"
-  },
-  {
     "name": "ABSTRACT PRINT SHIRT",
     "price": 159000,
     "discount": 51,
@@ -780,12 +768,6 @@
     "link": "https://www.zara.com/in/en/lyocell---cotton-shirt-with-topstitching-p04594296.html?v1=260862613"
   },
   {
-    "name": "STRIPED OVERSIZE SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-oversize-shirt-p00975430.html?v1=239311045"
-  },
-  {
     "name": "CHECK COTTON SHIRT",
     "price": 159000,
     "discount": 51,
@@ -814,6 +796,12 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p04406400.html?v1=247635946"
+  },
+  {
+    "name": "STRIPED OVERSIZE SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/striped-oversize-shirt-p00975430.html?v1=239311045"
   },
   {
     "name": "SHIRT WITH CONTRAST EMBROIDERY",
