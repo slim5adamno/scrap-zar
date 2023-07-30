@@ -78,18 +78,6 @@
     "link": "https://www.zara.com/in/en/contrast-leather-xl-crossbody-bag-p13528120.html?v1=232872629"
   },
   {
-    "name": "JOGGER WAIST SATIN TROUSERS",
-    "price": 159000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/jogger-waist-satin-trousers-p00706427.html?v1=255488499"
-  },
-  {
-    "name": "JEANS WITH TWISTED SEAM",
-    "price": 159000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/jeans-with-twisted-seam-p09863400.html?v1=222766891"
-  },
-  {
     "name": "LIGHTWEIGHT JACKET WITH POCKETS",
     "price": 249000,
     "discount": 67,
@@ -136,12 +124,6 @@
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
-  },
-  {
-    "name": "STRIPED T-SHIRT WITH POCKET",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/striped-t-shirt-with-pocket-p00722316.html?v1=280531464"
   },
   {
     "name": "T-SHIRT WITH CONTRAST PATCH",
@@ -276,6 +258,12 @@
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657924"
   },
   {
+    "name": "LEATHER CROSSBODY BAG",
+    "price": 499000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13301120.html?v1=225741324"
+  },
+  {
     "name": "LEATHER MINI CROSSBODY BAG",
     "price": 229000,
     "discount": 61,
@@ -286,12 +274,6 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/xl-wallet-p13899120.html?v1=285447914"
-  },
-  {
-    "name": "LEATHER CROSSBODY BAG",
-    "price": 499000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13301120.html?v1=225741324"
   },
   {
     "name": "SLIPPERS",
@@ -340,12 +322,6 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-shoes-with-track-sole-p12506120.html?v1=222766912"
-  },
-  {
-    "name": "PLEATED CARGO TROUSERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/pleated-cargo-trousers-p00706220.html?v1=235622478"
   },
   {
     "name": "TRANSLUCENT CHUNKY SHOES",
@@ -402,16 +378,16 @@
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p02599454.html?v1=247131235"
   },
   {
-    "name": "RUBBERISED CORDURA® WALLET",
-    "price": 59000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/rubberised-cordura--wallet-p13811120.html?v1=222687938"
-  },
-  {
     "name": "LEATHER MULE SANDALS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860423"
+  },
+  {
+    "name": "RUBBERISED CORDURA® WALLET",
+    "price": 59000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/rubberised-cordura--wallet-p13811120.html?v1=222687938"
   },
   {
     "name": "SOFT TOTE",
@@ -630,10 +606,10 @@
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545310.html?v1=278685500"
   },
   {
-    "name": "ABSTRACT PRINT TEXTURED SHIRT",
+    "name": "TIE-DYE PRINT SHIRT",
     "price": 159000,
     "discount": 51,
-    "link": "https://www.zara.com/in/en/abstract-print-textured-shirt-p05792151.html?v1=288417372"
+    "link": "https://www.zara.com/in/en/tie-dye-print-shirt-p06264549.html?v1=272018697"
   },
   {
     "name": "WAVY PRINT SHIRT",
@@ -648,22 +624,28 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=288417377"
   },
   {
+    "name": "ABSTRACT PRINT TEXTURED SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/abstract-print-textured-shirt-p05792151.html?v1=288417372"
+  },
+  {
     "name": "RELAXED SHIRT WITH POCKET",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/relaxed-shirt-with-pocket-p04419401.html?v1=254739726"
   },
   {
-    "name": "TECHNICAL SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/technical-shirt-p01538391.html?v1=252977082"
-  },
-  {
     "name": "DENIM RUSTIC SHIRT - LIMITED EDITION",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/denim-rustic-shirt---limited-edition-p02328490.html?v1=259651575"
+  },
+  {
+    "name": "TECHNICAL SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/technical-shirt-p01538391.html?v1=252977082"
   },
   {
     "name": "LYOCELL - COTTON SHIRT WITH TOPSTITCHING",
