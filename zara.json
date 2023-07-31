@@ -1,11 +1,5 @@
 [
   {
-    "name": "PLAYSUIT",
-    "price": 159000,
-    "discount": 83,
-    "link": "https://www.zara.com/in/en/playsuit-p00706417.html?v1=269554741"
-  },
-  {
     "name": "TRACK SOLE SHOES",
     "price": 129000,
     "discount": 78,
@@ -414,22 +408,10 @@
     "link": "https://www.zara.com/in/en/slogan-print-sweatshirt-p06224468.html?v1=239330655"
   },
   {
-    "name": "KNIT CARDIGAN WITH POCKETS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/knit-cardigan-with-pockets-p04216406.html?v1=247905875"
-  },
-  {
     "name": "CROPPED STRIPED SHIRT",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/cropped-striped-shirt-p04696953.html?v1=259282088"
-  },
-  {
-    "name": "RUNNING CLOGS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/running-clogs-p12314120.html?v1=224251173"
   },
   {
     "name": "OVERSIZED SHIRT",
@@ -684,6 +666,12 @@
     "link": "https://www.zara.com/in/en/moc-toe-chunky-shoes-p12408120.html?v1=225112982"
   },
   {
+    "name": "LEATHER TRAINERS",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/leather-trainers-p12256120.html?v1=225754733"
+  },
+  {
     "name": "SPORTY LEATHER LOAFERS",
     "price": 199000,
     "discount": 56,
@@ -696,18 +684,6 @@
     "link": "https://www.zara.com/in/en/split-suede-leather-sneakers-p12219120.html?v1=226365364"
   },
   {
-    "name": "LEATHER TRAINERS",
-    "price": 199000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/leather-trainers-p12256120.html?v1=225754733"
-  },
-  {
-    "name": "GRAPHIC PRINT SWEATSHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/graphic-print-sweatshirt-p04770400.html?v1=236540927"
-  },
-  {
     "name": "MINIMALIST CONTRAST SNEAKERS",
     "price": 129000,
     "discount": 56,
@@ -718,12 +694,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/soft-minimalist-tote-bag-p13104120.html?v1=222657931"
-  },
-  {
-    "name": "QUILTED CROSSBODY BAG",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/quilted-crossbody-bag-p13526120.html?v1=222694480"
   },
   {
     "name": "SOFT BELT BAG",
@@ -864,18 +834,6 @@
     "link": "https://www.zara.com/in/en/abstract-print-shirt-p06085454.html?v1=247131238"
   },
   {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p04424210.html?v1=249887340"
-  },
-  {
-    "name": "TEXTURED SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/textured-shirt-p05588300.html?v1=280531462"
-  },
-  {
     "name": "SHIRT WITH TOPSTITCHING",
     "price": 159000,
     "discount": 51,
@@ -922,12 +880,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/textured-shirt-with-print-p04677184.html?v1=259629924"
-  },
-  {
-    "name": "LINEN - COTTON LACE TRIM SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/linen---cotton-lace-trim-shirt-p01618305.html?v1=255103948"
   },
   {
     "name": "ABSTRACT PRINT SHIRT",
@@ -1056,12 +1008,6 @@
     "link": "https://www.zara.com/in/en/trainers-with-sole-detail-p12236120.html?v1=232185028"
   },
   {
-    "name": "PENNY LOAFERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/penny-loafers-p12620120.html?v1=224925860"
-  },
-  {
     "name": "RUBBERISED CHUNKY BOOTS",
     "price": 299000,
     "discount": 50,
@@ -1098,16 +1044,16 @@
     "link": "https://www.zara.com/in/en/sports-belt-bag-p13613121.html?v1=228448350"
   },
   {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
-  },
-  {
     "name": "XL CANVAS TOTE BAG",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/xl-canvas-tote-bag-p13304120.html?v1=222761894"
+  },
+  {
+    "name": "OVERSHIRT WITH POCKETS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
   },
   {
     "name": "ATHLETICZ SPORTS BELT BAG",
