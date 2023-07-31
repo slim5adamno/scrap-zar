@@ -24,6 +24,12 @@
     "link": "https://www.zara.com/in/en/linen-blend-suit-blazer-p04360695.html?v1=251077494"
   },
   {
+    "name": "LINEN SUIT BLAZER",
+    "price": 249000,
+    "discount": 77,
+    "link": "https://www.zara.com/in/en/linen-suit-blazer-p04467449.html?v1=243972826"
+  },
+  {
     "name": "COTTON - LINEN SUIT BLAZER",
     "price": 249000,
     "discount": 77,
@@ -46,12 +52,6 @@
     "price": 99000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/ombre-print-bermuda-shorts-p06085478.html?v1=265588310"
-  },
-  {
-    "name": "DOUBLE-BREASTED SUIT BLAZER",
-    "price": 249000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/double-breasted-suit-blazer-p04120749.html?v1=227090566"
   },
   {
     "name": "COTTON - LINEN BLAZER",
@@ -468,16 +468,16 @@
     "link": "https://www.zara.com/in/en/rubberised-sporty-shoes-p12504120.html?v1=222766920"
   },
   {
-    "name": "STRAPPY SANDALS WITH BUCKLE FASTENING",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/strappy-sandals-with-buckle-fastening-p12717120.html?v1=222740609"
-  },
-  {
     "name": "LEATHER ESPADRILLES",
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-espadrilles-p12747120.html?v1=237225119"
+  },
+  {
+    "name": "STRAPPY SANDALS WITH BUCKLE FASTENING",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/strappy-sandals-with-buckle-fastening-p12717120.html?v1=222740609"
   },
   {
     "name": "PENNY LOAFERS",
@@ -528,22 +528,10 @@
     "link": "https://www.zara.com/in/en/soft-tote-p13313120.html?v1=248883241"
   },
   {
-    "name": "COMFORT PERFORMANCE TECHNICAL JACKET",
-    "price": 249000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/comfort-performance-technical-jacket-p07380701.html?v1=223707583"
-  },
-  {
     "name": "LINEN BLEND BOXY JACKET",
     "price": 249000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/linen-blend-boxy-jacket-p04663259.html?v1=258606441"
-  },
-  {
-    "name": "RELAXED FIT BLAZER",
-    "price": 249000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/relaxed-fit-blazer-p08574331.html?v1=247655371"
   },
   {
     "name": "JACKET WITH POCKETS",
@@ -624,12 +612,6 @@
     "link": "https://www.zara.com/in/en/knit-t-shirt-with-pocket-p03166413.html?v1=242299379"
   },
   {
-    "name": "EMBROIDERED SWEATSHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/embroidered-sweatshirt-p00761400.html?v1=222732161"
-  },
-  {
     "name": "MOC TOE CHUNKY SHOES",
     "price": 199000,
     "discount": 56,
@@ -652,12 +634,6 @@
     "price": 199000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/split-suede-leather-sneakers-p12219120.html?v1=226365364"
-  },
-  {
-    "name": "MINIMALIST CONTRAST SNEAKERS",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/minimalist-contrast-sneakers-p12200120.html?v1=222766636"
   },
   {
     "name": "SOFT BELT BAG",
@@ -792,6 +768,12 @@
     "link": "https://www.zara.com/in/en/check-cotton-shirt-p00975407.html?v1=245820867"
   },
   {
+    "name": "WAVY PRINT SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/wavy-print-shirt-p06085320.html?v1=265592405"
+  },
+  {
     "name": "ABSTRACT PRINT SHIRT",
     "price": 159000,
     "discount": 51,
@@ -816,22 +798,10 @@
     "link": "https://www.zara.com/in/en/shirt-with-contrast-topstitching-p08574368.html?v1=286106195"
   },
   {
-    "name": "WAVY PRINT SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/wavy-print-shirt-p06085320.html?v1=265592405"
-  },
-  {
     "name": "OVERSIZED OXFORD SHIRT",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545310.html?v1=278685500"
-  },
-  {
-    "name": "MODAL BLEND SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html?v1=252852587"
   },
   {
     "name": "SHIRT WITH CONTRAST EMBROIDERY",
@@ -982,12 +952,6 @@
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/colour-block-jacket-p01248402.html?v1=223751877"
-  },
-  {
-    "name": "SPLIT SUEDE LEATHER ANKLE BOOTS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/split-suede-leather-ankle-boots-p12006121.html?v1=222766556"
   },
   {
     "name": "CHUNKY HIGH-TOP SNEAKERS",
