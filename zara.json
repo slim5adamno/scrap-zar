@@ -240,12 +240,6 @@
     "link": "https://www.zara.com/in/en/canvas-explorer-backpack-p13246020.html?v1=222685922"
   },
   {
-    "name": "TECHNICAL WINDBREAKER JACKET",
-    "price": 249000,
-    "discount": 67,
-    "link": "https://www.zara.com/in/en/technical-windbreaker-jacket-p01732305.html?v1=224133341"
-  },
-  {
     "name": "COTTON - LINEN BLAZER",
     "price": 249000,
     "discount": 67,
@@ -286,6 +280,12 @@
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
+  },
+  {
+    "name": "SOFT-TOUCH T-SHIRT",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/soft-touch-t-shirt-p01716440.html?v1=232863739"
   },
   {
     "name": "TEXTURED SEERSUCKER BERMUDA SHORTS",
@@ -354,16 +354,16 @@
     "link": "https://www.zara.com/in/en/knit-espadrilles-p12743120.html?v1=222685927"
   },
   {
-    "name": "LEATHER LOAFERS",
-    "price": 299000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/leather-loafers-p12635120.html?v1=235226525"
-  },
-  {
     "name": "CHUNKY LEATHER LOAFERS",
     "price": 299000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12645120.html?v1=222658066"
+  },
+  {
+    "name": "LEATHER LOAFERS",
+    "price": 299000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/leather-loafers-p12635120.html?v1=235226525"
   },
   {
     "name": "BUCKLED TRACK SANDALS",
@@ -414,6 +414,12 @@
     "link": "https://www.zara.com/in/en/contrast-leather-shoes-p12440120.html?v1=223970099"
   },
   {
+    "name": "MULTI-PIECE RUNNING SNEAKERS",
+    "price": 229000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12309120.html?v1=222756344"
+  },
+  {
     "name": "STRIPED ESPADRILLES",
     "price": 99000,
     "discount": 61,
@@ -424,12 +430,6 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/comfort-bermuda-shorts-p00706550.html?v1=223541150"
-  },
-  {
-    "name": "MULTI-PIECE RUNNING SNEAKERS",
-    "price": 229000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12309120.html?v1=222756344"
   },
   {
     "name": "MULTICOLOURED TECHNICAL SANDALS",
@@ -592,12 +592,6 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-sporty-shoes-p12504121.html?v1=222766911"
-  },
-  {
-    "name": "CONTRAST MESH SHORTS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/contrast-mesh-shorts-p00765303.html?v1=225890997"
   },
   {
     "name": "RUBBERISED SPORTY SHOES",
@@ -1014,10 +1008,22 @@
     "link": "https://www.zara.com/in/en/shirt-with-contrast-topstitching-p08574368.html?v1=286106195"
   },
   {
+    "name": "DENIM RUSTIC SHIRT - LIMITED EDITION",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/denim-rustic-shirt---limited-edition-p02328490.html?v1=259651575"
+  },
+  {
     "name": "OVERSIZED OXFORD SHIRT",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545310.html?v1=278685500"
+  },
+  {
+    "name": "SHORT SLEEVE SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/short-sleeve-shirt-p05616108.html?v1=278685530"
   },
   {
     "name": "BOXY-FIT TECHNICAL SHIRT",
@@ -1042,12 +1048,6 @@
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p04406400.html?v1=247635946"
-  },
-  {
-    "name": "TWILL SHIRT WITH POCKET",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/twill-shirt-with-pocket-p04407022.html?v1=245918887"
   },
   {
     "name": "100% VISCOSE SHIRT",
@@ -1164,12 +1164,6 @@
     "link": "https://www.zara.com/in/en/colour-block-jacket-p01248402.html?v1=223751877"
   },
   {
-    "name": "RUBBERISED CHUNKY BOOTS",
-    "price": 299000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/rubberised-chunky-boots-p12021121.html?v1=222766924"
-  },
-  {
     "name": "CHUNKY HIGH-TOP SNEAKERS",
     "price": 249000,
     "discount": 50,
@@ -1210,12 +1204,6 @@
     "price": 99000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/sports-belt-bag-p13613121.html?v1=228448350"
-  },
-  {
-    "name": "TECHNICAL BOWLING BAG",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/technical-bowling-bag-p13124120.html?v1=226617209"
   },
   {
     "name": "CHECK OVERSHIRT",
