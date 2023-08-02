@@ -105,12 +105,6 @@
     "name": "LEATHER CROSSBODY BAG",
     "price": 349000,
     "discount": 73,
-    "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13301120.html?v1=225741323"
-  },
-  {
-    "name": "LEATHER CROSSBODY BAG",
-    "price": 349000,
-    "discount": 73,
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13301120.html?v1=225741324"
   },
   {
@@ -136,6 +130,12 @@
     "price": 79000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/jogger-bermuda-shorts-p00679460.html?v1=255539320"
+  },
+  {
+    "name": "KNIT POLO SHIRT - LIMITED EDITION",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/knit-polo-shirt---limited-edition-p05755424.html?v1=257504630"
   },
   {
     "name": "CROPPED FLOWING BERMUDA SHORTS",
@@ -172,6 +172,12 @@
     "price": 129000,
     "discount": 67,
     "link": "https://www.zara.com/in/en/cotton---linen-overshirt-p01608785.html?v1=251931436"
+  },
+  {
+    "name": "SHIRT WITH FRENCH CUFFS",
+    "price": 129000,
+    "discount": 67,
+    "link": "https://www.zara.com/in/en/shirt-with-french-cuffs-p04629487.html?v1=261739092"
   },
   {
     "name": "COTTON SHIRT WITH POCKET",
@@ -234,6 +240,12 @@
     "link": "https://www.zara.com/in/en/james-coffman-graphic-print-t-shirt-p00679406.html?v1=231517673"
   },
   {
+    "name": "TEXTURED POLO SHIRT",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/textured-polo-shirt-p00526420.html?v1=245844382"
+  },
+  {
     "name": "HEART PRINT T-SHIRT",
     "price": 79000,
     "discount": 65,
@@ -262,12 +274,6 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/purl-knit-top-p00304420.html?v1=222761482"
-  },
-  {
-    "name": "LEATHER KILTIE LOAFERS WITH BROGUING",
-    "price": 299000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/leather-kiltie-loafers-with-broguing-p12685120.html?v1=246316696"
   },
   {
     "name": "SOFT LEATHER PENNY LOAFERS",
@@ -468,18 +474,6 @@
     "link": "https://www.zara.com/in/en/wavy-print-shirt-p06085320.html?v1=265592405"
   },
   {
-    "name": "LIGHTWEIGHT DENIM SHIRT",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/lightweight-denim-shirt-p06085402.html?v1=260866572"
-  },
-  {
-    "name": "STRIPED SHIRT",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=288417377"
-  },
-  {
     "name": "RUNNING TRAINERS",
     "price": 199000,
     "discount": 60,
@@ -532,6 +526,12 @@
     "price": 79000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/sports-belt-bag-p13613121.html?v1=228448350"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=288417377"
   },
   {
     "name": "ATHLETICZ SPORTS BELT BAG",
@@ -684,12 +684,6 @@
     "link": "https://www.zara.com/in/en/lyocell---cotton-shirt-p07545488.html?v1=250814783"
   },
   {
-    "name": "PRINTED GRAPHIC KNIT JOGGERS",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/printed-graphic-knit-joggers-p03284443.html?v1=222662750"
-  },
-  {
     "name": "STRIPED SHIRT",
     "price": 129000,
     "discount": 56,
@@ -700,12 +694,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/textured-shirt-p00975200.html?v1=237746385"
-  },
-  {
-    "name": "POPLIN SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/poplin-shirt-p04139567.html?v1=241047721"
   },
   {
     "name": "BOXY FIT SHIRT",
@@ -819,12 +807,6 @@
     "name": "OXFORD SHIRT WITH A TAB COLLAR",
     "price": 129000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/oxford-shirt-with-a-tab-collar-p07545280.html?v1=280217366"
-  },
-  {
-    "name": "OXFORD SHIRT WITH A TAB COLLAR",
-    "price": 129000,
-    "discount": 50,
     "link": "https://www.zara.com/in/en/oxford-shirt-with-a-tab-collar-p08211310.html?v1=222761979"
   },
   {
@@ -856,6 +838,12 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/smart-shoes-p12402121.html?v1=222766460"
+  },
+  {
+    "name": "BASIC JOGGING TROUSERS",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/basic-jogging-trousers-p00761301.html?v1=222706735"
   },
   {
     "name": "CHUNKY HIGH-TOP SNEAKERS",
