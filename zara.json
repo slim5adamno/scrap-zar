@@ -18,12 +18,6 @@
     "link": "https://www.zara.com/in/en/denim-cargo-bermuda-shorts-with-paint-splatter-p00840303.html?v1=288417370"
   },
   {
-    "name": "TRACK SOLE SHOES",
-    "price": 129000,
-    "discount": 78,
-    "link": "https://www.zara.com/in/en/track-sole-shoes-p12520120.html?v1=222770324"
-  },
-  {
     "name": "LINEN SUIT BLAZER",
     "price": 249000,
     "discount": 77,
@@ -94,6 +88,12 @@
     "price": 249000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/suit-blazer-p00706207.html?v1=257902416"
+  },
+  {
+    "name": "WOOL BLEND SWEATER",
+    "price": 159000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/wool-blend-sweater-p00693401.html?v1=222770367"
   },
   {
     "name": "EMBROIDERED TROUSERS",
@@ -252,6 +252,12 @@
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
   },
   {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
+  },
+  {
     "name": "TEXTURED OXFORD BERMUDA SHORTS",
     "price": 99000,
     "discount": 65,
@@ -274,12 +280,6 @@
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/striped-t-shirt-with-pocket-p00722316.html?v1=284411927"
-  },
-  {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
   },
   {
     "name": "T-SHIRT WITH PRINTED PATCH",
@@ -306,10 +306,22 @@
     "link": "https://www.zara.com/in/en/striped-t%C2%ADshirt-p01198415.html?v1=245035671"
   },
   {
+    "name": "© TONY ALVA GRAPHIC T-SHIRT",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/--tony-alva-graphic-t-shirt-p00962489.html?v1=252660399"
+  },
+  {
     "name": "CONTRAST PRINTED T-SHIRT",
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p00977404.html?v1=255025811"
+  },
+  {
+    "name": "T-SHIRT WITH PRINTED GRAPHICS",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/t-shirt-with-printed-graphics-p06224424.html?v1=231511331"
   },
   {
     "name": "HEART PRINT T-SHIRT",
@@ -334,12 +346,6 @@
     "price": 299000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/leather-loafers-p12635120.html?v1=235226524"
-  },
-  {
-    "name": "LEATHER BROGUES",
-    "price": 299000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/leather-brogues-p12407120.html?v1=222748232"
   },
   {
     "name": "BUCKLED TRACK SANDALS",
@@ -424,12 +430,6 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/striped-espadrilles-p12744120.html?v1=222685921"
-  },
-  {
-    "name": "MULTICOLOURED TECHNICAL SANDALS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/multicoloured-technical-sandals-p12719120.html?v1=222748185"
   },
   {
     "name": "MULTI-PIECE RUNNING SNEAKERS",
@@ -852,16 +852,16 @@
     "link": "https://www.zara.com/in/en/monochrome-xl-extralight--slide-sandals-p12750120.html?v1=241697222"
   },
   {
-    "name": "PURL KNIT TOP",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/purl-knit-top-p00304420.html?v1=222761483"
-  },
-  {
     "name": "STRAPPY SANDALS",
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/strappy-sandals-p12709120.html?v1=250109213"
+  },
+  {
+    "name": "PURL KNIT TOP",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/purl-knit-top-p00304420.html?v1=222761483"
   },
   {
     "name": "SWEATSHIRT WITH ZIP COLLAR",
