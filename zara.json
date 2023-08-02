@@ -132,12 +132,6 @@
     "link": "https://www.zara.com/in/en/acid-wash-cargo-jeans-p00840447.html?v1=231189721"
   },
   {
-    "name": "CHECK SUIT TROUSERS",
-    "price": 159000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/check-suit-trousers-p04655860.html?v1=257495116"
-  },
-  {
     "name": "SUIT TROUSERS",
     "price": 159000,
     "discount": 68,
@@ -294,6 +288,12 @@
     "link": "https://www.zara.com/in/en/contrast-leather-shoes-p12440120.html?v1=223970099"
   },
   {
+    "name": "JOGGER BERMUDA SHORTS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/jogger-bermuda-shorts-p00679460.html?v1=255539320"
+  },
+  {
     "name": "PREMIUM BERMUDA JOGGERS",
     "price": 99000,
     "discount": 61,
@@ -340,12 +340,6 @@
     "price": 179000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/soft-backpack-p13229120.html?v1=231866446"
-  },
-  {
-    "name": "MULTICOLOURED BOWLING BAG",
-    "price": 229000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/multicoloured-bowling-bag-p13112120.html?v1=222761874"
   },
   {
     "name": "LEATHER MINI CROSSBODY BAG",
@@ -396,12 +390,6 @@
     "link": "https://www.zara.com/in/en/cotton---linen-knit-polo-shirt-p03166419.html?v1=244848332"
   },
   {
-    "name": "RIPPED-EFFECT SWEATER",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/ripped-effect-sweater-p03166401.html?v1=222687902"
-  },
-  {
     "name": "IRREGULAR STRIPE T-SHIRT",
     "price": 79000,
     "discount": 60,
@@ -414,22 +402,16 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p04592979.html?v1=254003170"
   },
   {
-    "name": "TEXTURED HIGH NECK SWEATER",
+    "name": "TIE-DYE PRINT SHIRT",
     "price": 159000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/textured-high-neck-sweater-p01775420.html?v1=222692798"
+    "link": "https://www.zara.com/in/en/tie-dye-print-shirt-p06085477.html?v1=290519812"
   },
   {
     "name": "COTTON SHIRT WITH POCKET",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/cotton-shirt-with-pocket-p02599454.html?v1=247131235"
-  },
-  {
-    "name": "TIE-DYE PRINT SHIRT",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/tie-dye-print-shirt-p06085477.html?v1=290519812"
   },
   {
     "name": "SPLIT SUEDE SPORT SHOES",
@@ -442,12 +424,6 @@
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860424"
-  },
-  {
-    "name": "RUBBERISED SPORTY SHOES",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/rubberised-sporty-shoes-p12504121.html?v1=222766911"
   },
   {
     "name": "RUBBERISED SPORTY SHOES",
@@ -574,12 +550,6 @@
     "price": 249000,
     "discount": 58,
     "link": "https://www.zara.com/in/en/cotton-jacket-p06861307.html?v1=237225117"
-  },
-  {
-    "name": "LYOCELL BOMBER JACKET",
-    "price": 249000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/lyocell-bomber-jacket-p09621644.html?v1=223734360"
   },
   {
     "name": "SLIM FIT SUIT BLAZER",
@@ -780,22 +750,10 @@
     "link": "https://www.zara.com/in/en/wavy-print-shirt-p06085320.html?v1=265592405"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=288417377"
-  },
-  {
     "name": "PAISLEY PRINT BOXY FIT SHIRT",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/paisley-print-boxy-fit-shirt-p04385890.html?v1=250457049"
-  },
-  {
-    "name": "LINEN - COTTON LACE TRIM SHIRT",
-    "price": 159000,
-    "discount": 51,
-    "link": "https://www.zara.com/in/en/linen---cotton-lace-trim-shirt-p01618305.html?v1=255103948"
   },
   {
     "name": "TEXTURED SHIRT WITH PRINT",
@@ -816,10 +774,22 @@
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545310.html?v1=278685500"
   },
   {
+    "name": "STRIPED SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=288417377"
+  },
+  {
     "name": "BOXY-FIT TECHNICAL SHIRT",
     "price": 159000,
     "discount": 51,
     "link": "https://www.zara.com/in/en/boxy-fit-technical-shirt-p07380412.html?v1=273575032"
+  },
+  {
+    "name": "LINEN - COTTON LACE TRIM SHIRT",
+    "price": 159000,
+    "discount": 51,
+    "link": "https://www.zara.com/in/en/linen---cotton-lace-trim-shirt-p01618305.html?v1=255103948"
   },
   {
     "name": "LYOCELL - COTTON SHIRT WITH TOPSTITCHING",
@@ -904,12 +874,6 @@
     "price": 229000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html?v1=222702918"
-  },
-  {
-    "name": "WATER-REPELLENT TECHNICAL JACKET",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/water-repellent-technical-jacket-p01538401.html?v1=243368432"
   },
   {
     "name": "TRAINERS WITH SOLE DETAIL",
