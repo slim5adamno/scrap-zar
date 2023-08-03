@@ -198,6 +198,12 @@
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
   },
   {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
+  },
+  {
     "name": "RIB NECK T-SHIRT",
     "price": 79000,
     "discount": 65,
@@ -220,12 +226,6 @@
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/crochet-top---limited-edition-p06462302.html?v1=276111150"
-  },
-  {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
   },
   {
     "name": "RIB NECK T-SHIRT",
@@ -438,6 +438,18 @@
     "link": "https://www.zara.com/in/en/rubberised-shoes-with-track-sole-p12506120.html?v1=222766913"
   },
   {
+    "name": "RUNNING TRAINERS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
+  },
+  {
+    "name": "PENNY LOAFERS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
+  },
+  {
     "name": "STRIPED SHIRT",
     "price": 129000,
     "discount": 60,
@@ -460,18 +472,6 @@
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/oversized-shirt-p05588487.html?v1=260870752"
-  },
-  {
-    "name": "PENNY LOAFERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
-  },
-  {
-    "name": "RUNNING TRAINERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
   },
   {
     "name": "CHECK COTTON SHIRT",
@@ -504,16 +504,16 @@
     "link": "https://www.zara.com/in/en/contrast-striped-shirt-p02688360.html?v1=277026471"
   },
   {
-    "name": "TRANSLUCENT CHUNKY SHOES",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/translucent-chunky-shoes-p12409120.html?v1=231873882"
-  },
-  {
     "name": "OVERSIZED OXFORD SHIRT",
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545310.html?v1=278685500"
+  },
+  {
+    "name": "TRANSLUCENT CHUNKY SHOES",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/translucent-chunky-shoes-p12409120.html?v1=231873882"
   },
   {
     "name": "RUBBERISED SPORTY SHOES",
@@ -690,16 +690,16 @@
     "link": "https://www.zara.com/in/en/graphic-print-sweatshirt-p00722403.html?v1=222747671"
   },
   {
-    "name": "SPLIT SUEDE LEATHER SNEAKERS",
-    "price": 199000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/split-suede-leather-sneakers-p12219120.html?v1=226365364"
-  },
-  {
     "name": "CROPPED FIT SWEATSHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/cropped-fit-sweatshirt-p00761455.html?v1=225722263"
+  },
+  {
+    "name": "SPLIT SUEDE LEATHER SNEAKERS",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/split-suede-leather-sneakers-p12219120.html?v1=226365364"
   },
   {
     "name": "LEATHER TRAINERS",
@@ -852,6 +852,12 @@
     "link": "https://www.zara.com/in/en/comfort-overshirt-p04122719.html?v1=224079392"
   },
   {
+    "name": "CROPPED JACKET WITH POCKETS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
+  },
+  {
     "name": "BASIC SWEATSHIRT",
     "price": 129000,
     "discount": 50,
@@ -864,22 +870,16 @@
     "link": "https://www.zara.com/in/en/colour-block-training-gilet-p01732309.html?v1=248175586"
   },
   {
-    "name": "BASIC SWEATSHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basic-sweatshirt-p03443300.html?v1=222748495"
-  },
-  {
     "name": "FADED T-SHIRT",
     "price": 79000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/faded-t-shirt-p06462417.html?v1=232189518"
   },
   {
-    "name": "CROPPED JACKET WITH POCKETS",
-    "price": 249000,
+    "name": "BASIC SWEATSHIRT",
+    "price": 129000,
     "discount": 50,
-    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
+    "link": "https://www.zara.com/in/en/basic-sweatshirt-p03443300.html?v1=222748495"
   },
   {
     "name": "FAUX SUEDE OVERSHIRT",
@@ -900,16 +900,16 @@
     "link": "https://www.zara.com/in/en/skinny-chino-trousers-p06085383.html?v1=223621642"
   },
   {
-    "name": "BASIC SMART SHOES",
-    "price": 199000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basic-smart-shoes-p12402120.html?v1=222711138"
-  },
-  {
     "name": "SMART SHOES",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/smart-shoes-p12402121.html?v1=222766460"
+  },
+  {
+    "name": "CHECK OVERSHIRT",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/check-overshirt-p03717450.html?v1=236867252"
   },
   {
     "name": "CHUNKY HIGH-TOP SNEAKERS",
@@ -940,11 +940,5 @@
     "price": 249000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
-  },
-  {
-    "name": "CHECK OVERSHIRT",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/check-overshirt-p03717450.html?v1=236867252"
   }
 ]
