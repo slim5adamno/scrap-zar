@@ -114,12 +114,6 @@
     "link": "https://www.zara.com/in/en/textured-knit-vest-p03284303.html?v1=276525065"
   },
   {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
-  },
-  {
     "name": "RIB NECK T-SHIRT",
     "price": 79000,
     "discount": 65,
@@ -136,6 +130,12 @@
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/crochet-top---limited-edition-p06462302.html?v1=276111150"
+  },
+  {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
   },
   {
     "name": "RIB NECK T-SHIRT",
@@ -222,6 +222,12 @@
     "link": "https://www.zara.com/in/en/split-suede-leather-ankle-boots-p12006120.html?v1=222766554"
   },
   {
+    "name": "HIGH NECK KNIT T-SHIRT",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/high-neck-knit-t-shirt-p00304405.html?v1=222692825"
+  },
+  {
     "name": "TRAINERS WITH SOLE DETAIL",
     "price": 99000,
     "discount": 61,
@@ -270,16 +276,16 @@
     "link": "https://www.zara.com/in/en/rubberised-shoes-with-track-sole-p12506120.html?v1=222766912"
   },
   {
-    "name": "TRACK SOLE FABRIC SHOES",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970093"
-  },
-  {
     "name": "RUBBERISED SPORTY SHOES",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/rubberised-sporty-shoes-p12504120.html?v1=222766920"
+  },
+  {
+    "name": "TRACK SOLE FABRIC SHOES",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970093"
   },
   {
     "name": "RUBBERISED SHOES WITH TRACK SOLE",
@@ -372,6 +378,12 @@
     "link": "https://www.zara.com/in/en/rubberised-cordura--wallet-p13811120.html?v1=222687939"
   },
   {
+    "name": "EMBOSSED WALLET",
+    "price": 59000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/embossed-wallet-p13824120.html?v1=241685226"
+  },
+  {
     "name": "BOXY-FIT TECHNICAL SHIRT",
     "price": 129000,
     "discount": 60,
@@ -450,18 +462,6 @@
     "link": "https://www.zara.com/in/en/graphic-print-sweatshirt-p00722403.html?v1=222747671"
   },
   {
-    "name": "CONTRAST PRINTED SWEATSHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/contrast-printed-sweatshirt-p00495409.html?v1=222761944"
-  },
-  {
-    "name": "CROPPED FIT SWEATSHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/cropped-fit-sweatshirt-p00761455.html?v1=225722263"
-  },
-  {
     "name": "SPLIT SUEDE LEATHER SNEAKERS",
     "price": 199000,
     "discount": 56,
@@ -504,16 +504,22 @@
     "link": "https://www.zara.com/in/en/poplin-shirt-p04074508.html?v1=234442166"
   },
   {
-    "name": "TEXTURED VISCOSE SHIRT",
+    "name": "CROPPED FIT SWEATSHIRT",
     "price": 129000,
     "discount": 56,
-    "link": "https://www.zara.com/in/en/textured-viscose-shirt-p04135228.html?v1=236540898"
+    "link": "https://www.zara.com/in/en/cropped-fit-sweatshirt-p00761455.html?v1=225722263"
   },
   {
     "name": "SOFT BELT BAG",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/soft-belt-bag-p13510120.html?v1=222761656"
+  },
+  {
+    "name": "TEXTURED VISCOSE SHIRT",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/textured-viscose-shirt-p04135228.html?v1=236540898"
   },
   {
     "name": "SOFT-TOUCH SWEATSHIRT",
@@ -570,12 +576,6 @@
     "link": "https://www.zara.com/in/en/comfort-overshirt-p04122719.html?v1=224079392"
   },
   {
-    "name": "CROPPED JACKET WITH POCKETS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
-  },
-  {
     "name": "BASIC SWEATSHIRT",
     "price": 129000,
     "discount": 50,
@@ -592,6 +592,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/basic-sweatshirt-p03443300.html?v1=222748495"
+  },
+  {
+    "name": "CROPPED JACKET WITH POCKETS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
   },
   {
     "name": "SKINNY CHINO TROUSERS",
