@@ -1,5 +1,11 @@
 [
   {
+    "name": "WATER-REPELLENT TRENCH COAT",
+    "price": 249000,
+    "discount": 79,
+    "link": "https://www.zara.com/in/en/water-repellent-trench-coat-p04454709.html?v1=246295873"
+  },
+  {
     "name": "LINEN SUIT BLAZER",
     "price": 249000,
     "discount": 77,
@@ -96,6 +102,12 @@
     "link": "https://www.zara.com/in/en/canvas-explorer-backpack-p13246020.html?v1=222685922"
   },
   {
+    "name": "TECHNICAL WINDBREAKER JACKET",
+    "price": 249000,
+    "discount": 67,
+    "link": "https://www.zara.com/in/en/technical-windbreaker-jacket-p01732305.html?v1=224133341"
+  },
+  {
     "name": "COTTON SHIRT WITH POCKET",
     "price": 129000,
     "discount": 67,
@@ -132,12 +144,6 @@
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
   },
   {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
-  },
-  {
     "name": "RIB NECK T-SHIRT",
     "price": 79000,
     "discount": 65,
@@ -160,6 +166,12 @@
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/striped-t-shirt-with-pocket-p00722316.html?v1=284411927"
+  },
+  {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
   },
   {
     "name": "RIB NECK T-SHIRT",
@@ -360,12 +372,6 @@
     "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/striped-shirt-p05588168.html?v1=260090633"
-  },
-  {
     "name": "SHIRT WITH CONTRAST TOPSTITCHING",
     "price": 129000,
     "discount": 60,
@@ -376,6 +382,12 @@
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/shirt-with-contrast-topstitching-p08574342.html?v1=290528994"
+  },
+  {
+    "name": "MODAL BLEND SHIRT",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/modal-blend-shirt-p07545476.html?v1=252852589"
   },
   {
     "name": "LEATHER MULE SANDALS",
@@ -408,16 +420,16 @@
     "link": "https://www.zara.com/in/en/oversized-oxford-shirt-p07545310.html?v1=278685500"
   },
   {
-    "name": "LEATHER ESPADRILLES",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/leather-espadrilles-p12747120.html?v1=237225119"
-  },
-  {
     "name": "CASUAL SHOES",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
+  },
+  {
+    "name": "LEATHER ESPADRILLES",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/leather-espadrilles-p12747120.html?v1=237225119"
   },
   {
     "name": "RUBBERISED SPORTY SHOES",
@@ -576,10 +588,22 @@
     "link": "https://www.zara.com/in/en/knit-jogging-trousers-p04216401.html?v1=229178010"
   },
   {
+    "name": "MULTIPIECE TRAINERS",
+    "price": 199000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/multipiece-trainers-p12218120.html?v1=222692772"
+  },
+  {
     "name": "TEXTURED COTTON SHIRT",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/textured-cotton-shirt-p04042688.html?v1=227466127"
+  },
+  {
+    "name": "LINEN - VISCOSE TROUSERS",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/linen---viscose-trousers-p04302688.html?v1=262557969"
   },
   {
     "name": "TEXTURED JOGGER WAIST TROUSERS",
@@ -690,12 +714,6 @@
     "link": "https://www.zara.com/in/en/comfort-overshirt-p04122719.html?v1=224079392"
   },
   {
-    "name": "CROPPED JACKET WITH POCKETS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
-  },
-  {
     "name": "BASIC SWEATSHIRT",
     "price": 129000,
     "discount": 50,
@@ -718,6 +736,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/basic-sweatshirt-p03443300.html?v1=222748495"
+  },
+  {
+    "name": "CROPPED JACKET WITH POCKETS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/cropped-jacket-with-pockets-p06917492.html?v1=243563856"
   },
   {
     "name": "FAUX SUEDE OVERSHIRT",
