@@ -1,35 +1,5 @@
 [
   {
-    "name": "DENIM CARGO BERMUDA SHORTS WITH PAINT SPLATTER",
-    "price": 79000,
-    "discount": 84,
-    "link": "https://www.zara.com/in/en/denim-cargo-bermuda-shorts-with-paint-splatter-p00840303.html?v1=288417370"
-  },
-  {
-    "name": "LEMON PRINT BERMUDA SHORTS - LIMITED EDITION",
-    "price": 79000,
-    "discount": 84,
-    "link": "https://www.zara.com/in/en/lemon-print-bermuda-shorts---limited-edition-p06085304.html?v1=268378180"
-  },
-  {
-    "name": "REGULAR FIT BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 80,
-    "link": "https://www.zara.com/in/en/regular-fit-bermuda-shorts-p04164412.html?v1=239694782"
-  },
-  {
-    "name": "SUIT TUXEDO TROUSERS",
-    "price": 129000,
-    "discount": 78,
-    "link": "https://www.zara.com/in/en/suit-tuxedo-trousers-p01564341.html?v1=232602400"
-  },
-  {
-    "name": "STRAIGHT PATCHWORK JEANS",
-    "price": 129000,
-    "discount": 78,
-    "link": "https://www.zara.com/in/en/straight-patchwork-jeans-p03175303.html?v1=288417375"
-  },
-  {
     "name": "LINEN SUIT BLAZER",
     "price": 249000,
     "discount": 77,
@@ -90,12 +60,6 @@
     "link": "https://www.zara.com/in/en/jogging-bermuda-shorts-with-elastic-waistband-p06917486.html?v1=259629923"
   },
   {
-    "name": "PLEATED BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/pleated-bermuda-shorts-p00794416.html?v1=269269794"
-  },
-  {
     "name": "PATCHWORK BERMUDA SHORTS",
     "price": 79000,
     "discount": 75,
@@ -112,6 +76,12 @@
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/striped-oversize-shirt-p06085491.html?v1=250133555"
+  },
+  {
+    "name": "LEATHER DRIVING LOAFERS",
+    "price": 159000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/leather-driving-loafers-p12608120.html?v1=226063462"
   },
   {
     "name": "LEATHER CROSSBODY BAG",
@@ -142,12 +112,6 @@
     "price": 79000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/long-sleeve-heavy-weight-t-shirt-p00761466.html?v1=235930434"
-  },
-  {
-    "name": "JOGGER BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/jogger-bermuda-shorts-p00679460.html?v1=255539320"
   },
   {
     "name": "CROPPED FLOWING BERMUDA SHORTS",
@@ -210,16 +174,16 @@
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
   },
   {
-    "name": "T-SHIRT WITH CONTRAST PATCH",
-    "price": 79000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
-  },
-  {
     "name": "STRIPED T-SHIRT WITH POCKET",
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/striped-t-shirt-with-pocket-p00722316.html?v1=280531464"
+  },
+  {
+    "name": "T-SHIRT WITH CONTRAST PATCH",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
   },
   {
     "name": "STRIPED ESPADRILLES",
@@ -384,34 +348,28 @@
     "link": "https://www.zara.com/in/en/rubberised-sporty-shoes-p12504120.html?v1=222766920"
   },
   {
-    "name": "STRIPED OVERSIZE SHIRT",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/striped-oversize-shirt-p00975430.html?v1=256172878"
-  },
-  {
-    "name": "TEXTURED SHIRT",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/textured-shirt-p02675510.html?v1=256936743"
-  },
-  {
     "name": "LEATHER MULE SANDALS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860423"
   },
   {
-    "name": "LOOSE-FITTING SHIRT WITH POCKETS",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/loose-fitting-shirt-with-pockets-p07545398.html?v1=265839422"
-  },
-  {
     "name": "STRAPPY SANDALS WITH BUCKLE FASTENING",
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/strappy-sandals-with-buckle-fastening-p12717120.html?v1=222740609"
+  },
+  {
+    "name": "STRIPED OVERSIZE SHIRT",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/striped-oversize-shirt-p00975430.html?v1=256172878"
+  },
+  {
+    "name": "LOOSE-FITTING SHIRT WITH POCKETS",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/loose-fitting-shirt-with-pockets-p07545398.html?v1=265839422"
   },
   {
     "name": "TECHNICAL SHIRT",
@@ -448,12 +406,6 @@
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/striped-shirt-p00975350.html?v1=288417377"
-  },
-  {
-    "name": "GEOMETRIC PRINT SHIRT",
-    "price": 129000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/geometric-print-shirt-p05400300.html?v1=263297869"
   },
   {
     "name": "RUNNING TRAINERS",
@@ -564,6 +516,12 @@
     "link": "https://www.zara.com/in/en/printed-training-shorts-p01943305.html?v1=224687010"
   },
   {
+    "name": "BOMBER JACKET WITH ZIPS",
+    "price": 249000,
+    "discount": 58,
+    "link": "https://www.zara.com/in/en/bomber-jacket-with-zips-p08281430.html?v1=235982669"
+  },
+  {
     "name": "TECHNICAL JACKET WITH POCKETS",
     "price": 249000,
     "discount": 58,
@@ -664,12 +622,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/canvas-sneakers-p12223120.html?v1=222685935"
-  },
-  {
-    "name": "MULTIPIECE SNEAKERS",
-    "price": 199000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/multipiece-sneakers-p12215120.html?v1=222766479"
   },
   {
     "name": "STRIPED TEXTURED WEAVE SHIRT",
@@ -778,12 +730,6 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090305.html?v1=222729289"
-  },
-  {
-    "name": "SKINNY CHINO TROUSERS",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/skinny-chino-trousers-p06085383.html?v1=223621646"
   },
   {
     "name": "BASIC SMART SHOES",
