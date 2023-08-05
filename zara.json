@@ -42,6 +42,12 @@
     "link": "https://www.zara.com/in/en/textured-suit-blazer-p00706320.html?v1=269916160"
   },
   {
+    "name": "STRAIGHT CARGO TROUSERS",
+    "price": 129000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/straight-cargo-trousers-p00706422.html?v1=246182307"
+  },
+  {
     "name": "DOUBLE-BREASTED SUIT BLAZER",
     "price": 249000,
     "discount": 74,
@@ -300,10 +306,10 @@
     "link": "https://www.zara.com/in/en/cotton---linen-sweater-p03166418.html?v1=244848330"
   },
   {
-    "name": "TRACK SOLE FABRIC SHOES",
-    "price": 199000,
+    "name": "RIBBED SWEATER",
+    "price": 159000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970094"
+    "link": "https://www.zara.com/in/en/ribbed-sweater-p02632414.html?v1=235662364"
   },
   {
     "name": "LEATHER MULE SANDALS",
@@ -318,10 +324,10 @@
     "link": "https://www.zara.com/in/en/textured-sweater-with-stripes-p03390400.html?v1=222724540"
   },
   {
-    "name": "RIBBED SWEATER",
-    "price": 159000,
+    "name": "TRACK SOLE FABRIC SHOES",
+    "price": 199000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/ribbed-sweater-p02632414.html?v1=235662364"
+    "link": "https://www.zara.com/in/en/track-sole-fabric-shoes-p12511120.html?v1=223970094"
   },
   {
     "name": "TRACK SOLE FABRIC SHOES",
@@ -412,12 +418,6 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
-  },
-  {
-    "name": "RUNNING TRAINERS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
   },
   {
     "name": "PRINTED SHIRT",
@@ -582,12 +582,6 @@
     "link": "https://www.zara.com/in/en/knit-jogging-trousers-p04216401.html?v1=229178010"
   },
   {
-    "name": "VISCOSE - LINEN SHIRT",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/viscose---linen-shirt-p02688090.html?v1=231100728"
-  },
-  {
     "name": "VISCOSE/LINEN BLEND SHIRT",
     "price": 129000,
     "discount": 56,
@@ -630,12 +624,6 @@
     "link": "https://www.zara.com/in/en/strappy-sandals-p12709120.html?v1=222756393"
   },
   {
-    "name": "MESH TEXTURED SWEATSHIRT",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/mesh-textured-sweatshirt-p01198457.html?v1=228304519"
-  },
-  {
     "name": "STRAPPY SANDALS",
     "price": 129000,
     "discount": 55,
@@ -645,19 +633,25 @@
     "name": "MESH TEXTURED SWEATSHIRT",
     "price": 129000,
     "discount": 55,
-    "link": "https://www.zara.com/in/en/mesh-textured-sweatshirt-p01198457.html?v1=228304520"
+    "link": "https://www.zara.com/in/en/mesh-textured-sweatshirt-p01198457.html?v1=228304519"
   },
   {
-    "name": "CHUNKY PRINTED SPORTS TRAINERS",
-    "price": 179000,
+    "name": "MESH TEXTURED SWEATSHIRT",
+    "price": 129000,
     "discount": 55,
-    "link": "https://www.zara.com/in/en/chunky-printed-sports-trainers-p12225220.html?v1=277568876"
+    "link": "https://www.zara.com/in/en/mesh-textured-sweatshirt-p01198457.html?v1=228304520"
   },
   {
     "name": "JACKET WITH CONTRAST TOPSTITCHING",
     "price": 249000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/jacket-with-contrast-topstitching-p06917510.html?v1=261745402"
+  },
+  {
+    "name": "CHUNKY PRINTED SPORTS TRAINERS",
+    "price": 179000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/chunky-printed-sports-trainers-p12225220.html?v1=277568876"
   },
   {
     "name": "SOFT TOTE BAG WITH POCKET",
