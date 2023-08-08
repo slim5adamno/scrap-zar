@@ -1,11 +1,5 @@
 [
   {
-    "name": "COTTON - WOOL TROUSERS",
-    "price": 129000,
-    "discount": 78,
-    "link": "https://www.zara.com/in/en/cotton---wool-trousers-p04195335.html?v1=245080762"
-  },
-  {
     "name": "TRACK SOLE SHOES",
     "price": 129000,
     "discount": 78,
@@ -48,24 +42,6 @@
     "link": "https://www.zara.com/in/en/clarks--x-zara-leather-ankle-boots-p12080021.html?v1=222756342"
   },
   {
-    "name": "DENIM CARGO BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/denim-cargo-bermuda-shorts-p06987301.html?v1=288423906"
-  },
-  {
-    "name": "JOGGING BERMUDA SHORTS WITH ELASTIC WAISTBAND",
-    "price": 79000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/jogging-bermuda-shorts-with-elastic-waistband-p06917486.html?v1=259629922"
-  },
-  {
-    "name": "RELAXED SUIT BLAZER",
-    "price": 249000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/relaxed-suit-blazer-p04444794.html?v1=246597599"
-  },
-  {
     "name": "TEXTURED SUIT BLAZER",
     "price": 249000,
     "discount": 74,
@@ -90,16 +66,16 @@
     "link": "https://www.zara.com/in/en/contrast-polo-sweatshirt-p00526350.html?v1=222762074"
   },
   {
+    "name": "COMFORT PERFORMANCE TECHNICAL BLAZER",
+    "price": 249000,
+    "discount": 71,
+    "link": "https://www.zara.com/in/en/comfort-performance-technical-blazer-p07380704.html?v1=223713733"
+  },
+  {
     "name": "LEATHER CROSSBODY BAG",
     "price": 179000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657924"
-  },
-  {
-    "name": "TEXTURED POLO SHIRT",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/textured-polo-shirt-p01887412.html?v1=251362154"
   },
   {
     "name": "STRAPPY LEATHER SANDALS",
@@ -112,12 +88,6 @@
     "price": 159000,
     "discount": 68,
     "link": "https://www.zara.com/in/en/textured-contrast-cardigan-p05755418.html?v1=222756380"
-  },
-  {
-    "name": "CROCHET SHIRT",
-    "price": 129000,
-    "discount": 67,
-    "link": "https://www.zara.com/in/en/crochet-shirt-p02688355.html?v1=278861678"
   },
   {
     "name": "CANVAS EXPLORER BACKPACK",
@@ -252,12 +222,6 @@
     "link": "https://www.zara.com/in/en/leather-mini-crossbody-bag-p13905020.html?v1=248883214"
   },
   {
-    "name": "MULTI-POCKET TECHNICAL BACKPACK",
-    "price": 229000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/multi-pocket-technical-backpack-p13207120.html?v1=222756838"
-  },
-  {
     "name": "LYOCELL - COTTON SHIRT WITH TOPSTITCHING",
     "price": 129000,
     "discount": 60,
@@ -280,6 +244,12 @@
     "price": 129000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/striped-poplin-shirt-p04573883.html?v1=248810914"
+  },
+  {
+    "name": "CONTRAST PRINT SHIRT",
+    "price": 129000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/contrast-print-shirt-p08574343.html?v1=278685512"
   },
   {
     "name": "TRACK SOLE FABRIC SHOES",
@@ -498,28 +468,10 @@
     "link": "https://www.zara.com/in/en/ribbed-tank-top-p00679320.html?v1=232602403"
   },
   {
-    "name": "BASIC SWEATSHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basic-sweatshirt-p03443300.html?v1=222748489"
-  },
-  {
     "name": "SKINNY CHINO TROUSERS",
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/skinny-chino-trousers-p06085383.html?v1=223621642"
-  },
-  {
-    "name": "BASIC SWEATSHIRT",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basic-sweatshirt-p03443300.html?v1=222748495"
-  },
-  {
-    "name": "BASIC JOGGING TROUSERS",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basic-jogging-trousers-p00761301.html?v1=222706735"
   },
   {
     "name": "COMFORT COAT",
