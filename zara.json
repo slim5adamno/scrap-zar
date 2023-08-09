@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
+    "name": "TEXTURED T-SHIRT",
+    "price": 59000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/textured-t-shirt-p02518401.html?v1=245895508"
+  },
+  {
     "name": "CONTRAST POLO SWEATSHIRT",
     "price": 59000,
     "discount": 79,
@@ -22,6 +28,12 @@
     "price": 199000,
     "discount": 77,
     "link": "https://www.zara.com/in/en/leather-shoes-p12425020.html?v1=248883280"
+  },
+  {
+    "name": "GEOMETRIC PRINT SWIMMING TRUNKS",
+    "price": 59000,
+    "discount": 77,
+    "link": "https://www.zara.com/in/en/geometric-print-swimming-trunks-p02634300.html?v1=280531480"
   },
   {
     "name": "LEATHER TASSEL LOAFERS",
@@ -84,22 +96,40 @@
     "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html?v1=222756617"
   },
   {
-    "name": "RUNNING TRAINERS WITH CHUNKY SOLES",
-    "price": 129000,
-    "discount": 71,
-    "link": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html?v1=222702918"
-  },
-  {
     "name": "LEATHER MINI CROSSBODY BAG",
     "price": 179000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/leather-mini-crossbody-bag-p13905020.html?v1=248883214"
   },
   {
+    "name": "SOFT TOTE",
+    "price": 179000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/soft-tote-p13309120.html?v1=223553935"
+  },
+  {
     "name": "LEATHER CROSSBODY BAG",
     "price": 179000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657924"
+  },
+  {
+    "name": "TECHNICAL BOWLING BAG",
+    "price": 179000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/technical-bowling-bag-p13108120.html?v1=222761831"
+  },
+  {
+    "name": "BAGGY FIT JEANS",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/baggy-fit-jeans-p03175491.html?v1=259629921"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/striped-shirt-p01063055.html?v1=273564263"
   },
   {
     "name": "SHIRT WITH CONTRAST EMBROIDERY",
@@ -174,6 +204,12 @@
     "link": "https://www.zara.com/in/en/technical-jacket-with-pockets-p05320333.html?v1=231141353"
   },
   {
+    "name": "MATCHING LABEL SWEATSHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/matching-label-sweatshirt-p04087445.html?v1=222679579"
+  },
+  {
     "name": "MULTI-PIECE RUNNING SNEAKERS",
     "price": 199000,
     "discount": 66,
@@ -192,6 +228,12 @@
     "link": "https://www.zara.com/in/en/relaxed-fit-blazer-p08574331.html?v1=247655371"
   },
   {
+    "name": "CONTRAST LEATHER XL CROSSBODY BAG",
+    "price": 599000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/contrast-leather-xl-crossbody-bag-p13311120.html?v1=244863557"
+  },
+  {
     "name": "SPLIT SUEDE LEATHER SNEAKERS",
     "price": 159000,
     "discount": 65,
@@ -202,6 +244,12 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/strappy-sandals-p12709120.html?v1=250109213"
+  },
+  {
+    "name": "MULTI-PIECE CONTRAST SNEAKERS",
+    "price": 159000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/multi-piece-contrast-sneakers-p12242020.html?v1=222770534"
   },
   {
     "name": "MINI CROSSBODY BAG",
@@ -240,10 +288,22 @@
     "link": "https://www.zara.com/in/en/split-suede-leather-ankle-boots-p12006120.html?v1=222766554"
   },
   {
+    "name": "PREMIUM SWEATSHIRT",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/premium-sweatshirt-p00761438.html?v1=235217740"
+  },
+  {
     "name": "SKINNY CHINO TROUSERS",
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/skinny-chino-trousers-p06085383.html?v1=223621642"
+  },
+  {
+    "name": "BASIC SWEATSHIRT",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/basic-sweatshirt-p03443300.html?v1=222748495"
   },
   {
     "name": "SLIPPERS",
@@ -280,6 +340,12 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/check-overshirt-p03717450.html?v1=236867252"
+  },
+  {
+    "name": "WATER-REPELLENT TECHNICAL JACKET",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/water-repellent-technical-jacket-p01538303.html?v1=222770423"
   },
   {
     "name": "MONOCHROME TRAINERS",
