@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
+    "name": "BALLOON FIT JEANS",
+    "price": 99000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/balloon-fit-jeans-p06186405.html?v1=246301682"
+  },
+  {
     "name": "CONTRAST POLO SWEATSHIRT",
     "price": 59000,
     "discount": 79,
@@ -34,12 +40,6 @@
     "price": 179000,
     "discount": 77,
     "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12604120.html?v1=222766959"
-  },
-  {
-    "name": "COTTON - LINEN BLAZER",
-    "price": 199000,
-    "discount": 76,
-    "link": "https://www.zara.com/in/en/cotton---linen-blazer-p04245482.html?v1=241374429"
   },
   {
     "name": "CAGE SANDALS",
@@ -102,6 +102,12 @@
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657924"
   },
   {
+    "name": "COLOUR BLOCK CROCHET SWEATER",
+    "price": 129000,
+    "discount": 67,
+    "link": "https://www.zara.com/in/en/colour-block-crochet-sweater-p03991415.html?v1=235995666"
+  },
+  {
     "name": "LEATHER MULE SANDALS",
     "price": 129000,
     "discount": 67,
@@ -132,12 +138,6 @@
     "link": "https://www.zara.com/in/en/short-sleeve-pyjama-shirt-p00775449.html?v1=249032956"
   },
   {
-    "name": "COTTON BOMBER JACKET",
-    "price": 199000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/cotton-bomber-jacket-p04302377.html?v1=261394066"
-  },
-  {
     "name": "TEXTURED JOGGER WAIST TROUSERS",
     "price": 99000,
     "discount": 66,
@@ -148,12 +148,6 @@
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/striped-shirt-p04448415.html?v1=239330638"
-  },
-  {
-    "name": "CROPPED FIT SWEATSHIRT",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/cropped-fit-sweatshirt-p00761463.html?v1=228308483"
   },
   {
     "name": "TECHNICAL JACKET",
@@ -174,12 +168,6 @@
     "link": "https://www.zara.com/in/en/strappy-sandals-p12709120.html?v1=222756392"
   },
   {
-    "name": "BASIC HOODIE",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/basic-hoodie-p00761300.html?v1=234291699"
-  },
-  {
     "name": "MINI CROSSBODY BAG",
     "price": 99000,
     "discount": 65,
@@ -190,6 +178,12 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/mini-crossbody-bag-p13638120.html?v1=227488553"
+  },
+  {
+    "name": "PRINTED KNIT T-SHIRT",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/printed-knit-t-shirt-p04805308.html?v1=293190333"
   },
   {
     "name": "SQUARE TOE SHOES",
@@ -252,12 +246,6 @@
     "link": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html?v1=222657874"
   },
   {
-    "name": "FAUX SUEDE BOMBER JACKET",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/faux-suede-bomber-jacket-p08574333.html?v1=222756835"
-  },
-  {
     "name": "EMBROIDERED SLOGAN OVERSHIRT",
     "price": 199000,
     "discount": 60,
@@ -282,10 +270,22 @@
     "link": "https://www.zara.com/in/en/soft-tote-p13313120.html?v1=248883241"
   },
   {
+    "name": "BASIC HIGH NECK SWEATER",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00304302.html?v1=222756404"
+  },
+  {
     "name": "LOOSE FIT SWEATER",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/loose-fit-sweater-p03166409.html?v1=226403803"
+  },
+  {
+    "name": "BASIC SOFT SWEATER",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/basic-soft-sweater-p00632302.html?v1=222756533"
   },
   {
     "name": "BASIC HIGH NECK SWEATER",
@@ -324,12 +324,6 @@
     "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00304302.html?v1=222756401"
   },
   {
-    "name": "PURL KNIT SWEATER",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/purl-knit-sweater-p03284340.html?v1=222687877"
-  },
-  {
     "name": "TEXTURED SWEATER",
     "price": 129000,
     "discount": 56,
@@ -340,6 +334,12 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/textured-sweater-p01775410.html?v1=222662762"
+  },
+  {
+    "name": "PURL KNIT SWEATER",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/purl-knit-sweater-p03284340.html?v1=222687877"
   },
   {
     "name": "ROUND NECK SWEATER",
