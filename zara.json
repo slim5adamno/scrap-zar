@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
+    "name": "LINEN SUIT BLAZER",
+    "price": 199000,
+    "discount": 81,
+    "link": "https://www.zara.com/in/en/linen-suit-blazer-p04467408.html?v1=243356491"
+  },
+  {
     "name": "CONTRAST POLO SWEATSHIRT",
     "price": 59000,
     "discount": 79,
@@ -30,6 +36,12 @@
     "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12604120.html?v1=222766959"
   },
   {
+    "name": "CONTRAST TECHNICAL BERMUDA SHORTS",
+    "price": 79000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/contrast-technical-bermuda-shorts-p00706423.html?v1=250827313"
+  },
+  {
     "name": "COTTON CHINO BERMUDA SHORTS",
     "price": 79000,
     "discount": 75,
@@ -40,6 +52,12 @@
     "price": 99000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/oxford-shirt-with-embroidery-of--inigo-studio-p07446467.html?v1=266420307"
+  },
+  {
+    "name": "HOODED SHIRT",
+    "price": 99000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/hooded-shirt-p04427400.html?v1=249294780"
   },
   {
     "name": "CAGE SANDALS",
@@ -66,28 +84,10 @@
     "link": "https://www.zara.com/in/en/james-coffman-graphic-print-t-shirt-p00679406.html?v1=231517673"
   },
   {
-    "name": "LEAF PRINT T-SHIRT",
-    "price": 59000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/leaf-print-t-shirt-p06224487.html?v1=253428434"
-  },
-  {
     "name": "HEART PRINT T-SHIRT",
     "price": 59000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/heart-print-t-shirt-p06224414.html?v1=229007766"
-  },
-  {
-    "name": "OVERSIZE T-SHIRT",
-    "price": 59000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html?v1=246316698"
-  },
-  {
-    "name": "OVERSIZE T-SHIRT",
-    "price": 59000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html?v1=246316699"
   },
   {
     "name": "PENNY LOAFERS",
@@ -96,16 +96,16 @@
     "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
   },
   {
-    "name": "OVERSIZE T-SHIRT",
-    "price": 59000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/oversize-t-shirt-p00722418.html?v1=246316697"
-  },
-  {
     "name": "PYJAMA SHORTS",
     "price": 79000,
     "discount": 73,
     "link": "https://www.zara.com/in/en/pyjama-shorts-p00775450.html?v1=247658300"
+  },
+  {
+    "name": "COTTON - LINEN BLAZER",
+    "price": 199000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/cotton---linen-blazer-p02675501.html?v1=249912163"
   },
   {
     "name": "OVERSIZE KNIT VEST",
@@ -144,10 +144,34 @@
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657924"
   },
   {
-    "name": "HIGH NECK KNIT T-SHIRT",
+    "name": "CREASED-EFFECT BERMUDA SHORTS",
     "price": 79000,
     "discount": 69,
-    "link": "https://www.zara.com/in/en/high-neck-knit-t-shirt-p00304405.html?v1=222692822"
+    "link": "https://www.zara.com/in/en/creased-effect-bermuda-shorts-p06103310.html?v1=278933625"
+  },
+  {
+    "name": "GEOMETRIC PRINT SHIRT",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/geometric-print-shirt-p05667140.html?v1=286106181"
+  },
+  {
+    "name": "CROPPED ABSTRACT PRINT SHIRT",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/cropped-abstract-print-shirt-p04681175.html?v1=255277737"
+  },
+  {
+    "name": "STRAPPY SANDALS WITH BUCKLE FASTENING",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/strappy-sandals-with-buckle-fastening-p12717120.html?v1=222740609"
+  },
+  {
+    "name": "SQUARE LEATHER LOAFERS",
+    "price": 299000,
+    "discount": 68,
+    "link": "https://www.zara.com/in/en/square-leather-loafers-p12650120.html?v1=223970098"
   },
   {
     "name": "LEATHER MULE SANDALS",
@@ -192,6 +216,12 @@
     "link": "https://www.zara.com/in/en/short-sleeve-pyjama-shirt-p00775449.html?v1=249032956"
   },
   {
+    "name": "GRAPHIC PRINT SWEATSHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/graphic-print-sweatshirt-p00722403.html?v1=222747671"
+  },
+  {
     "name": "STRIPED SHIRT",
     "price": 99000,
     "discount": 66,
@@ -208,6 +238,12 @@
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/technical-jacket-with-pockets-p05320333.html?v1=231141353"
+  },
+  {
+    "name": "STRIPED OXFORD SHIRT",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/striped-oxford-shirt-p05679449.html?v1=223549701"
   },
   {
     "name": "MINI CROSSBODY BAG",
@@ -238,6 +274,12 @@
     "price": 59000,
     "discount": 62,
     "link": "https://www.zara.com/in/en/ribbed-tank-top-p00679320.html?v1=232602403"
+  },
+  {
+    "name": "STRIPED ESPADRILLES",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/striped-espadrilles-p12744120.html?v1=222685921"
   },
   {
     "name": "TRAINERS WITH SOLE DETAIL",
@@ -280,12 +322,6 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/embroidered-slogan-overshirt-p04302403.html?v1=236537492"
-  },
-  {
-    "name": "CASUAL SHOES",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
   },
   {
     "name": "CHECK OVERSHIRT",
@@ -378,16 +414,16 @@
     "link": "https://www.zara.com/in/en/textured-sweater-p01775410.html?v1=222662762"
   },
   {
-    "name": "BASIC HIGH NECK SWEATER",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00304302.html?v1=222756401"
-  },
-  {
     "name": "PURL KNIT SWEATER",
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/purl-knit-sweater-p03284340.html?v1=222687877"
+  },
+  {
+    "name": "BASIC HIGH NECK SWEATER",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00304302.html?v1=222756401"
   },
   {
     "name": "ROUND NECK SWEATER",
