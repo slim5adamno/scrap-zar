@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
+    "name": "BALLOON FIT TROUSERS",
+    "price": 99000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/balloon-fit-trousers-p06861422.html?v1=246637362"
+  },
+  {
     "name": "CONTRAST POLO SWEATSHIRT",
     "price": 59000,
     "discount": 79,
@@ -106,12 +112,6 @@
     "price": 99000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/boxy-fit-technical-shirt-p07380412.html?v1=273575032"
-  },
-  {
-    "name": "LEATHER ESPADRILLES",
-    "price": 99000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/leather-espadrilles-p12747120.html?v1=237225119"
   },
   {
     "name": "SHIRT WITH CONTRAST EMBROIDERY",
@@ -240,16 +240,16 @@
     "link": "https://www.zara.com/in/en/translucent-chunky-shoes-p12409120.html?v1=231873882"
   },
   {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
-  },
-  {
     "name": "EMBROIDERED SLOGAN OVERSHIRT",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/embroidered-slogan-overshirt-p04302403.html?v1=236537492"
+  },
+  {
+    "name": "OVERSHIRT WITH POCKETS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
   },
   {
     "name": "CHECK OVERSHIRT",
@@ -334,12 +334,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00304302.html?v1=222756405"
-  },
-  {
-    "name": "BASIC SWEATER",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basic-sweater-p03284426.html?v1=222748393"
   },
   {
     "name": "BASIC SWEATER",
