@@ -1,5 +1,11 @@
 [
   {
+    "name": "WIDE FIT TROUSERS",
+    "price": 99000,
+    "discount": 82,
+    "link": "https://www.zara.com/in/en/wide-fit-trousers-p04387410.html?v1=227092239"
+  },
+  {
     "name": "LINEN SUIT BLAZER",
     "price": 199000,
     "discount": 81,
@@ -126,10 +132,22 @@
     "link": "https://www.zara.com/in/en/textured-jogger-waist-trousers-p02553410.html?v1=222748155"
   },
   {
+    "name": "TEXTURED COMFORT TROUSERS",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/textured-comfort-trousers-p00706215.html?v1=224767569"
+  },
+  {
     "name": "STRIPED SHIRT",
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/striped-shirt-p04448415.html?v1=239330638"
+  },
+  {
+    "name": "ABSTRACT PRINT SHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/abstract-print-shirt-p01063452.html?v1=233670786"
   },
   {
     "name": "TECHNICAL JACKET",
@@ -190,6 +208,12 @@
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/striped-espadrilles-p12744120.html?v1=222685921"
+  },
+  {
+    "name": "EASY CARE TEXTURED SHIRT",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p03090306.html?v1=222748594"
   },
   {
     "name": "SKINNY CHINO TROUSERS",
@@ -294,15 +318,15 @@
     "link": "https://www.zara.com/in/en/boxy-fit-overshirt-p03717400.html?v1=229721156"
   },
   {
-    "name": "CHUNKY HIGH-TOP SNEAKERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/chunky-high-top-sneakers-p12104120.html?v1=222766304"
-  },
-  {
     "name": "LINEN BLEND OVERSHIRT WITH TOPSTITCHING",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/linen-blend-overshirt-with-topstitching-p00706366.html?v1=281771348"
+  },
+  {
+    "name": "CHUNKY HIGH-TOP SNEAKERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/chunky-high-top-sneakers-p12104120.html?v1=222766304"
   }
 ]
