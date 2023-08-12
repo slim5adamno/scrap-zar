@@ -1,5 +1,11 @@
 [
   {
+    "name": "SUIT TUXEDO TROUSERS",
+    "price": 99000,
+    "discount": 83,
+    "link": "https://www.zara.com/in/en/suit-tuxedo-trousers-p01564341.html?v1=232602400"
+  },
+  {
     "name": "LINEN SUIT BLAZER",
     "price": 199000,
     "discount": 81,
@@ -12,28 +18,10 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
-    "name": "STRIPED SHIRT",
-    "price": 99000,
-    "discount": 80,
-    "link": "https://www.zara.com/in/en/striped-shirt-p05588486.html?v1=260862618"
-  },
-  {
     "name": "CONTRAST POLO SWEATSHIRT",
     "price": 59000,
     "discount": 79,
     "link": "https://www.zara.com/in/en/contrast-polo-sweatshirt-p00526350.html?v1=222762074"
-  },
-  {
-    "name": "RELAXED SUIT BLAZER",
-    "price": 199000,
-    "discount": 79,
-    "link": "https://www.zara.com/in/en/relaxed-suit-blazer-p04444794.html?v1=246597599"
-  },
-  {
-    "name": "SPLIT SUEDE LEATHER SANDALS",
-    "price": 99000,
-    "discount": 78,
-    "link": "https://www.zara.com/in/en/split-suede-leather-sandals-p12712121.html?v1=222756370"
   },
   {
     "name": "TRACK SOLE SHOES",
@@ -90,34 +78,10 @@
     "link": "https://www.zara.com/in/en/heart-print-t-shirt-p06224414.html?v1=229007766"
   },
   {
-    "name": "RUNNING TRAINERS",
-    "price": 129000,
-    "discount": 74,
-    "link": "https://www.zara.com/in/en/running-trainers-p12318120.html?v1=224226918"
-  },
-  {
     "name": "PENNY LOAFERS",
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
-  },
-  {
-    "name": "LEATHER CROSSBODY BAG WITH FOLDOVER FLAP",
-    "price": 199000,
-    "discount": 73,
-    "link": "https://www.zara.com/in/en/leather-crossbody-bag-with-foldover-flap-p13529120.html?v1=232860646"
-  },
-  {
-    "name": "KNIT ESPADRILLES",
-    "price": 79000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/knit-espadrilles-p12743120.html?v1=222685927"
-  },
-  {
-    "name": "RUNNING TRAINERS",
-    "price": 129000,
-    "discount": 71,
-    "link": "https://www.zara.com/in/en/running-trainers-p12335020.html?v1=222729263"
   },
   {
     "name": "CANVAS EXPLORER BACKPACK",
@@ -126,16 +90,16 @@
     "link": "https://www.zara.com/in/en/canvas-explorer-backpack-p13246020.html?v1=222685922"
   },
   {
-    "name": "CHUNKY LEATHER LOAFERS",
-    "price": 249000,
-    "discount": 71,
-    "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html?v1=222756617"
-  },
-  {
     "name": "VINYL EFFECT BOMBER JACKET",
     "price": 199000,
     "discount": 71,
     "link": "https://www.zara.com/in/en/vinyl-effect-bomber-jacket-p03427304.html?v1=235699294"
+  },
+  {
+    "name": "CHUNKY LEATHER LOAFERS",
+    "price": 249000,
+    "discount": 71,
+    "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html?v1=222756617"
   },
   {
     "name": "LEATHER CROSSBODY BAG",
@@ -144,16 +108,16 @@
     "link": "https://www.zara.com/in/en/leather-crossbody-bag-p13505120.html?v1=222657924"
   },
   {
-    "name": "COMFORT BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/comfort-bermuda-shorts-p00706550.html?v1=223541150"
-  },
-  {
-    "name": "CHECKED JACQUARD SHIRT",
+    "name": "SHORT SLEEVE SHIRT",
     "price": 99000,
     "discount": 69,
-    "link": "https://www.zara.com/in/en/checked-jacquard-shirt-p07545338.html?v1=262618823"
+    "link": "https://www.zara.com/in/en/short-sleeve-shirt-p07545333.html?v1=265848874"
+  },
+  {
+    "name": "ABSTRACT PRINT TEXTURED SHIRT",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/abstract-print-textured-shirt-p05792151.html?v1=288417372"
   },
   {
     "name": "LEATHER ESPADRILLES",
@@ -186,12 +150,6 @@
     "link": "https://www.zara.com/in/en/knit-jogging-trousers-p04216401.html?v1=229178010"
   },
   {
-    "name": "JOGGER WAIST TROUSERS",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/jogger-waist-trousers-p06861404.html?v1=224683444"
-  },
-  {
     "name": "SLOGAN PRINT SWEATSHIRT",
     "price": 99000,
     "discount": 66,
@@ -204,12 +162,6 @@
     "link": "https://www.zara.com/in/en/textured-jogger-waist-trousers-p02553410.html?v1=222748155"
   },
   {
-    "name": "RELAXED FIT BLAZER",
-    "price": 199000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/relaxed-fit-blazer-p08574331.html?v1=247655371"
-  },
-  {
     "name": "GRAPHIC PRINT SWEATSHIRT",
     "price": 99000,
     "discount": 66,
@@ -220,12 +172,6 @@
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/striped-shirt-p04448415.html?v1=239330638"
-  },
-  {
-    "name": "PREMIUM HOODIE",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/premium-hoodie-p04087481.html?v1=246306526"
   },
   {
     "name": "TECHNICAL JACKET",
@@ -294,28 +240,34 @@
     "link": "https://www.zara.com/in/en/split-suede-leather-ankle-boots-p12006120.html?v1=222766554"
   },
   {
-    "name": "STRIPED ESPADRILLES",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/striped-espadrilles-p12744120.html?v1=222685921"
-  },
-  {
     "name": "TRAINERS WITH SOLE DETAIL",
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/trainers-with-sole-detail-p12236120.html?v1=232185028"
   },
   {
+    "name": "STRIPED ESPADRILLES",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/striped-espadrilles-p12744120.html?v1=222685921"
+  },
+  {
+    "name": "SKINNY CHINO TROUSERS",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/skinny-chino-trousers-p06085383.html?v1=223621646"
+  },
+  {
+    "name": "EASY CARE TEXTURED SHIRT",
+    "price": 99000,
+    "discount": 61,
+    "link": "https://www.zara.com/in/en/easy-care-textured-shirt-p04694301.html?v1=257835011"
+  },
+  {
     "name": "SKINNY CHINO TROUSERS",
     "price": 99000,
     "discount": 61,
     "link": "https://www.zara.com/in/en/skinny-chino-trousers-p06085383.html?v1=223621642"
-  },
-  {
-    "name": "PREMIUM SWEATSHIRT",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/premium-sweatshirt-p00761438.html?v1=259270210"
   },
   {
     "name": "SLIPPERS",
@@ -348,22 +300,34 @@
     "link": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html?v1=222657874"
   },
   {
-    "name": "CHECK OVERSHIRT",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/check-overshirt-p03717450.html?v1=236867252"
-  },
-  {
     "name": "OVERSHIRT WITH POCKETS",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
   },
   {
+    "name": "CHECK OVERSHIRT",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/check-overshirt-p03717450.html?v1=236867252"
+  },
+  {
     "name": "SOFT TOTE",
     "price": 349000,
     "discount": 59,
     "link": "https://www.zara.com/in/en/soft-tote-p13313120.html?v1=248883241"
+  },
+  {
+    "name": "HOUNDSTOOTH PLEATED TROUSERS",
+    "price": 99000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/houndstooth-pleated-trousers-p06861721.html?v1=249569068"
+  },
+  {
+    "name": "BASIC HIGH NECK SWEATER",
+    "price": 129000,
+    "discount": 56,
+    "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00304302.html?v1=222756404"
   },
   {
     "name": "BASIC SOFT SWEATER",
@@ -400,6 +364,18 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/boxy-fit-overshirt-p03717400.html?v1=229721155"
+  },
+  {
+    "name": "ROUND NECK SWEATER",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/round-neck-sweater-p02580304.html?v1=222762162"
+  },
+  {
+    "name": "ROUND NECK SWEATER",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/round-neck-sweater-p02580304.html?v1=222762157"
   },
   {
     "name": "BOXY FIT OVERSHIRT",
