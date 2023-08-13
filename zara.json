@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
+    "name": "100% LINEN TROUSERS",
+    "price": 99000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/100-linen-trousers-p08574348.html?v1=257578700"
+  },
+  {
     "name": "CONTRAST POLO SWEATSHIRT",
     "price": 59000,
     "discount": 79,
@@ -28,12 +34,6 @@
     "price": 179000,
     "discount": 77,
     "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12604120.html?v1=222766959"
-  },
-  {
-    "name": "COMFORT PERFORMANCE TECHNICAL BLAZER",
-    "price": 199000,
-    "discount": 76,
-    "link": "https://www.zara.com/in/en/comfort-performance-technical-blazer-p07380704.html?v1=223713733"
   },
   {
     "name": "CAGE SANDALS",
@@ -58,6 +58,12 @@
     "price": 59000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/james-coffman-graphic-print-t-shirt-p00679406.html?v1=231517673"
+  },
+  {
+    "name": "CONTRAST PRINTED T-SHIRT",
+    "price": 59000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/contrast-printed-t-shirt-p01259401.html?v1=243975037"
   },
   {
     "name": "HEART PRINT T-SHIRT",
@@ -90,12 +96,6 @@
     "link": "https://www.zara.com/in/en/leather-mule-sandals-p12706220.html?v1=259860424"
   },
   {
-    "name": "TEXTURED HIGH NECK SWEATER",
-    "price": 129000,
-    "discount": 67,
-    "link": "https://www.zara.com/in/en/textured-high-neck-sweater-p01775420.html?v1=222692797"
-  },
-  {
     "name": "TECHNICAL CROSSBODY BAG",
     "price": 99000,
     "discount": 66,
@@ -120,10 +120,28 @@
     "link": "https://www.zara.com/in/en/textured-jogger-waist-trousers-p02553410.html?v1=222748155"
   },
   {
+    "name": "EMBROIDERED SWEATSHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/embroidered-sweatshirt-p00761400.html?v1=222732161"
+  },
+  {
     "name": "STRIPED SHIRT",
     "price": 99000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/striped-shirt-p04448415.html?v1=239330638"
+  },
+  {
+    "name": "GRAPHIC PRINT SWEATSHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/graphic-print-sweatshirt-p04770400.html?v1=236540927"
+  },
+  {
+    "name": "STRIPED OVERSIZE SHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/striped-oversize-shirt-p04384829.html?v1=249615968"
   },
   {
     "name": "SPLIT SUEDE LEATHER SNEAKERS",
