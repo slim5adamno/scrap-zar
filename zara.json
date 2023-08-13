@@ -1,27 +1,21 @@
 [
   {
-    "name": "100% WOOL SUIT BLAZER",
-    "price": 199000,
-    "discount": 81,
-    "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
-  },
-  {
     "name": "LINEN SUIT BLAZER",
     "price": 199000,
     "discount": 81,
     "link": "https://www.zara.com/in/en/linen-suit-blazer-p04470408.html?v1=254092265"
   },
   {
+    "name": "100% WOOL SUIT BLAZER",
+    "price": 199000,
+    "discount": 81,
+    "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
+  },
+  {
     "name": "CONTRAST POLO SWEATSHIRT",
     "price": 59000,
     "discount": 79,
     "link": "https://www.zara.com/in/en/contrast-polo-sweatshirt-p00526350.html?v1=222762074"
-  },
-  {
-    "name": "LIMITED EDITION SUIT BLAZER",
-    "price": 199000,
-    "discount": 79,
-    "link": "https://www.zara.com/in/en/limited-edition-suit-blazer-p00706216.html?v1=259318103"
   },
   {
     "name": "LEATHER SHOES",
@@ -42,10 +36,22 @@
     "link": "https://www.zara.com/in/en/cage-sandals-p12720120.html?v1=224243924"
   },
   {
+    "name": "CROCHET KNIT SHIRT",
+    "price": 79000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/crochet-knit-shirt-p04231414.html?v1=253767647"
+  },
+  {
     "name": "T-SHIRT WITH CONTRAST PATCH",
     "price": 59000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/t-shirt-with-contrast-patch-p00761436.html?v1=228977787"
+  },
+  {
+    "name": "LIGHTWEIGHT 100% WOOL SWEATER",
+    "price": 129000,
+    "discount": 74,
+    "link": "https://www.zara.com/in/en/lightweight-100-wool-sweater-p00304404.html?v1=222716657"
   },
   {
     "name": "T-SHIRT WITH PRINTED PATCH",
@@ -70,12 +76,6 @@
     "price": 129000,
     "discount": 74,
     "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
-  },
-  {
-    "name": "CHECK TEXTURE BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 72,
-    "link": "https://www.zara.com/in/en/check-texture-bermuda-shorts-p00722476.html?v1=246098835"
   },
   {
     "name": "CANVAS EXPLORER BACKPACK",
@@ -186,22 +186,16 @@
     "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756668"
   },
   {
-    "name": "CASUAL SHOES",
+    "name": "OVERSHIRT WITH POCKETS",
     "price": 199000,
     "discount": 60,
-    "link": "https://www.zara.com/in/en/casual-shoes-p12507120.html?v1=223562520"
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
   },
   {
     "name": "MONOCHROME TRAINERS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html?v1=222657874"
-  },
-  {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
   },
   {
     "name": "CHECK OVERSHIRT",
@@ -220,12 +214,6 @@
     "price": 129000,
     "discount": 56,
     "link": "https://www.zara.com/in/en/textured-sweater-p01775410.html?v1=222662762"
-  },
-  {
-    "name": "HIGH NECK SWEATER WITH ZIP",
-    "price": 129000,
-    "discount": 56,
-    "link": "https://www.zara.com/in/en/high-neck-sweater-with-zip-p03284431.html?v1=222756822"
   },
   {
     "name": "BASIC SOFT SWEATER",
