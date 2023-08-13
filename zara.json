@@ -1,5 +1,11 @@
 [
   {
+    "name": "UTILITY CARGO JEANS",
+    "price": 99000,
+    "discount": 83,
+    "link": "https://www.zara.com/in/en/utility-cargo-jeans-p06688333.html?v1=288417371"
+  },
+  {
     "name": "LINEN SUIT BLAZER",
     "price": 199000,
     "discount": 81,
@@ -34,12 +40,6 @@
     "price": 179000,
     "discount": 77,
     "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12604120.html?v1=222766959"
-  },
-  {
-    "name": "LINEN/COTTON TROUSERS",
-    "price": 99000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/linen-cotton-trousers-p08574347.html?v1=225295957"
   },
   {
     "name": "CAGE SANDALS",
@@ -136,6 +136,12 @@
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
+  },
+  {
+    "name": "RUBBERISED SHOULDER BAG",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/rubberised-shoulder-bag-p13507120.html?v1=222687898"
   },
   {
     "name": "SPLIT SUEDE LEATHER SNEAKERS",
@@ -250,5 +256,11 @@
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/boxy-fit-overshirt-p03717400.html?v1=229721155"
+  },
+  {
+    "name": "CHUNKY HIGH-TOP SNEAKERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/chunky-high-top-sneakers-p12104120.html?v1=222766304"
   }
 ]
