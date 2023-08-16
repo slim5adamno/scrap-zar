@@ -24,12 +24,6 @@
     "link": "https://www.zara.com/in/en/leather-shoes-p12425020.html?v1=248883280"
   },
   {
-    "name": "JACQUARD POLO SHIRT",
-    "price": 59000,
-    "discount": 77,
-    "link": "https://www.zara.com/in/en/jacquard-polo-shirt-p06462418.html?v1=233641888"
-  },
-  {
     "name": "LEATHER TASSEL LOAFERS",
     "price": 179000,
     "discount": 77,
@@ -46,6 +40,12 @@
     "price": 99000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/cage-sandals-p12720120.html?v1=224243924"
+  },
+  {
+    "name": "KNIT SHIRT",
+    "price": 79000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/knit-shirt-p04090414.html?v1=253377244"
   },
   {
     "name": "T-SHIRT WITH CONTRAST PATCH",
@@ -78,6 +78,24 @@
     "link": "https://www.zara.com/in/en/heart-print-t-shirt-p06224414.html?v1=229007766"
   },
   {
+    "name": "BOMBER JACKET WITH HIGH NECK",
+    "price": 199000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/bomber-jacket-with-high-neck-p06861482.html?v1=237746447"
+  },
+  {
+    "name": "PLEATED BERMUDA SHORTS",
+    "price": 79000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/pleated-bermuda-shorts-p04361689.html?v1=247167978"
+  },
+  {
+    "name": "LINEN - COTTON BLEND JACKET",
+    "price": 199000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/linen---cotton-blend-jacket-p06861446.html?v1=248175585"
+  },
+  {
     "name": "CANVAS EXPLORER BACKPACK",
     "price": 199000,
     "discount": 71,
@@ -90,28 +108,16 @@
     "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html?v1=222756617"
   },
   {
-    "name": "BOXY-FIT TECHNICAL SHIRT",
+    "name": "SHIRT WITH CONTRAST EMBROIDERY",
     "price": 99000,
     "discount": 69,
-    "link": "https://www.zara.com/in/en/boxy-fit-technical-shirt-p07380412.html?v1=273575032"
+    "link": "https://www.zara.com/in/en/shirt-with-contrast-embroidery-p03798320.html?v1=268330924"
   },
   {
     "name": "LEATHER ESPADRILLES",
     "price": 99000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/leather-espadrilles-p12747120.html?v1=237225119"
-  },
-  {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 99000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p05569377.html?v1=266392520"
-  },
-  {
-    "name": "PRINTED SHIRT",
-    "price": 99000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/printed-shirt-p04748523.html?v1=265860902"
   },
   {
     "name": "TECHNICAL CROSSBODY BAG",
@@ -126,10 +132,22 @@
     "link": "https://www.zara.com/in/en/knit-jogging-trousers-p04216401.html?v1=229178010"
   },
   {
+    "name": "PREMIUM HOODIE",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/premium-hoodie-p04087481.html?v1=246306527"
+  },
+  {
     "name": "JACKET WITH CONTRAST TOPSTITCHING",
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/jacket-with-contrast-topstitching-p00706209.html?v1=257902418"
+  },
+  {
+    "name": "SOFT DENIM JEANS",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/soft-denim-jeans-p01187425.html?v1=236161621"
   },
   {
     "name": "TEXTURED JOGGER WAIST TROUSERS",
@@ -144,16 +162,16 @@
     "link": "https://www.zara.com/in/en/abstract-print-shirt-p04371849.html?v1=246144718"
   },
   {
+    "name": "LYOCELL - COTTON SHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/lyocell---cotton-shirt-p07545488.html?v1=250814783"
+  },
+  {
     "name": "TECHNICAL JACKET",
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/technical-jacket-p07627330.html?v1=235988122"
-  },
-  {
-    "name": "STRIPED SHIRT",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/striped-shirt-p04448415.html?v1=239330638"
   },
   {
     "name": "MULTI-PIECE RUNNING SNEAKERS",
@@ -166,6 +184,12 @@
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/chunky-canvas-shoes-p12530120.html?v1=223549671"
+  },
+  {
+    "name": "STRIPED SHIRT",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/striped-shirt-p04448415.html?v1=239330638"
   },
   {
     "name": "MINI CROSSBODY BAG",
@@ -202,6 +226,12 @@
     "price": 59000,
     "discount": 62,
     "link": "https://www.zara.com/in/en/ribbed-tank-top-p00679320.html?v1=232602403"
+  },
+  {
+    "name": "FADED T-SHIRT",
+    "price": 59000,
+    "discount": 62,
+    "link": "https://www.zara.com/in/en/faded-t-shirt-p06462417.html?v1=232189518"
   },
   {
     "name": "SKINNY CHINO TROUSERS",
@@ -262,12 +292,6 @@
     "price": 349000,
     "discount": 59,
     "link": "https://www.zara.com/in/en/soft-tote-p13313120.html?v1=248883241"
-  },
-  {
-    "name": "MULTICOLOURED TECHNICAL SANDALS",
-    "price": 79000,
-    "discount": 58,
-    "link": "https://www.zara.com/in/en/multicoloured-technical-sandals-p12710120.html?v1=242949998"
   },
   {
     "name": "TEXTURED SWEATER",
