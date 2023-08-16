@@ -1,11 +1,5 @@
 [
   {
-    "name": "POPLIN SHIRT",
-    "price": 99000,
-    "discount": 83,
-    "link": "https://www.zara.com/in/en/poplin-shirt-p07545532.html?v1=244513246"
-  },
-  {
     "name": "LINEN SUIT BLAZER",
     "price": 199000,
     "discount": 81,
@@ -46,12 +40,6 @@
     "price": 399000,
     "discount": 76,
     "link": "https://www.zara.com/in/en/clarks--x-zara-leather-ankle-boots-p12080021.html?v1=222756342"
-  },
-  {
-    "name": "BERMUDA SHORTS WITH CONTRAST BELT",
-    "price": 79000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/bermuda-shorts-with-contrast-belt-p00706363.html?v1=268344843"
   },
   {
     "name": "PLEATED BERMUDA SHORTS",
@@ -96,12 +84,6 @@
     "link": "https://www.zara.com/in/en/heart-print-t-shirt-p06224414.html?v1=229007766"
   },
   {
-    "name": "XL SHOULDER BAG",
-    "price": 199000,
-    "discount": 73,
-    "link": "https://www.zara.com/in/en/xl-shoulder-bag-p13326120.html?v1=241047718"
-  },
-  {
     "name": "CANVAS EXPLORER BACKPACK",
     "price": 199000,
     "discount": 71,
@@ -112,6 +94,12 @@
     "price": 249000,
     "discount": 71,
     "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html?v1=222756617"
+  },
+  {
+    "name": "ABSTRACT PRINT SHIRT",
+    "price": 99000,
+    "discount": 69,
+    "link": "https://www.zara.com/in/en/abstract-print-shirt-p04424210.html?v1=249887340"
   },
   {
     "name": "TECHNICAL CROSSBODY BAG",
@@ -154,6 +142,12 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/mini-crossbody-bag-p13638120.html?v1=227488553"
+  },
+  {
+    "name": "OXFORD SHIRT",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/oxford-shirt-p05679448.html?v1=223549706"
   },
   {
     "name": "JACKET WITH CONTRAST TOPSTITCHING",
@@ -228,15 +222,15 @@
     "link": "https://www.zara.com/in/en/round-neck-sweater-p02580304.html?v1=222762157"
   },
   {
-    "name": "CHUNKY HIGH-TOP SNEAKERS",
-    "price": 249000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/chunky-high-top-sneakers-p12104120.html?v1=222766304"
-  },
-  {
     "name": "BOXY FIT OVERSHIRT",
     "price": 199000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/boxy-fit-overshirt-p03717400.html?v1=229721155"
+  },
+  {
+    "name": "CHUNKY HIGH-TOP SNEAKERS",
+    "price": 249000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/chunky-high-top-sneakers-p12104120.html?v1=222766304"
   }
 ]
