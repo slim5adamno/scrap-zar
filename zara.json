@@ -6,6 +6,12 @@
     "link": "https://www.zara.com/in/en/100-wool-suit-blazer-p01564900.html?v1=232600488"
   },
   {
+    "name": "LINEN BLEND BLAZER",
+    "price": 199000,
+    "discount": 81,
+    "link": "https://www.zara.com/in/en/linen-blend-blazer-p04740509.html?v1=284411940"
+  },
+  {
     "name": "LINEN SUIT BLAZER",
     "price": 199000,
     "discount": 81,
@@ -90,12 +96,6 @@
     "link": "https://www.zara.com/in/en/penny-loafers-p12601120.html?v1=222766461"
   },
   {
-    "name": "LINEN - COTTON BLEND JACKET",
-    "price": 199000,
-    "discount": 73,
-    "link": "https://www.zara.com/in/en/linen---cotton-blend-jacket-p06861446.html?v1=248175585"
-  },
-  {
     "name": "BERMUDA SHORTS WITH CONTRAST TOPSTITCHING",
     "price": 79000,
     "discount": 73,
@@ -106,6 +106,12 @@
     "price": 79000,
     "discount": 73,
     "link": "https://www.zara.com/in/en/vertical-stripe-bermuda-shorts-p01198303.html?v1=278685550"
+  },
+  {
+    "name": "TECHNICAL WINDBREAKER JACKET",
+    "price": 199000,
+    "discount": 73,
+    "link": "https://www.zara.com/in/en/technical-windbreaker-jacket-p01732305.html?v1=224133341"
   },
   {
     "name": "CROCHET KNIT BERMUDA SHORTS",
@@ -132,28 +138,22 @@
     "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html?v1=222756617"
   },
   {
+    "name": "TECHNICAL BOWLING BAG",
+    "price": 179000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/technical-bowling-bag-p13108120.html?v1=222761831"
+  },
+  {
     "name": "JOGGER BERMUDA SHORTS",
     "price": 79000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/jogger-bermuda-shorts-p00679460.html?v1=255539320"
   },
   {
-    "name": "BERMUDA SHORTS WITH CONTRAST TOPSTITCHING",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/bermuda-shorts-with-contrast-topstitching-p05520300.html?v1=278685545"
-  },
-  {
     "name": "MONOCHROME MINI CROSSBODY BAG",
     "price": 79000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/monochrome-mini-crossbody-bag-p13609121.html?v1=275107826"
-  },
-  {
-    "name": "LEATHER CARD HOLDER",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/leather-card-holder-p13807120.html?v1=222770064"
   },
   {
     "name": "ABSTRACT PRINT SHIRT",
@@ -192,12 +192,6 @@
     "link": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12309120.html?v1=222756344"
   },
   {
-    "name": "KNIT FABRIC HIGH-TOP TRAINERS",
-    "price": 159000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/knit-fabric-high-top-trainers-p12102120.html?v1=224079390"
-  },
-  {
     "name": "MINI CROSSBODY BAG",
     "price": 99000,
     "discount": 65,
@@ -213,7 +207,7 @@
     "name": "SOFT EXPLORER BACKPACK",
     "price": 179000,
     "discount": 64,
-    "link": "https://www.zara.com/in/en/soft-explorer-backpack-p13205120.html?v1=222747678"
+    "link": "https://www.zara.com/in/en/soft-explorer-backpack-p13205120.html?v1=222747677"
   },
   {
     "name": "RIBBED TANK TOP",
@@ -246,12 +240,6 @@
     "link": "https://www.zara.com/in/en/slippers-p12704120.html?v1=222756669"
   },
   {
-    "name": "MULTICOLOURED BOWLING BAG",
-    "price": 179000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/multicoloured-bowling-bag-p13110120.html?v1=222761869"
-  },
-  {
     "name": "SLIPPERS",
     "price": 99000,
     "discount": 61,
@@ -282,22 +270,10 @@
     "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
   },
   {
-    "name": "CHUNKY TRAINERS",
-    "price": 159000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/chunky-trainers-p12206120.html?v1=222674427"
-  },
-  {
     "name": "RUNNING TRAINERS",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/running-trainers-p12345020.html?v1=223753513"
-  },
-  {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
   },
   {
     "name": "MONOCHROME TRAINERS",
@@ -306,28 +282,22 @@
     "link": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html?v1=222657874"
   },
   {
+    "name": "OVERSHIRT WITH POCKETS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
+  },
+  {
     "name": "CHECK OVERSHIRT",
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/check-overshirt-p03717450.html?v1=236867252"
   },
   {
-    "name": "WATER-REPELLENT TECHNICAL JACKET",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/water-repellent-technical-jacket-p01538303.html?v1=222770423"
-  },
-  {
     "name": "SOFT TOTE",
     "price": 349000,
     "discount": 59,
     "link": "https://www.zara.com/in/en/soft-tote-p13313120.html?v1=248883241"
-  },
-  {
-    "name": "SOFT BOWLING BAG",
-    "price": 229000,
-    "discount": 59,
-    "link": "https://www.zara.com/in/en/soft-bowling-bag-p13121120.html?v1=226007130"
   },
   {
     "name": "TEXTURED SWEATER",
