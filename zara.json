@@ -30,12 +30,6 @@
     "link": "https://www.zara.com/in/en/contrast-polo-sweatshirt-p00526350.html?v1=222762074"
   },
   {
-    "name": "TEXTURED SUIT BLAZER",
-    "price": 199000,
-    "discount": 79,
-    "link": "https://www.zara.com/in/en/textured-suit-blazer-p04584298.html?v1=249253510"
-  },
-  {
     "name": "LEATHER SHOES",
     "price": 199000,
     "discount": 77,
@@ -46,12 +40,6 @@
     "price": 179000,
     "discount": 77,
     "link": "https://www.zara.com/in/en/leather-tassel-loafers-p12604120.html?v1=222766959"
-  },
-  {
-    "name": "TEXTURED TRAINING T-SHIRT",
-    "price": 59000,
-    "discount": 77,
-    "link": "https://www.zara.com/in/en/textured-training-t-shirt-p00765310.html?v1=258520280"
   },
   {
     "name": "CLARKS® x ZARA leather ankle boots",
@@ -123,6 +111,12 @@
     "name": "SLOGAN PRINT T-SHIRT",
     "price": 59000,
     "discount": 74,
+    "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p06224821.html?v1=252665124"
+  },
+  {
+    "name": "SLOGAN PRINT T-SHIRT",
+    "price": 59000,
+    "discount": 74,
     "link": "https://www.zara.com/in/en/slogan-print-t-shirt-p00962306.html?v1=278685493"
   },
   {
@@ -168,12 +162,6 @@
     "link": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html?v1=222756617"
   },
   {
-    "name": "JOGGER BERMUDA SHORTS",
-    "price": 79000,
-    "discount": 69,
-    "link": "https://www.zara.com/in/en/jogger-bermuda-shorts-p00679460.html?v1=255539320"
-  },
-  {
     "name": "CHECK COTTON SHIRT",
     "price": 99000,
     "discount": 69,
@@ -184,12 +172,6 @@
     "price": 99000,
     "discount": 69,
     "link": "https://www.zara.com/in/en/abstract-print-shirt-p00794330.html?v1=257907198"
-  },
-  {
-    "name": "WORKOUT T-SHIRT",
-    "price": 59000,
-    "discount": 68,
-    "link": "https://www.zara.com/in/en/workout-t-shirt-p04335306.html?v1=236093190"
   },
   {
     "name": "TECHNICAL CROSSBODY BAG",
@@ -240,6 +222,12 @@
     "link": "https://www.zara.com/in/en/textured-jogger-waist-trousers-p02553410.html?v1=222748155"
   },
   {
+    "name": "PLEATED CHINO TROUSERS",
+    "price": 99000,
+    "discount": 66,
+    "link": "https://www.zara.com/in/en/pleated-chino-trousers-p04840309.html?v1=222657937"
+  },
+  {
     "name": "GRAPHIC PRINT SWEATSHIRT",
     "price": 99000,
     "discount": 66,
@@ -250,12 +238,6 @@
     "price": 199000,
     "discount": 66,
     "link": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12309120.html?v1=222756344"
-  },
-  {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 99000,
-    "discount": 66,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p04458821.html?v1=245481805"
   },
   {
     "name": "STRIPED OXFORD SHIRT",
@@ -274,6 +256,12 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/oxford-shirt-p05679447.html?v1=223549702"
+  },
+  {
+    "name": "PRINTED KNIT T-SHIRT",
+    "price": 79000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/printed-knit-t-shirt-p04090410.html?v1=236540831"
   },
   {
     "name": "PRINTED KNIT T-SHIRT",
@@ -342,12 +330,6 @@
     "link": "https://www.zara.com/in/en/striped-espadrilles-p12744120.html?v1=222685921"
   },
   {
-    "name": "SKINNY CHINO TROUSERS",
-    "price": 99000,
-    "discount": 61,
-    "link": "https://www.zara.com/in/en/skinny-chino-trousers-p06085383.html?v1=223621644"
-  },
-  {
     "name": "SLIPPERS",
     "price": 99000,
     "discount": 61,
@@ -378,12 +360,6 @@
     "link": "https://www.zara.com/in/en/training-shorts-p01943401.html?v1=232602404"
   },
   {
-    "name": "SLIM FIT JEANS",
-    "price": 99000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/slim-fit-jeans-p05575440.html?v1=224004350"
-  },
-  {
     "name": "TRANSLUCENT CHUNKY SHOES",
     "price": 199000,
     "discount": 60,
@@ -396,16 +372,16 @@
     "link": "https://www.zara.com/in/en/overshirt-with-pockets-p01608504.html?v1=239694797"
   },
   {
-    "name": "OVERSHIRT WITH POCKETS",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
-  },
-  {
     "name": "MONOCHROME TRAINERS",
     "price": 159000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html?v1=222657874"
+  },
+  {
+    "name": "OVERSHIRT WITH POCKETS",
+    "price": 199000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917456.html?v1=247617958"
   },
   {
     "name": "CHECK OVERSHIRT",
